@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:/Scripts"
+		}
+	],
+	"settings": {
+		"explorer.confirmDelete": false,
+		"files.enableTrash": false
+	}
+}
