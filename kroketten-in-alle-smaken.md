@@ -11,27 +11,27 @@ Je maakt kroketten in 2 dagen:
 
 Kies en maak een vulling, bijvoorbeeld één van de varianten uit onderstaande tabel:
 
-| Variant                  | Ingrediënten                                                                                   | Gelatine    | Aanvullende kruiden/specerijen           | Opmerkingen                          |
-|--------------------------|------------------------------------------------------------------------------------------------|-------------|------------------------------------------|--------------------------------------|
-| Eenvoudig vlees          | 200 g draadjesvlees (rund, kip of kalkoen)                                                     | Nee         | Peper, snuf nootmuskaat                  | Basisvulling, zacht van smaak        |
-| Rundvlees met kruidnagel | 200 g gestoofd rundvlees, uit elkaar getrokken                                                 | Optie (4 g) | 1 kruidnagel, laurierblad, beetje foelie | Diepe, kruidige smaak, herfst/winter |
-| Champignon               | 250 g gesauteerde champignons                                                                  | Nee         | Peterselie, beetje tijm                  | Voor vegetarische kroket             |
-| Kipragout                | 200 g kipfilet, gaar en in stukjes                                                             | Nee         | Kerriepoeder of dragon                   | Klassiek alternatief                 |
-| Wildstoof (complex)      | Stoofpot: 100 g wild, 300 g ui, 300 g spek, 500 g champignons, 200 ml rode wijn, 550 ml fond.  | Ja (6–8 g)  | Laurier, tijm, jeneverbessen             | Gelatine aanbevolen voor binding     |
-| Mix                      | Combinatie van groenten en vlees/vis                                                           | Afhankelijk | Afhankelijk van samenstelling            | Creatief naar smaak                  |
+| Variant                  | Ingrediënten                                   | Gelatine    | Aanvullende kruiden/specerijen           | Opmerkingen                          |
+|--------------------------|------------------------------------------------|-------------|------------------------------------------|--------------------------------------|
+| Eenvoudig vlees          | 200 g draadjesvlees (rund, kip of kalkoen)     | Nee         | Peper, snuf nootmuskaat                  | Basisvulling, zacht van smaak        |
+| Rundvlees met kruidnagel | 200 g gestoofd rundvlees, uit elkaar getrokken | Optie (4 g) | 1 kruidnagel, laurierblad, beetje foelie | Diepe, kruidige smaak, herfst/winter |
+| Champignon               | 250 g gesauteerde champignons                  | Nee         | Peterselie, beetje tijm                  | Voor vegetarische kroket             |
+| Kipragout                | 200 g kipfilet, gaar en in stukjes             | Nee         | Kerriepoeder of dragon                   | Klassiek alternatief                 |
+| Wildstoof (complex)      | Stoofpot: 100 g wild, 300 g ui, 300 g spek,<br>500 g champignons, 200 ml rode wijn, 550 ml fond.  | Ja (6–8 g)  | Laurier, tijm, jeneverbessen             | Gelatine aanbevolen voor binding     |
+| Mix                      | Combinatie van groenten en vlees/vis           | Afhankelijk | Afhankelijk van samenstelling            | Creatief naar smaak                  |
 
 Scheid vloeibaar deel van de vaste delen; zorg dat je ongeveer 600 ml vocht krijgt.  
 
 De gelatine is nodig voor extra binding, als er (te)veel vocht is, of grote stukken vaste stof. Je gebruikt hem bij de verdere bereiding.
 
-| Situatie                                               | Gelatine gebruiken? | Hoeveelheid (voor 600 ml vocht) | Opmerking                                           |
-|-------------------------------------------------------|-------------------|---------------------------------|---------------------------------------------------|
-| Compacte ragout (vlees, kip, champignon)             | Nee               | 0 g                             | Roux geeft voldoende binding                      |
-| Vochtige/losse vulling (wildstoof, garnalen, zeevruchten) | Ja                | 6–8 g (3–4 blaadjes)           | Geeft stevige, maar niet rubberige binding        |
-| Licht kruidige stoof (rundvlees + specerijen)        | Optioneel         | 4 g                             | Voor extra stevigheid zonder smaak te beïnvloeden |
-| Mix van groente + vlees/vis                           | Afhankelijk       | 0–8 g, naar behoefte            | Afhankelijk van vocht- en structuurgehalte       |
+| Situatie                                                  | Gelatine?   | Hoeveelheid<br>(voor 600 ml vocht) | Opmerking                                         |
+|-----------------------------------------------------------|-------------|------------------------------------|---------------------------------------------------|
+| Compacte ragout (vlees, kip, champignon)                  | Nee         | 0 g                                | Roux geeft voldoende binding                      |
+| Vochtige/losse vulling (wildstoof, garnalen, zeevruchten) | Ja          | 6–8 g (3–4 blaadjes)               | Geeft stevige, maar niet rubberige binding        |
+| Licht kruidige stoof (rundvlees + specerijen)             | Optioneel   | 4 g                                | Voor extra stevigheid zonder smaak te beïnvloeden |
+| Mix van groente + vlees/vis                               | Afhankelijk | 0–8 g, naar behoefte               | Afhankelijk van vocht- en structuurgehalte        |
 
-**Ingredienten**  
+**Ingredïenten**  
 - 80 g boter  
 - 90 g bloem  
 - 600 ml vocht (bouillon/stoofvocht)  
@@ -48,7 +48,7 @@ De gelatine is nodig voor extra binding, als er (te)veel vocht is, of grote stuk
 
 ## Dag 2: Kroketten vormen en afbakken
 
-**Ingredienten**  
+**Ingredïenten**  
 - 50 g bloem  
 - 2 eieren (losgeklopt)  
 - 150 g paneermeel  

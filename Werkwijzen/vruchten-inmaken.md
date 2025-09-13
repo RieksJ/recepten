@@ -4,7 +4,7 @@ Recept voor het inmaken van pruimen, mirabellen en reine claudes zodat ze lange 
 Dit recept gebruikt een minimale hoeveelheid suiker voor langere houdbaarheid.
 De ingemaakte vruchten kunnen eventueel gepureerd worden - dan heb je dus vruchtenpuree.
 
-De hoeveelheid ingredienten zijn zo gekozen dat ze gemakkelijk kunt aanpassen voor elke andere hoeveelheid vruchten.
+De hoeveelheid ingredïenten zijn zo gekozen dat ze gemakkelijk kunt aanpassen voor elke andere hoeveelheid vruchten.
 
 ## Ingrediënten
 

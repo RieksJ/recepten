@@ -35,8 +35,8 @@ inhoud:
 # Algemene template-instructies
 template_instructies:
   - alle placeholders {…} worden door mij ingevuld of geüpdatet op basis van jouw vraag of voorbeeld
-  - volgorde van ingredienten en stappen blijft synchroon
-  - hoeveelheden ingredienten altijd consistent met eindgewicht
+  - volgorde van ingredïenten en stappen blijft synchroon
+  - hoeveelheden ingredïenten altijd consistent met eindgewicht
   - vaktermen en jargon worden waar nodig toegevoegd en uitgelegd
   - markdown formatting (lijsten, tabellen, koppen) wordt consistent gehouden
   - YAML kan aangepast worden, ik pas invullingen en updates direct aan
@@ -52,15 +52,15 @@ hoofdstukken:
         d: lagen en hoogte van lagen afgerond op halve cm
         e: totale hoogte afgerond op halve cm
     - extra context: smaakprofiel, gebruiksmoment, moeilijkheidsgraad
-  ingredienten:
+  ingredïenten:
     - groeperen volgens de volgorde van gebruik in de bereiding
     - volgorde binnen een groep = volgorde van gebruik
     - hoeveelheden altijd in grammen
     - praktische hoeveelheden tussen haakjes (bijv. "1 M-ei", "1 zakje gist")
-    - optionele ingredienten duidelijk markeren
-    - som van alle ingredienten = eindgewicht
+    - optionele ingredïenten duidelijk markeren
+    - som van alle ingredïenten = eindgewicht
   bereiden:
-    - genummerde stappen in sync met ingredientengroepen
+    - genummerde stappen in sync met ingredïentengroepen
     - concreet en meetbaar
     - korte tips om fouten te voorkomen
     - expliciete toetsen toevoegen waar nodig (proeven, ruiken, zien, horen)
@@ -96,8 +96,8 @@ markdown:
   - geen enkele regel eindigt met een spatie of tab
 
 consistentie:
-  - volgorde ingredienten == volgorde stappen
-  - hoeveelheden ingredienten == eindgewicht
+  - volgorde ingredïenten == volgorde stappen
+  - hoeveelheden ingredïenten == eindgewicht
   - alle in het recept gebruikte vaktermen beschreven in 'terminologie'
   - veelgemaakte fouten, oorzaken, remedies beschreven
   - positieve indicatoren en toetsmomenten consistent

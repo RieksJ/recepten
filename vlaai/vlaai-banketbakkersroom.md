@@ -38,7 +38,7 @@ Je kunt hem laten afkoelen en bewaren in de koelkast. Als hij koel is en je wil 
 
 ## Tips
 
-- Je kunt een beetje varieren met hoeveelheden van ingredienten. ***Dat moet ik nog verder uitzoeken***.
+- Je kunt een beetje varieren met hoeveelheden van ingredïenten. ***Dat moet ik nog verder uitzoeken***.
   
 ---
 

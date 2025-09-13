@@ -68,7 +68,7 @@ Dit vlaai-recept is gebaseerd op een aantal onderdelen die je naar believen kunt
     - walnootstukjes. Je kunt ook met het H/W-mengsel een strak, recht pad over de cake maken en daar kleine walnootstukjes in drukken (of iets kroms...).
     - eetbare bloemen (viooltje, korenbloemen).
   - gezeefde poedersuiker, optioneel gestrooid door een klein sjabloon.
-  - insmeren met wat roomkaasglazuur (Ingredienten: 100g volle roomkaas, 30g zachte boter, 30g honing/poedersuiker, optioneeel: 1g vanillepoeder of rasp van halve citroen. Recept: alles glad mengen, licht afkoelen en (met paletmes) op de cake smeren, evt. met spateltje een golf- of streeppatroon maken).
+  - insmeren met wat roomkaasglazuur (Ingredïenten: 100g volle roomkaas, 30g zachte boter, 30g honing/poedersuiker, optioneeel: 1g vanillepoeder of rasp van halve citroen. Recept: alles glad mengen, licht afkoelen en (met paletmes) op de cake smeren, evt. met spateltje een golf- of streeppatroon maken).
   - mini-worteltjes van marsepein (of oranje/witte fondant).
   - ee
 
