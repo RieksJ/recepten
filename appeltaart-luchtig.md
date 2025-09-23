@@ -1,4 +1,4 @@
-# {naam van eindproduct}
+# Luchtige appeltaart met amandelmeel
 
 <!-- Regels voor het maken/wijzigen van een recept volgens dit recept-template:
 - een recept is een markdown tekst die de structuur van dit recept-template heeft, en is gemaakt/gewijzigd met inachtneming van de regels.
@@ -14,14 +14,13 @@
   - in elk hoofstuk van dit template zijn (als HTML commentaren) regels gegeven die voor dat hoofdstuk gelden en daar secuur moeten worden gevolgd.
   - de commentaarblokken met regels moeten in het recept terugkomen. Als ze niet bestonden moeten ze worden toegevoegd. Als ze wel bestonden mogen ze niet worden gewijzigd of verwijderd.
   - teksten tussen haakjes `{` en `}` dienen te worden ingevuld volgens de beschrijving die tussen die haakjes is gegeven.
-- Nadat een hoofdstuk is gegenereerd moet worden gecontroleerd of de regels ook daadwerkelijk zijn gevolgd, en als blijkt dat dit niet het geval is, dan moet het hoofstuk herschreven worden totdat dit wel het geval is.
-- **Consistentiechecks**: Nadat een recept is gemaakt/gewijzigd moet je de consistentie ervan controleren, in het bijzonder:
+- nadat een hoofdstuk is gegenereerd moet worden gecontroleerd of de regels ook daadwerkelijk zijn gevolgd, en als blijkt dat dit niet het geval is, dan moet het hoofstuk herschreven worden totdat dit wel het geval is.
+- nadat een recept is gemaakt/gewijzigd moet je de consistentie ervan controleren, in het bijzonder:
   - dat de afmetingen van de verschillende presentatievormen onderling consistent zijn, d.w.z. dat het volume ervan steeds gelijk is aan dat van het eindproduct zoals dat volgens het recept ontstaat.
-  - dat elke (vak)term die in het recept wordt gebruikt, beschreven is in het hoofdstuk 'Vaktermen'.
-  - dat elke (vak)term die in het hoofstuk 'Vaktermen' beschreven is, ook daadwerkelijk elders in het recept wordt gebruikt (zo niet, dan verwijder je de term uit de lijst van vaktermen).
+  - dat alle (vak)termen die in het recept worden gebruikt, zijn beschreven in het hoofdstuk 'Vaktermen'.
 -->
 
-Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigenschappen}
+Dit recept levert een luchtige appeltaart met amandelmeel en veel appel, niet te zoet, met frisse smaak en zachte structuur.
 
 ## Eindproduct
 
@@ -43,15 +42,14 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
     - controleer dat de inhoud van de presentatievorm nog steeds ongeveer gelijk is aan het volume van het eindproduct.
 -->
 
-- {hoeveelheid, in termen van aantal personen of andere in de praktijk handige gebruikseenheid}
-- {gewicht (in gram) en inhoud (in liter) van het eindproduct}
-- {rechthoekige presentatievorm}
-- {ronde presentatievorm}
-- {optioneel: andere bruikbare/leuke/mooie presentatievormen}
+- Voor 10–12 personen
+- Gewicht: ≈ 1700 g  
+- Inhoud: ≈ 1,7 L
+- Rond, Ø 24 cm, hoogte ≈ 3,5–4 cm
+- Rechthoek, 24×24 cm, hoogte ≈ 3 cm
 
-{lijst van bewaarmogelijkheden (plaats, bewaartermijn) voor het eindproduct}
-
-{gebruiksmogelijkheden eindproduct, bijv. als onderdeel van andere producten}
+Bewaren: luchtdicht verpakt 2 dagen op kamertemperatuur, 4 dagen in de koelkast, tot 3 maanden in de diepvries.  
+Gebruik: als gebak bij koffie of thee, of als nagerecht met slagroom of hangop.
 
 ## Ingrediënten
 
@@ -73,37 +71,40 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - de ingredïentenblokken zijn geordend zoals ze worden gebruikt, dus als blok n wordt gebruikt in stap p, dan wordt blok n+1 gebruikt in stap p+k.
 -->
 
-<!-- Regels voor benodigdheden:
-- een recept kan een ingredïentenblok bevatten dat 'Benodigdheden' heet.
-- als dit ingredïentenblok voorkomt, is dat het laatste ingredïentenblok.
-- de 'ingredïenten' zijn zaken die nodig zijn voor de bereiding, zoals een kom, spatel, keukenmachine, bakvorm van 20 cm doorsnee, e.d.
-- als voor een van de benodigdheden alternatieven kunnen worden gebruikt, dan worden die (tussen haakjes) benoemd.
--->
+- Appels:
+  - 1150 g appels (bijv. goudrenetten of notarisappelen), geschild
+  - 850 g in plakjes van 3–4 mm
+  - 300 g in blokjes van 10×10 mm
 
-<!-- Voorbeeld:
 - Droge mengsel:
-  - 100 gram havermeel  
-  - 10 gram boekweitmeel  
-  - 70 gram amandelmeel  
-  - 8 gram bakpoeder, gezeefd (1 zakje)
-  - 2,4 gram kaneel  
+  - 180 g amandelmeel
+  - 140 g bloem
+  - 14 g bakpoeder, gezeefd (1 zakje)
+  - 2 g zout
+  - 4 g kaneelpoeder (optioneel)
 
-- Eimengsel:
-  - 75 gram ei (2,5 eieren L), op kamertemperatuur
-  - 50 gram honing
-  - 75 gram kokosolie (of neutrale olie)
-  - Snuf zout
+- Dooiermengsel:
+  - 125 g eidooiers (≈ 7 eidooiers, maat M), op kamertemperatuur
+  - 80 g kristalsuiker
+  - 110 g roomboter, zacht (of plantaardige margarine)
+  - 8 g vanille-extract
+  - 5 g citroenrasp (optioneel)
+
+- Eiwitten:
+  - 210 g eiwitten (≈ 7 eiwitten, maat M), op kamertemperatuur
+  - 70 g kristalsuiker
+  - 1 g zout
 
 - Benodigdheden:
-  - rasp
-  - hakmes of notenmaler of deegroller
-  - deegkom
-  - garde of mixer of keukenmachine
+  - springvorm Ø 24 cm of bakvorm 24×24 cm, ingevet en bekleed met bakpapier
+  - 2 mengkommen
+  - mixer met gardes
   - spatel
-  - bakvorm (metaal met bakbapier, of siliconenvorm)
-  - prikker (of vork)
+  - zeef
+  - rasp
+  - oven, voorverwarmd op 175 °C (boven-/onderwarmte)
+  - prikker of satépen
   - rooster
--->
 
 ## Bereiding
 
@@ -127,18 +128,54 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - de naam van een bereiding van een tussenresultaat mag worden gebruikt als ware het de specificatie van een stap.
 -->
 
-<!-- Voorbeeld:
-1. Vulling: rasp de wortel, snijd de appel in (niet al te) kleine stukjes, hak walnoten (grof) en doe alles in een kom.
-2. Verwarm de oven voor op 175°C (o/b-warmte).
-3. Klop de eieren met honing en olie tot een romig mengsel, in een grote kom.
-4. Zeef en meng intussen havermeel, boekweitmeel, amandelmeel, bakpoeder, kaneel en zout.
-5. Spatel het droge mengsel door het eimengsel.
-6. Voeg vulling toe, meng voorzichtig.
-7. Vet een cakevorm goed in, ook siliconenvormen (of bekleed met bakpapier), schep het beslag in de cakevorm, strijk glad.
-8. Bak 40-50 minuten tot een prikker schoon uitkomt.
-9. Laat goed afkoelen (15-20 minuten, zodat de cake stevig wordt) en stort daarna op een rooster.
-10. Je kunt evt. nog versieren.
--->
+1. Verwarm de oven voor op 175 °C (boven-/onderwarmte). Vet de bakvorm in en bekleed met bakpapier.  
+   Resultaat: voorbereide vorm.  
+   Toets: bakpapier ligt vlak, geen plooien.  
+   Tip: knip bakpapier rond uit zodat de randen netjes aansluiten.
+
+2. Meng het droge mengsel: zeef bloem en bakpoeder, voeg amandelmeel, zout en kaneel toe.  
+   Resultaat: luchtig, klontvrij mengsel.  
+   Toets: geen klontjes zichtbaar.  
+   Tip: zorg dat amandelmeel niet samengepakt is.
+
+3. Klop de eidooiers met suiker, boter, vanille en citroenrasp romig in een grote kom.  
+   Resultaat: licht en romig dooiermengsel.  
+   Toets: kleur lichter, textuur luchtig.  
+   Tip: boter moet zacht zijn, anders blijven er klontjes.
+
+4. Spatel het droge mengsel door het dooiermengsel.  
+   Resultaat: dik beslag.  
+   Toets: beslag homogeen, geen droge strepen.  
+   Tip: meng niet te lang, om luchtigheid te bewaren.
+
+5. Klop de eiwitten met zout tot lobbig, voeg dan suiker in 3 porties toe en klop stijf.  
+   Resultaat: stevig eiwitschuim met glans.  
+   Toets: garde rechtop → stevige pieken.  
+   Tip: kom moet vetvrij zijn, anders worden eiwitten niet stijf.
+
+6. Vouw het eiwitschuim voorzichtig door het beslag.  
+   Resultaat: luchtig, homogeen beslag.  
+   Toets: geen klonten eiwit zichtbaar.  
+   Tip: werk met spatel, niet roeren.
+
+7. Spatel de blokjes appel door het beslag.  
+   Resultaat: beslag met gelijkmatig verdeelde stukjes appel.  
+   Toets: blokjes niet allemaal onderin.  
+   Tip: dep blokjes droog zodat er geen vocht vrijkomt.
+
+8. Doe beslag in de vorm, strijk glad, leg plakjes appel in decoratief patroon bovenop.  
+   Resultaat: mooi verdeelde taart.  
+   Toets: oppervlak vlak, plakjes gelijkmatig verdeeld.
+
+9. Bak 50–65 min in het midden van de oven.  
+   Resultaat: goudbruine taart, gaar vanbinnen.  
+   Toets: prikker komt er droog uit.  
+   Tip: controleer vanaf 50 min, elke oven is anders.
+
+10. Laat 10 min afkoelen in de vorm, stort dan uit op een rooster.  
+    Resultaat: taart stevig en los van vorm.  
+    Toets: komt zonder scheuren uit de vorm.  
+    Tip: niet te vroeg storten, anders breekt de taart.
 
 ---
 
@@ -152,50 +189,12 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - er zijn tips die vertellen hoe je veel gemaakte fouten het best kunt herstellen.
 -->
 
-<!-- Voorbeeld:
-- het dooiermengsel kun je niet stukkloppen, dus je kunt het meteen aanzetten.
-- zeef het bakpoeder. In een zakje wil het nog wel wat geklonterd zijn, en zulke klontjes wil je niet in je deeg.
-- bij kokosolie: zorg dat er geen grote klonten in het eimengsel komen te zitten; verwarm desnoods even in magnetron, en laat zo nodig afkoelen (het mag max 30-40°C zijn), zodat het ei niet al stolt als je het toevoegt en gaat kloppen.
-- als het beslag erg nat lijkt (door de appel of wortel) kun je 10–20g extra amandelmeel (of havermeel) toevoegen, of 10g maizena.
-- je kunt het eiwit apart opkloppen voor (extra) luchtigheid, maar het is niet nodig. Als je dat doet:
-  - vouw je het geklopte eiwit door het beslag nadat je de vulling hebt toegevoegd (dus als laatste).
-  - Stijf geklopte eiwitten (stevige pieken) geven maximale luchtigheid, maar mengen minder goed (klonteren/breken sneller bij het vouwen) en kunnen grote luchtbellen veroorzaken waardoor je cake broos wordt en makkelijker instort.
-  - Lobbig geklopte eiwitten (zachte pieken) mengen makkelijker, geven iets minder luchtigheid, maar zijn stabieler wat een vastere structuur oplevert en minder risico op uit elkaar vallen.
--->
-
----
-
-## Versieren
-
-<!-- Regels voor 'Versieren':
-- dit hoofdstuk bestaat alleen als het eindproduct zich leent om te worden versierd.
-- dit hoofdstuk bevat een onderdeel "Voor het bakken" (of "Voor het koelen") als versierselen aangebracht kunnen worden voor het bakken of koelen.
-- dit hoofdstuk bevat een onderdeel "Na het bakken" (of "Na het koelen") als versierselen aangebracht kunnen worden na het bakken of koelen.
-- dit hoofdstuk kan andere onderdelen bevatten als dat logisch is.
-- elk onderdeel van dit hoofdstuk bevat een lijst van mogelijkheden om het eindproduct te versieren, zodat een overzicht ontstaat van al die mogelijkheden.
-- als een mogelijkheid om het eindproduct te versieren een product bevat dat eenvoudig gemaakt kan worden, dan wordt ofwel de lijst van ingredïenten en een korte werkwijze hiervoor gegeven, ofwel een verwijzing naar het recept.
--->
-
-<!-- Voorbeeld:
-- Voor het bakken:
-  - halve walnoten bovenop het beslag drukken (licht indrukken zodat ze deels blijven uitesteken)
-  - schijfjes appel of wortellintjes (heel dun): leg er 2-3 decoratief in een waaier bovenop. Zo nodig bestrijken met olie of honing zodat ze niet uitdrogen.
-
-- Na het bakken:
-  - Maak een beetje honing/water (H/W)-mengsel (2:1), smeer de cake in 'plak' daar 'versierseltjes' op, en smeer die ook in, zoals.
-    - sliertjes wortel of sinaasappelschil - kort blancheren, oprollen tot roosjes.
-    - geraspte sinaasappelschil.
-    - walnootstukjes. Je kunt ook met het H/W-mengsel een strak, recht pad over de cake maken en daar kleine walnootstukjes in drukken (of iets kroms...).
-    - eetbare bloemen (viooltje, korenbloemen).
-  - gezeefde poedersuiker, optioneel gestrooid door een klein sjabloon.
-  - insmeren met wat roomkaasglazuur (Ingredïenten: 100g volle roomkaas, 30g zachte boter, 30g honing/poedersuiker, optioneeel: 1g vanillepoeder of rasp van halve citroen. Recept: alles glad mengen, licht afkoelen en (met paletmes) op de cake smeren, evt. met spateltje een golf- of streeppatroon maken).
-  - mini-worteltjes van marsepein (of oranje/witte fondant).
-
-- Wat ook kan:
-  - twee platte vormen bakken of de cake horizontaal doorsnijden, en de delen op elkaar stapelen met daartussen bijvoorbeeld roomkaascrème, wortelmousse of gegeleerde sinaasappel.
-  - dunne krullen of schotsen van witte of pure chocolade.
-  - getempereerde suikerdecoraties: druppels of spiralen van gekookte suiker.
--->
+- Gebruik stevige, zure appels (goudrenetten of notarisappelen) voor balans met de luchtige cake.  
+- Laat de plakjes appel dun (3–4 mm), anders zakken ze en worden ze soppig.  
+- Dep de blokjes appel droog met keukenpapier zodat er minder vocht in het beslag komt.  
+- Meng eiwit altijd met spatel, niet roeren → behoud luchtigheid.  
+- Controleer oven vroegtijdig: te lang bakken maakt de taart droog.  
+- Bij een te nat resultaat: 5–10 min langer bakken met folie over de taart.
 
 ---
 
@@ -206,14 +205,27 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - De tabel beschrijft problemen, hoe die te herkennen op basis van concrete criteria, hoe het probleem als het zich voordoet kan worden hersteld, en wat je met het problematiche deelproduct kan doen als het net 'gered' kan worden.
 -->
 
+| Probleem          | Herkenning                          | Redding                               | Herbestemming                  |
+|-------------------|-------------------------------------|---------------------------------------|--------------------------------|
+| Te nat na baktijd | Prikker komt er nat uit             | 5–10 min langer bakken met folie       | Serveren als warme pudding     |
+| Ingestorte taart  | Zakt in na bakken                   | Oorzaak: te vroeg uit oven of eiwit te slap | Gebruik als trifle met room |
+| Droog gebakken    | Korrelig mondgevoel, harde korst    | Volgende keer korter bakken            | Verkruimelen als topping        |
+| Appels zakken     | Alle stukken onderin                | Appelblokjes voor het mengen met bloem bestuiven | Serveren als “omgekeerde” taart |
+
 ---
 
 ## Vaktermen
 
 <!-- Regels voor 'Vaktermen'
-- Beschrijf alle (vak)termen die daadwerkelijk in het recept worden gebruikt, zoals: 'tempereren (van gelatine)', 'tempereren (van chocolade)', 'half-opgesteven', 'lobbig', 'spatelen', 'vouwen', enz.
+- Beschrijf alle (vak)termen die in het recept worden gebruikt, zoals: 'tempereren (van gelatine)', 'tempereren (van chocolade)', 'half-opgesteven', 'lobbig', 'spatelen', 'vouwen', enz.
 - Als een vakterm wordt gebruikt om een specifiek resultaat of een specifieke eigenschap aan te geven, dan wel ertoe moet leiden dat zo'n resultaat of eigenschap ontstaat, dan bevat de beschrijving concrete criteria op basis waarvan kan worden vastgesteld of het specifieke resultaat of eigenschap bestaat of is ontstaan.
 -->
+
+- **Spatelen**: met een spatel voorzichtig door beslag bewegen (snijdend en heffend) om luchtigheid te behouden.  
+- **Vouwen**: techniek waarbij twee mengsels worden gecombineerd door het ene mengsel steeds van onder naar boven over het andere te tillen.  
+- **Lobbig**: toestand van opgeklopt eiwit waarbij zachte pieken blijven staan maar nog iets doorzakken.  
+- **Stijf opgeklopt**: toestand van eiwit waarbij pieken rechtop blijven staan en glanzend zijn.  
+- **Prikkerproef**: test op gaarheid; een houten prikker moet er droog uitkomen zonder beslagresten.  
 
 ---
 
@@ -224,10 +236,5 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - Als dit hoofdstuk geen ervaringen bevat, verzin je een of twee ervaringen die een beginnend student gehad zou kunnen hebben, en de lessen die daaruit te trekken zijn.
 -->
 
-<!-- Voorbeeld:
-De eerste keer dat ik dit maakte had ik 2 L-eieren (44g aan dooiers), 90g havermeel, 15g boekweitmeel en 45g amandelmeel. Dat levert een lekker baksel op maar er moet zeker niet meer boekweitmeel in - een beetje extra honing of meer appeltjes mag wel. Maar de cake was ook wel heel erg luchtig: doordat ik hem te vroeg heb gestort viel hij uit elkaar.
-
-De tweede keer gebruikte ik een siliconen cupcake vorm, en hazelnoten ipv walnoten. Ik heb ze na het grof hakken 'gebruneerd', en 3 (gebruneerde) hazelnoten in het deeg van elke cupcake gedrukt. De vorm heb ik op een ovenrooster gezet. Je moet wel korter bakken, maar ik weet niet meer hoelang. Ik heb ze flink laten afkoelen en ze gingen erg gemakkelijk uit de vorm. Ze zijn niet zo goed gerezen - mogelijk omdat ik de eiwitten niet meer apart opklop. Recept aangepast en hoeveelheid bakpoeder wat verhoogd.
-
-De derde keer heb ik de hoeveelheden wat preciezer afgewogen, en weer (gebruneerde) hazelnoten gebruikt ipv walnoten. Toen ik de cupcakes in de voorverwarmde oven zette kwam ik er op een gegeven moment achter dat hij was uitgegaan; ik heb hem maar weer aangezet, de cupcakes erin laten zitten en met 30 min. waren ze mooi gaar en bruin. Na een tijdje afkoelen kwamen ze toch niet allemaal netjes uit de vorm - wellicht toch te kort laten afkoelen. Ze smaken heerlijk.
--->
+De eerste keer bleef de taart wat nat: oplossing was 10 minuten langer bakken met aluminiumfolie.  
+De tweede keer zakten de appels: vooraf met een beetje bloem bestuiven voorkwam dit.  
