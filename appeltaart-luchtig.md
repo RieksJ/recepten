@@ -11,7 +11,7 @@
   - als een kolom een korte inhoud heeft, zoals een gewicht, een maat, een kleur oid, dan wordt die kolom gecentreerd uitgelijnd.
   - rijen worden als dat mogelijk is gesorteerd volgens een criterium dat hout snijdt voor een leerling bakker.
 - Regels voor het maken/wijzigen van een recept:
-  - in elk hoofstuk van dit template zijn (als HTML commentaren) regels gegeven die voor dat hoofdstuk gelden en daar secuur moeten worden gevolgd.
+  - in elk hoofstuk van dit template zijn (als HTML commentaren) regels gegeven die voor dat hoofdstuk gelden en daar secuur moeten zijn gevolgd.
   - de commentaarblokken met regels moeten in het recept terugkomen. Als ze niet bestonden moeten ze worden toegevoegd. Als ze wel bestonden mogen ze niet worden gewijzigd of verwijderd.
   - teksten tussen haakjes `{` en `}` dienen te worden ingevuld volgens de beschrijving die tussen die haakjes is gegeven.
 - nadat een hoofdstuk is gegenereerd moet worden gecontroleerd of de regels ook daadwerkelijk zijn gevolgd, en als blijkt dat dit niet het geval is, dan moet het hoofstuk herschreven worden totdat dit wel het geval is.
@@ -42,11 +42,11 @@ Dit recept levert een luchtige appeltaart met amandelmeel en veel appel, niet te
     - controleer dat de inhoud van de presentatievorm nog steeds ongeveer gelijk is aan het volume van het eindproduct.
 -->
 
-- Voor 10–12 personen
+- Voor 10–12 personen  
 - Gewicht: ≈ 1700 g  
-- Inhoud: ≈ 1,7 L
-- Rond, Ø 24 cm, hoogte ≈ 3,5–4 cm
-- Rechthoek, 24×24 cm, hoogte ≈ 3 cm
+- Inhoud: ≈ 1,7 L  
+- Rond, Ø 24 cm, hoogte ≈ 3,5 cm  
+- Rechthoek, 24×24 cm, hoogte ≈ 3 cm  
 
 Bewaren: luchtdicht verpakt 2 dagen op kamertemperatuur, 4 dagen in de koelkast, tot 3 maanden in de diepvries.  
 Gebruik: als gebak bij koffie of thee, of als nagerecht met slagroom of hangop.
@@ -71,40 +71,44 @@ Gebruik: als gebak bij koffie of thee, of als nagerecht met slagroom of hangop.
 - de ingredïentenblokken zijn geordend zoals ze worden gebruikt, dus als blok n wordt gebruikt in stap p, dan wordt blok n+1 gebruikt in stap p+k.
 -->
 
-- Appels:
-  - 1150 g appels (bijv. goudrenetten of notarisappelen), geschild
-  - 850 g in plakjes van 3–4 mm
-  - 300 g in blokjes van 10×10 mm
-
-- Droge mengsel:
-  - 180 g amandelmeel
-  - 140 g bloem
-  - 14 g bakpoeder, gezeefd (1 zakje)
-  - 2 g zout
-  - 4 g kaneelpoeder (optioneel)
-
-- Dooiermengsel:
-  - 125 g eidooiers (≈ 7 eidooiers, maat M), op kamertemperatuur
-  - 80 g kristalsuiker
-  - 110 g roomboter, zacht (of plantaardige margarine)
-  - 8 g vanille-extract
-  - 5 g citroenrasp (optioneel)
-
-- Eiwitten:
-  - 210 g eiwitten (≈ 7 eiwitten, maat M), op kamertemperatuur
-  - 70 g kristalsuiker
-  - 1 g zout
+| Ingrediënt                |   Ø24 cm    |   Ø18 cm    |  2× Ø18 cm  |  Ø24+Ø18 cm  |
+|---------------------------|:-----------:|:-----------:|:-----------:|:------------:|
+| **Eindproduct**           |             |             |             |              |
+| Gewicht                   | 2234 g      | 1258 g      | 2518 g      | 3567 g       |
+| Hoogte                    | 3,5 cm      | 3,0 cm      | 3,0 cm      | 3,25 cm      |
+| Volume                    | 1,7 L       | 0,96 L      | 1,72 L      | 2,57 L       |
+| **Appelmengsel**          |             |             |             |              |
+| Appels (totaal, geschild) | 1150 g      |  650 g      | 1300 g      | 1800 g       |
+| Appels, plakjes 3–4 mm    |  850 g      |  480 g      |  960 g      | 1330 g       |
+| Appels, blokjes 10×10 mm  |  300 g      |  170 g      |  340 g      |  470 g       |
+| **Droog mengsel**         |             |             |             |              |
+| Amandelmeel               |  180 g      |  100 g      |  200 g      |  280 g       |
+| Bloem                     |  140 g      |   80 g      |  160 g      |  220 g       |
+| Bakpoeder, gezeefd        |   14 g<br>(1 zakje) |   8 g<br>(≈½ zakje) |  16 g<br>(≈1 zakje) |  22 g<br>(≈1⅓ zakje) |
+| Zout                      |    2 g      |    1 g      |    2 g      |    3 g       |
+| Kaneelpoeder (optioneel)  |    4 g      |    2 g      |    4 g      |    6 g       |
+| Rozijnen (optioneel)      |  135 g      |   75 g      |  150 g      |  285 g       |
+| **Dooiermengsel**         |             |             |             |              |
+| Eidooiers                 | 125 g<br>(≈7 eidooiers, M) |  70 g<br>(≈4 eidooiers, M) | 141 g<br>(≈8 eidooiers, M) | 195 g<br>(≈11 eidooiers, M) |
+| Suiker (dooiermengsel)    |   80 g      |   45 g      |   90 g      |  125 g       |
+| Boter, zacht              |  110 g      |   62 g      |  124 g      |  172 g       |
+| Vanille-extract           |    8 g      |    4 g      |    9 g      |   12 g       |
+| Citroenrasp (optioneel)   |    5 g      |    3 g      |    6 g      |    8 g       |
+| **Eiwitten**              |             |             |             |              |
+| Eiwitten                  | 210 g<br>(≈7 eiwitten, M) | 118 g<br>(≈4 eiwitten, M) | 236 g<br>(≈8 eiwitten, M) | 328 g<br>(≈11 eiwitten, M) |
+| Suiker (eiwitten)         |   70 g      |   39 g      |   79 g      |  109 g       |
+| Zout (eiwitten)           |    1 g      |    1 g      |    1 g      |    2 g       |
 
 - Benodigdheden:
-  - springvorm Ø 24 cm of bakvorm 24×24 cm, ingevet en bekleed met bakpapier
-  - 2 mengkommen
-  - mixer met gardes
-  - spatel
-  - zeef
-  - rasp
-  - oven, voorverwarmd op 175 °C (boven-/onderwarmte)
-  - prikker of satépen
-  - rooster
+  - springvorm Ø 24 cm of bakvorm 24×24 cm, ingevet en bekleed met bakpapier. Alternatief 1 of 2 vormen Ø 18 cm (erbij)
+  - 2 mengkommen  
+  - mixer met gardes  
+  - spatel  
+  - zeef  
+  - rasp  
+  - oven, voorverwarmd op 175 °C (boven-/onderwarmte)  
+  - prikker of satépen  
+  - rooster  
 
 ## Bereiding
 
@@ -128,54 +132,43 @@ Gebruik: als gebak bij koffie of thee, of als nagerecht met slagroom of hangop.
 - de naam van een bereiding van een tussenresultaat mag worden gebruikt als ware het de specificatie van een stap.
 -->
 
-1. Verwarm de oven voor op 175 °C (boven-/onderwarmte). Vet de bakvorm in en bekleed met bakpapier.  
-   Resultaat: voorbereide vorm.  
-   Toets: bakpapier ligt vlak, geen plooien.  
-   Tip: knip bakpapier rond uit zodat de randen netjes aansluiten.
 
-2. Meng het droge mengsel: zeef bloem en bakpoeder, voeg amandelmeel, zout en kaneel toe.  
-   Resultaat: luchtig, klontvrij mengsel.  
-   Toets: geen klontjes zichtbaar.  
-   Tip: zorg dat amandelmeel niet samengepakt is.
+1. Voorbereidingen:
+   1. Weeg belangrijkste ingredienten af en doe ze in bakjes/kommetjes:
+      - rozijnen 10-15 min. in warm water of appelsap laten weken.
+      - bloem, bakpoeder etc. voor het droog mengsel allemaal zeven en in 1 kom doen.
+      - splits eieren - eigeel in eerste mengkom, eiwit in tweede (vetvrije!) mengkom - eiwit moet op kamertemperatuur komen.
+      - boter in bakje - voorzichtig smelten in magnetron - daar kan dan vanille en citroenrasp bij.
+      - suiker voor dooiermengseļ en suiker voor eiwitten in aparte bakjes.
+      - vanille-extract, zout en citroenrasp klaarzetten.
+      - rozijnen laten uitlekken, droogdeppen, en licht met bloem bestuiven om zakken naar de bodem te voorkomen.
+   2. Schil de appels, verwijder de klokhuizen en snijd plm. 1/4 in 1x1 cm blokjes en plm. 3/4 in plakjes van 3-4 mm.
+   3. Verwarm de oven voor op 175 °C (boven-/onderwarmte). 
+   4. Vet de bakvorm in of bekleed met bakpapier.  
 
-3. Klop de eidooiers met suiker, boter, vanille en citroenrasp romig in een grote kom.  
-   Resultaat: licht en romig dooiermengsel.  
-   Toets: kleur lichter, textuur luchtig.  
-   Tip: boter moet zacht zijn, anders blijven er klontjes.
+2. Meng het droog mengsel: zeef bloem en bakpoeder, voeg amandelmeel, zout en kaneel toe.  
 
-4. Spatel het droge mengsel door het dooiermengsel.  
-   Resultaat: dik beslag.  
-   Toets: beslag homogeen, geen droge strepen.  
-   Tip: meng niet te lang, om luchtigheid te bewaren.
+3. Klop de eidooiers met suiker, de (zachte!) boter, vanille en citroenrasp in een grote kom tot een licht en romig dooiermengsel.  
+   Kleur is licht, textuur luchtig. Tip: maak boter zo nodig wat zachter in magnetron (maar je moet hem niet smelten) om klontjes te voorkomen.  
 
-5. Klop de eiwitten met zout tot lobbig, voeg dan suiker in 3 porties toe en klop stijf.  
-   Resultaat: stevig eiwitschuim met glans.  
-   Toets: garde rechtop → stevige pieken.  
-   Tip: kom moet vetvrij zijn, anders worden eiwitten niet stijf.
+4. Spatel het droog mengsel door het dooiermengsel tot een dik, homogeen beslag zonder droge strepen.  
+   Tip: meng niet te lang, om luchtigheid te bewaren.  
 
-6. Vouw het eiwitschuim voorzichtig door het beslag.  
-   Resultaat: luchtig, homogeen beslag.  
-   Toets: geen klonten eiwit zichtbaar.  
-   Tip: werk met spatel, niet roeren.
+5. Klop de eiwitten met zout tot lobbig, voeg dan suiker in 3 porties toe en klop stijf tot stevig eiwitschuim met glans; de pieken zijn stevig en blijven rechtop staan.  
+   Tip: kom moet vetvrij zijn, anders worden eiwitten niet stijf.  
 
-7. Spatel de blokjes appel door het beslag.  
-   Resultaat: beslag met gelijkmatig verdeelde stukjes appel.  
-   Toets: blokjes niet allemaal onderin.  
-   Tip: dep blokjes droog zodat er geen vocht vrijkomt.
+6. Vouw het eiwitschuim voorzichtig door het dooiermengsel tot een luchtig, homogeen beslag waarin geen klonten eiwit zichtbaar zijn.  
+   Tip: werk met spatel, niet roeren om de luchtigheid te bewaren.  
 
-8. Doe beslag in de vorm, strijk glad, leg plakjes appel in decoratief patroon bovenop.  
-   Resultaat: mooi verdeelde taart.  
-   Toets: oppervlak vlak, plakjes gelijkmatig verdeeld.
+7. Spatel de (drooggedepte) appelblokjes door het beslag zodat ze gelijkmatig verdeeld zijn en ze niet allemal onderin komen.  
 
-9. Bak 50–65 min in het midden van de oven.  
-   Resultaat: goudbruine taart, gaar vanbinnen.  
-   Toets: prikker komt er droog uit.  
-   Tip: controleer vanaf 50 min, elke oven is anders.
+8. Doe dun laagje beslag in de vorm(en), strijk glad, leg appelplakjes in decoratief patroon bovenop. Herhaal dit totdat het beslag en de appelplakjes op zijn. Eindig met een laag appelplakjes die er mooi uitziet.
+
+9. Bak 50–65 min in het midden van de oven tot een goudbruine taart, gaar vanbinnen (een prikker komt er droog uit).  
+   Tip: controleer vanaf 50 min (elke oven is anders). Als de prikker er niet droog uitkomt, gewoon 5-10 minuten langer bakken. Dit kun je verschillende malen herhalen (nodig als de appels vochtig zijn). Als de bovenkant al goudbruin is, dek je hem met folie af zodat hij niet verbrandt.
 
 10. Laat 10 min afkoelen in de vorm, stort dan uit op een rooster.  
-    Resultaat: taart stevig en los van vorm.  
-    Toets: komt zonder scheuren uit de vorm.  
-    Tip: niet te vroeg storten, anders breekt de taart.
+    Tip: niet te vroeg storten, anders breekt de taart. Eventueel - vooral als de taart vochtig was - eerst nog 20 min. in de (afkoelende) oven laten staan.
 
 ---
 
@@ -194,7 +187,7 @@ Gebruik: als gebak bij koffie of thee, of als nagerecht met slagroom of hangop.
 - Dep de blokjes appel droog met keukenpapier zodat er minder vocht in het beslag komt.  
 - Meng eiwit altijd met spatel, niet roeren → behoud luchtigheid.  
 - Controleer oven vroegtijdig: te lang bakken maakt de taart droog.  
-- Bij een te nat resultaat: 5–10 min langer bakken met folie over de taart.
+- Bij een te nat resultaat: 5–10 min langer bakken met folie over de taart.  
 
 ---
 
@@ -226,6 +219,9 @@ Gebruik: als gebak bij koffie of thee, of als nagerecht met slagroom of hangop.
 - **Lobbig**: toestand van opgeklopt eiwit waarbij zachte pieken blijven staan maar nog iets doorzakken.  
 - **Stijf opgeklopt**: toestand van eiwit waarbij pieken rechtop blijven staan en glanzend zijn.  
 - **Prikkerproef**: test op gaarheid; een houten prikker moet er droog uitkomen zonder beslagresten.  
+- **Romig kloppen**: luchtig mengen van boter, suiker en eidooiers tot een lichtgeel, luchtig geheel zonder klontjes.  
+- **Homogeen**: mengsel waarbij alle ingrediënten volledig zijn opgenomen zonder zichtbare strepen of klonten.  
+- **Luchtig**: structuur waarin veel lucht is opgenomen, zichtbaar als een lichte, zachte textuur.  
 
 ---
 
