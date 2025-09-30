@@ -73,16 +73,15 @@ Gebruik: lekker bij koffie of thee; kan ook dienen als basis voor mokka- of choc
 | Ingrediënt          | 2 bakplaten | 1 bakplaat |
 |---------------------|:-----------:|:----------:|
 | **Eindproduct**     |             |            |
-| Totaal gewicht      |   973 g     |   486 g    |
-| Aantal (Ø 3 cm)     |    120      |    60      |
+| Totaal gewicht      |   983 g     |   491 g    |
+| Aantal (Ø 3 cm)     |    120      |    48      |
 | **Deel 1**          |             |            |
 | Boter, zacht        |   340 g     |   170 g    |
-| **Deel 2**          |             |            |
-| Basterdsuiker       |   170 g     |    85 g    |
+| Basterdsuiker       |   180 g     |    90 g    |
 | Citroenrasp         |     3 g     |     1 g    |
 | Zout                |     3 g     |     1 g    |
 | Vanille extract     |     4 g     |     2 g    |
-| **Deel 3**          |             |            |
+| **Deel 2**          |             |            |
 | Melk                |    40 g     |    20 g    |
 | **Deel 4**          |             |            |
 | Patentbloem         |   413 g     |   207 g    |
@@ -93,9 +92,9 @@ Gebruik: lekker bij koffie of thee; kan ook dienen als basis voor mokka- of choc
 **Benodigdheden**:  
 - 1 mengkom  
 - mixer met gardes  
-- bakpapier of siliconenmat  
+- bakpapier (of siliconenmat)  
 - spuitzak met kartelspuitje maat 12  
-- oven, voorverwarmd op 170 °C (boven-/onderwarmte)  
+- oven  
 
 ## Bereiding
 
@@ -119,15 +118,16 @@ Gebruik: lekker bij koffie of thee; kan ook dienen als basis voor mokka- of choc
 - de naam van een bereiding van een tussenresultaat mag worden gebruikt als ware het de specificatie van een stap.
 -->
 
-1. Klop de boter luchtig met de basterdsuiker, citroenrasp, zout en vanille.  
-   - Toets: mengsel moet bleek en romig zijn, zonder suikerkristallen.  
-2. Voeg de melk *geleidelijk* toe, telkens goed doorkloppen.  
+1. Verwarm de oven voor op 170 °C (boven-/onderwarmte).
+2. Klop de boter luchtig met de basterdsuiker, citroenrasp, zout en vanille.  
+   - Toets: mengsel moet bleek/witachtig en romig zijn, zonder suikerkristallen.  
+3. Voeg de melk *geleidelijk* toe, telkens goed doorkloppen.  
    - Toets: geen schifting zichtbaar, mengsel blijft glad.  
-3. Spatel de bloem kort door zodra de melk is opgenomen.  
+4. Spatel de bloem *kort* door zodra de melk is opgenomen.  
    - Toets: homogeen deeg, zonder zichtbare bloemresten, niet elastisch.  
-4. Vul de spuitzak en spuit rozetten van ca. Ø 3 cm op bakpapier/siliconenmat.  
+5. Vul de spuitzak en spuit rozetten van ca. Ø 3 cm op bakpapier/siliconenmat. Je kan natuurlijk ook andere vormen kiezen...  
    - Toets: rozetten moeten stevig staan, niet uitlopen.  
-5. Bak ca. 25 minuten op 170 °C (boven-/onderwarmte), tot licht goudbruin.  
+6. Bak ca. 25 minuten op 170 °C (boven-/onderwarmte), tot licht goudbruin.  
    - Toets: koekjes moeten droog en bros aanvoelen, zonder zachte kern.  
 
 ---

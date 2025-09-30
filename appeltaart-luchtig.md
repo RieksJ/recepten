@@ -74,13 +74,13 @@ Gebruik: als gebak bij koffie of thee, of als nagerecht met slagroom of hangop.
 | Ingrediënt                |   Ø24 cm    |   Ø18 cm    |  2× Ø18 cm  |  Ø24+Ø18 cm  |
 |---------------------------|:-----------:|:-----------:|:-----------:|:------------:|
 | **Eindproduct**           |             |             |             |              |
-| Gewicht                   | 2234 g      | 1258 g      | 2518 g      | 3567 g       |
+| Gewicht                   | 2234 g      | 1208 g      | 2418 g      | 3567 g       |
 | Hoogte                    | 3,5 cm      | 3,0 cm      | 3,0 cm      | 3,25 cm      |
 | Volume                    | 1,7 L       | 0,96 L      | 1,72 L      | 2,57 L       |
 | **Appelmengsel**          |             |             |             |              |
-| Appels (totaal, geschild) | 1150 g      |  650 g      | 1300 g      | 1800 g       |
-| Appels, plakjes 3–4 mm    |  850 g      |  480 g      |  960 g      | 1330 g       |
-| Appels, blokjes 10×10 mm  |  300 g      |  170 g      |  340 g      |  470 g       |
+| Appels (totaal, geschild) | 1150 g      |  600 g      | 1200 g      | 1800 g       |
+| Appels, plakjes 3–4 mm    |  850 g      |  450 g      |  900 g      | 1330 g       |
+| Appels, blokjes 10×10 mm  |  300 g      |  150 g      |  300 g      |  470 g       |
 | **Droog mengsel**         |             |             |             |              |
 | Amandelmeel               |  180 g      |  100 g      |  200 g      |  280 g       |
 | Bloem                     |  140 g      |   80 g      |  160 g      |  220 g       |
@@ -162,7 +162,7 @@ Gebruik: als gebak bij koffie of thee, of als nagerecht met slagroom of hangop.
 
 7. Spatel de (drooggedepte) appelblokjes door het beslag zodat ze gelijkmatig verdeeld zijn en ze niet allemal onderin komen.  
 
-8. Doe dun laagje beslag in de vorm(en), strijk glad, leg appelplakjes in decoratief patroon bovenop. Herhaal dit totdat het beslag en de appelplakjes op zijn. Eindig met een laag appelplakjes die er mooi uitziet.
+8. Doe dun laagje beslag in de vorm(en), strijk glad, leg er 2 of 3 lagen appelplakjes op. Herhaal dit totdat het beslag op is waarna je nog een laagje appelplakjes er decoratief oplegt. (zie ook tips)
 
 9. Bak 50–65 min in het midden van de oven tot een goudbruine taart, gaar vanbinnen (een prikker komt er droog uit).  
    Tip: controleer vanaf 50 min (elke oven is anders). Als de prikker er niet droog uitkomt, gewoon 5-10 minuten langer bakken. Dit kun je verschillende malen herhalen (nodig als de appels vochtig zijn). Als de bovenkant al goudbruin is, dek je hem met folie af zodat hij niet verbrandt.
@@ -184,8 +184,10 @@ Gebruik: als gebak bij koffie of thee, of als nagerecht met slagroom of hangop.
 
 - Gebruik stevige, zure appels (goudrenetten of notarisappelen) voor balans met de luchtige cake.  
 - Laat de plakjes appel dun (3–4 mm), anders zakken ze en worden ze soppig.  
+- Gebruik gerust meerdere laagjes appel - anders raak je de appels niet kwijt.  
 - Dep de blokjes appel droog met keukenpapier zodat er minder vocht in het beslag komt.  
 - Meng eiwit altijd met spatel, niet roeren → behoud luchtigheid.  
+- Als je meer ei had dan nodig was, kun je hiermee de taart bestrijken om hem te laten glanzen.  
 - Controleer oven vroegtijdig: te lang bakken maakt de taart droog.  
 - Bij een te nat resultaat: 5–10 min langer bakken met folie over de taart.  
 
