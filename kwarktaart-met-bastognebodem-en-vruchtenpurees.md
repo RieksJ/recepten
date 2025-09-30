@@ -99,7 +99,7 @@ Een frisse, romige kwarktaart met luchtige vulling op een dunne, krokante Bastog
 
 ## Koelen
 - Minimaal 4–6 uur in koelkast bij 4 °C (liefst een nacht).
-- ✔ Goed: luchtige vulling blijft stevig en snijdbaar.
+- Goed: luchtige vulling blijft stevig en snijdbaar.
 - Serveer bij 6–8 °C; warm mes voor strakke sneden.
 
 ## Tips
