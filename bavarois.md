@@ -2,23 +2,8 @@
 
 <!-- Regels voor het maken/wijzigen van een recept volgens dit recept-template:
 - een recept is een markdown tekst die de structuur van dit recept-template heeft, en is gemaakt/gewijzigd met inachtneming van de regels.
-- bij het maken/wijzigen van een recept gedraag jij je als een meester-bakker, conform de prompt die je daarvoor hebt. Als je (nog) niet zo'n prompt hebt, dan vraag je daarom.
-- Regels voor markdown:
-  - de markdown bevat geen spaties aan het eind van een regel.
-  - niet-genummerde lijsten gebruiken het teken `-` (dus niet `*`).
-  - een lijst wordt niet voorafgegaan door een lege regel (behalve na een regel met een header).
-  - alle tabellen zijn strak uitgelijnd: alle kolomscheiders `|` moeten in VSCode (dat een monospace font gebruikt) strak onderelkaar staan.
-  - als een kolom een korte inhoud heeft, zoals een gewicht, een maat, een kleur oid, dan wordt die kolom gecentreerd uitgelijnd.
-  - rijen worden als dat mogelijk is gesorteerd volgens een criterium dat hout snijdt voor een leerling bakker.
-- Regels voor het maken/wijzigen van een recept:
-  - in elk hoofstuk van dit template zijn (als HTML commentaren) regels gegeven die voor dat hoofdstuk gelden en daar secuur moeten worden gevolgd.
-  - de commentaarblokken met regels moeten in het recept terugkomen. Als ze niet bestonden moeten ze worden toegevoegd. Als ze wel bestonden mogen ze niet worden gewijzigd of verwijderd.
-  - teksten tussen haakjes `{` en `}` dienen te worden ingevuld volgens de beschrijving die tussen die haakjes is gegeven.
-- Nadat een hoofdstuk is gegenereerd moet worden gecontroleerd of de regels ook daadwerkelijk zijn gevolgd, en als blijkt dat dit niet het geval is, dan moet het hoofstuk herschreven worden totdat dit wel het geval is.
-- **Consistentiechecks**: Nadat een recept is gemaakt/gewijzigd moet je de consistentie ervan controleren, in het bijzonder:
-  - dat de afmetingen van de verschillende presentatievormen onderling consistent zijn, d.w.z. dat het volume ervan steeds gelijk is aan dat van het eindproduct zoals dat volgens het recept ontstaat.
-  - dat elke (vak)term die in het recept wordt gebruikt, beschreven is in het hoofdstuk 'Vaktermen'.
-  - dat elke (vak)term die in het hoofstuk 'Vaktermen' beschreven is, ook daadwerkelijk elders in het recept wordt gebruikt (zo niet, dan verwijder je de term uit de lijst van vaktermen).
+- bij het maken/wijzigen van een recept gedraag jij je als een meester-bakker, conform de prompt die daarvoor hebt.
+- teksten tussen haakjes { } dienen te worden ingevuld volgens de beschrijving die tussen die haakjes is gegeven.
 -->
 
 Dit recept levert een luchtige, frisse bavarois met frambozensmaak en zachte romige structuur.
@@ -26,160 +11,103 @@ Dit recept levert een luchtige, frisse bavarois met frambozensmaak en zachte rom
 ## Eindproduct
 
 <!-- Regels voor 'Eindproduct':
-- De gewichten en maten van het eindproduct moeten overeenkomen met de som van de gebruikte ingrediënten; dat moet ook zijn gecontroleerd.
-- lengte/breedte maten moeten zijn afgerond op halve centimeters, gewichten zijn grammen en inhoudsmaat is liters.
-- Maak een lijst van tenminste 2 en ten hoogste 6 'presentatievormen', waarbij een presentatievorm de volgende dingen specificeert:
-  - het type en bijbehorende afmetingen, bijvoorbeeld "rond, Ø 18 cm, hoogte ≈ 4 cm", of "rechthoek, 20x20 cm, hoogte ≈ 3,5 cm",
-  - het aantal presentatievormen, maar alleen als dat meer dan 1 is (bijvoorbeeld bij financiers, of muffins),
-  - het aantal stukken/porties, maar alleen als dit groter is dan 1 voor een enkele presentatievorm.
-- De lijst van presentatievormen bevat een of meer ronde vormen, en ook een of meer rechthoekige vormen.
-- De afmetingen voor een zekere vorm wordt als volgt bepaald:
-  - De inhoud moet gelijk zijn aan het volume van het eindproduct zoals dat ontstaat door het recept te volgen.
-  - De paresentatievorm moet er mooi uitzien en makkelijk te snijden of uit de delen zijn; Een werkwijze hiervoor die voor ronde en rechthoekige vormen gebruikt kan worden, bestaat uit de volgende stappen:
-    - kies een geschikte hoogte (in halve cm), en bereken dan het oppervlakte zo dat het volume gelijk is aan dat van het eindproduct.
-    - pas de oppervlakte een beetje aan, zodanig dat er een gangbare vorm (ring of rechthoek) gebruikt kan worden.
-    - herbereken de hoogte op basis van de gebruikte vorm.
-    - de afmetingen van de presentatievorm zijn dan de afmetingen van de gebruikte vorm en de herberekende hoogte.
-    - controleer dat de inhoud van de presentatievorm nog steeds ongeveer gelijk is aan het volume van het eindproduct.
+- De gewichten en maten van het eindproduct moeten overeenkomen met de som van de gebruikte ingrediënten.
+- lengte/breedte maten in halve cm, gewichten in gram, inhoud in liter.
+- Maak een lijst van 2-6 presentatievormen, minstens 1 rond en 1 rechthoekig.
+- Controleer dat de inhoud van de presentatievorm ongeveer gelijk is aan het volume van het eindproduct.
 -->
 
-- Voor ±6 personen  
-- Gewicht: 570 g  
-- Inhoud: ≈0,55 l  
-- Rond: Ø 18 cm, hoogte ≈ 2,25 cm (6–8 punten)  
-- Rechthoekig: 20×10 cm, hoogte ≈ 2,75 cm (8–10 stukken)  
+- 0,5 liter: rond, Ø 12 cm, hoogte ≈ 1,75 cm (4-6 punten)  
+- 1 liter: rechthoek 15×10 cm, hoogte ≈ 2,75 cm (6-8 stukken)  
+- 1,5 liter: rond, Ø 18 cm, hoogte ≈ 2,95 cm (8-10 punten)  
+- 2 liter: rechthoek 20×15 cm, hoogte ≈ 2,85 cm (12-16 stukken)  
 
 Bewaren: maximaal 2 dagen afgedekt in de koelkast.  
-
 Gebruik: los dessert of als vulling/laag in een taart.  
 
 ## Ingrediënten
 
 <!-- Regels voor ingredïenten:
-- de ingredïenten van een recept staan in 1 tabel, waarvan de eerste kolom de naam van het ingredïent is, en de volgende kolom de hoeveelheid bevat.
-- ingredienten kunnen zijn gegroepeerd in ingredïentenblokken.
-- Eieren (hele eieren, eidooiers, eiwitten) altijd noteren als:
-  "{hoeveelheid} g<br>(≈{aantal} {maat})"
-  waarbij:
-  - {hoeveelheid} in gram staat,
-  - <br> een harde regeleinde is tussen gewicht en schatting,
-  - {aantal} een afgeronde schatting is (gebruik het teken ≈),
-  - {maat} één van: S, M, L, XL.
-  Voorbeeld: 60 g<br>(≈3 M)
-- de hoeveelheid van alle andere ingredïenten wordt ook ALTIJD in grammen opgegeven.
-- als er een praktisch equivalent is staat dat er tussen haakjes bij (voorbeeld: "7 g droge gist (een zakje)" of "1 pakje").
-- als er een alternatief is dat een ingredïent kan vervangen, staat die er tussen haakjes achter (voorbeeld: "75 g kokosolie (of neutrale olie)").
-- 'theelepels', 'eetlepels', 'cups', 'snufjes' e.d. gelden niet als praktische equivalenten (het is niet precies genoeg), en komen dus nooit voor.
-- als het ingredïent een zekere eigenschap moet hebben, dan staat dat erachter, zo mogelijk met concrete maten (voorbeeld: "100 g boter, op kamertemperatuur", of "600 g peer, in plakjes van 3-4 mm dik.)
+- Alle hoeveelheden in gram; eieren volgens {hoeveelheid} g<br>(≈{aantal} {maat}).
+- Ingrediënten gegroepeerd in blokken; laatste blok is 'Benodigdheden'.
 -->
 
-| Ingrediënt         |  Hoeveelheid             |
-|--------------------|:-----------------------:|
-| Frambozenpuree     |          200 g          |
-| Suiker             |           50 g          |
-| Gelatine (blaadjes)|        6 g (3 stuks)    |
-| Eidooiers          |  60 g<br>(≈3 M)         |
-| Slagroom (ongeklopt)|         250 g          |
-| Vanille-extract (optioneel) |        2 g     |
+- Frambozenpuree-mengsel:
+  | Ingrediënt         | 0,5 l | 1 l  | 1,5 l | 2 l  |
+  |--------------------|:-----:|:----:|:----:|:----:|
+  | Frambozenpuree     | 180 g | 360 g| 540 g| 720 g|
+  | Suiker             | 45 g  | 90 g | 135 g| 180 g|
+  | Gelatine (blaadjes)| 5 g (2,5 st) | 10 g (5 st) | 15 g (7,5 st) | 20 g (10 st)|
+  | Vanille-extract (optioneel)| 2 g | 4 g | 6 g | 8 g|
+
+- Eidooiermengsel:
+  | Ingrediënt         | 0,5 l | 1 l  | 1,5 l | 2 l  |
+  |--------------------|:-----:|:----:|:----:|:----:|
+  | Eidooiers          | 54 g<br>(≈3 M) | 108 g<br>(≈6 M) | 162 g<br>(≈9 M) | 216 g<br>(≈12 M)|
+  | Suiker             | 45 g  | 90 g | 135 g| 180 g|
+
+- Slagroom:
+  | Ingrediënt         | 0,5 l | 1 l  | 1,5 l | 2 l  |
+  |--------------------|:-----:|:----:|:----:|:----:|
+  | Slagroom (ongeklopt)| 225 g | 450 g | 675 g | 900 g|
+
+- Benodigdheden:
+  - Kom  
+  - Spatel  
+  - Garde of mixer  
+  - Pan voor au bain-marie  
+  - Weegschaal  
+  - Maatbeker  
+  - Vorm(en) naar keuze (ronde of rechthoekige)
 
 ## Bereiding
 
-<!-- Regels voor 'Bereiding':
-- een bereiding is een opeenvolging van stappen die moeten worden uitgevoerd om tot een benoemd resultaat te komen.
-- elk recept specificeert precies een bereiding waarvan het resultaat het eindproduct is.
-- als een recept meerdere bereidingen bevat, hebben ze elk een naam;
-- als in een recept halffabrikaten worden gebruikt (zoals 'beurre noisette' of 'banketbakkersroom'), dan kan het recept voor dat halffabrikaat:
-  - een bereiding specificeren, of
-  - een verwijzing naar een recept voor dat halffabrikaat specificeren, of
-  - de bereiding voor dat halffabrikaat als bekend vooronderstellen.
-- elke bereiding bestaat uit een lijst van stappen die achtereenvolgens moeten worden uitgevoerd.
-- elke stap specificeert:
-  - optioneel: een naam voor het resultaat van de stap (bijvoorbeeld: 'vulling voor de taart'); 
-  - de ingredïenten en/of tussenresultaten die in de stap worden gebruikt;
-  - hoe een ingredïent klaargemaakt moet worden voor gebruik, bijvoorbeeld of hij eerst losgeklopt of losgeroerd moeten worden.
-  - hoe deze ingredïenten worden gebruikt (en met welke benodigdheden);
-  - wat het resultaat van het uitvoeren van de stap moet zijn;
-  - een concrete toets (horen, zien, ruiken, proeven, meten, ...) om goede resultaten van minder goede of foute resultaten te onderscheiden;
-  - korte tips ter voorkoming van de meest gemaakte fouten in zo'n stap.
-- de naam van een bereiding van een tussenresultaat mag worden gebruikt als ware het de specificatie van een stap.
--->
+<!-- Regels voor 'Bereiding': alle stappen met toets en korte tips -->
 
-1. **Gelatine oplossen:** week de gelatine 5 min in koud water. Verwarm 20 g frambozenpuree en los hierin de uitgeknepen gelatine op. Meng door de rest van de puree.  
-   *Toets:* er mogen geen klontjes zichtbaar zijn.  
+1. **Gelatine oplossen:** week gelatine 5 min in koud water. Verwarm 10% van de frambozenpuree, los hierin de gelatine op. Meng door de rest.  
+   *Toets:* geen klontjes zichtbaar.  
+   *Tip:* gelatine nooit koken.
 
-2. **Eidooiermengsel:** klop de eidooiers met de suiker tot een bleek, romig mengsel. Verwarm au bain-marie tot 65°C, blijf roeren.  
-   *Toets:* mengsel is dikker, lichtgeel en heeft een lint-structuur.  
+2. **Eidooiermengsel:** klop eidooiers en suiker tot bleek, romig mengsel. Verwarm au bain-marie tot 65°C, blijf roeren.  
+   *Toets:* dikker, lichtgeel, lint-structuur.
 
-3. **Puree mengen:** voeg de frambozen-gelatinepuree toe aan het warme eidooiermengsel. Laat afkoelen tot ≈30°C.  
-   *Toets:* mengsel is homogeen, niet te warm.  
+3. **Puree mengen:** voeg frambozen-gelatinepuree toe aan warme eidooiers. Laat afkoelen tot ≈30°C.  
+   *Toets:* homogeen, niet te warm.  
 
-4. **Slagroom luchtig maken:** klop de slagroom lobbig (zachte pieken). Spatel voorzichtig door het afgekoelde mengsel.  
+4. **Slagroom luchtig maken:** klop slagroom lobbig. Spatel voorzichtig door het afgekoelde mengsel.  
    *Toets:* mengsel blijft luchtig en egaal roze.  
+   *Tip:* slagroom niet te stijf kloppen, anders klonten.
 
 5. **Opstijven:** giet in vorm(en) of glazen, laat min. 4 uur opstijven in koelkast.  
-   *Toets:* bavarois is stevig maar veerkrachtig.  
+   *Toets:* stevig maar veerkrachtig.
 
 ## Tips
 
-<!-- Regels voor 'Tips':
-- een tip is een korte, concrete beschrijving van hoe je iets wel, of juist niet moet doen.
-- een tip vertelt welke voordelen de beoogde werkwijze heeft en/of welke problemen je voorkomt.
-- de volgorde van de tips volgt de volgorde van de stappen in de breiding waarvoor ze relevant zijn.
-- een tip kan in een verkorte vorm voorkomen in een stap in een bereiding.
-- er zijn tips die vertellen hoe je veel gemaakte fouten het best kunt herstellen.
--->
-
-- Gelatine nooit koken, anders verliest het bindkracht.  
-- Klop slagroom niet te stijf, anders mengt het slecht en krijg je klonten.  
-- Laat het fruitmengsel goed afkoelen vóór het mengen met slagroom, anders smelt de luchtigheid weg.  
+- Laat fruitmengsel goed afkoelen vóór mengen met slagroom.  
+- Gebruik zachte spatelbewegingen bij het spatelen om luchtigheid te behouden.  
 
 ## Versieren
 
-<!-- Regels voor 'Versieren':
-- dit hoofdstuk bestaat alleen als het eindproduct zich leent om te worden versierd.
-- dit hoofdstuk bevat een onderdeel "Voor het bakken" (of "Voor het koelen") als versierselen aangebracht kunnen worden voor het bakken of koelen.
-- dit hoofdstuk bevat een onderdeel "Na het bakken" (of "Na het koelen") als versierselen aangebracht kunnen worden na het bakken of koelen.
-- dit hoofdstuk kan andere onderdelen bevatten als dat logisch is.
-- elk onderdeel van dit hoofdstuk bevat een lijst van mogelijkheden om het eindproduct te versieren, zodat een overzicht ontstaat van al die mogelijkheden.
-- als een mogelijkheid om het eindproduct te versieren een product bevat dat eenvoudig gemaakt kan worden, dan wordt ofwel de lijst van ingredïenten en een korte werkwijze hiervoor gegeven, ofwel een verwijzing naar het recept.
--->
-
 - Na het koelen:
   - Verse frambozen erop leggen.  
-  - Lichte frambozencoulis eroverheen gieten.  
-  - Dunne slagroomrand opspuiten langs de rand.  
+  - Lichte frambozencoulis eroverheen gieten (100 g frambozen, 15 g suiker, evt. paar druppels citroensap kort verwarmen, pureren en door fijne zeef drukken).  
+  - Dunne slagroomrand langs de rand opspuiten.  
 
 ## Als het is misgegaan
-
-<!-- Regels voor 'Als het is misgegaan'
-- Dit hoofdstuk bevat een tabel van zaken die mis kunnen gaan, met de header: `| Probleem | Herkenning | Redding | Herbestemming |`
-- De tabel beschrijft problemen, hoe die te herkennen op basis van concrete criteria, hoe het probleem als het zich voordoet kan worden hersteld, en wat je met het problematiche deelproduct kan doen als het net 'gered' kan worden.
--->
 
 | Probleem         | Herkenning                    | Redding                               | Herbestemming                      |
 |------------------|-------------------------------|---------------------------------------|------------------------------------|
 | Te vloeibaar     | Na 4 uur nog niet stevig      | Extra gelatine oplossen en inmengen   | Gebruik als saus bij ijs           |
 | Te stevig/rubberig | Bavarois erg hard            | Volgende keer minder gelatine         | Snijden in blokjes als fruitgelei  |
-| Korrelige structuur | Slagroom geschift           | Volgende keer minder ver kloppen      | Door de blender tot mousse-structuur |
+| Korrelige structuur | Slagroom geschift           | Volgende keer minder ver kloppen      | Blender tot mousse-structuur       |
 
 ## Vaktermen
 
-<!-- Regels voor 'Vaktermen'
-- Beschrijf alle (vak)termen die daadwerkelijk in het recept worden gebruikt, zoals: 'tempereren (van gelatine)', 'tempereren (van chocolade)', 'half-opgesteven', 'lobbig', 'spatelen', 'vouwen', enz.
-- Als een vakterm wordt gebruikt om een specifiek resultaat of een specifieke eigenschap aan te geven, dan wel ertoe moet leiden dat zo'n resultaat of eigenschap ontstaat, dan bevat de beschrijving concrete criteria op basis waarvan kan worden vastgesteld of het specifieke resultaat of eigenschap bestaat of is ontstaan.
--->
-
-- **Au bain-marie:** verhitten van een kom boven heet water zonder direct contact met de warmtebron, zodat gecontroleerde verhitting plaatsvindt.  
-- **Lobbig (slagroom):** slagroom die zachte pieken vormt, die omvallen maar nog lichte structuur geven.  
-- **Spatelen:** met een spatel luchtig een ingrediënt door een ander mengen, zonder de luchtigheid te verliezen.  
+- **Au bain-marie:** verhitten boven heet water zonder direct contact met warmtebron.  
+- **Lobbig (slagroom):** zachte pieken die licht structuur behouden.  
+- **Spatelen:** luchtig mengen met spatel zonder luchtigheid te verliezen.  
 
 ## Ervaringen
 
-<!-- Regels voor 'Ervaringen':
-- Dit hoofstuk bevat paragrafen waarin ervaringen kunnen worden opgeschreven met het recept, c.q. het leerproces dat met het recept is doorlopen.
-- Als dit hoofdstuk geen ervaringen bevat, verzin je een of twee ervaringen die een beginnend student gehad zou kunnen hebben, en de lessen die daaruit te trekken zijn.
--->
-
-De eerste keer liet ik het fruitmengsel niet genoeg afkoelen. Toen ik de slagroom toevoegde, werd het mengsel dun en zakte de luchtigheid weg. De smaak was goed, maar de structuur te slap.  
-
-De tweede keer heb ik de slagroom zachter geklopt en beter op de temperatuur gelet. Het resultaat was veel luchtiger en stevig genoeg om in puntjes te snijden.
+- Eerste keer: fruitmengsel niet goed afgekoeld → luchtigheid verloren.  
+- Tweede keer: slagroom zachter geklopt en juiste temperatuur → luchtig en stevig resultaat.  
