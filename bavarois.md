@@ -1,4 +1,4 @@
-# {naam van eindproduct}
+# Bavarois met Frambozenpuree (Basisrecept)
 
 <!-- Regels voor het maken/wijzigen van een recept volgens dit recept-template:
 - een recept is een markdown tekst die de structuur van dit recept-template heeft, en is gemaakt/gewijzigd met inachtneming van de regels.
@@ -21,14 +21,18 @@
   - dat elke (vak)term die in het hoofstuk 'Vaktermen' beschreven is, ook daadwerkelijk elders in het recept wordt gebruikt (zo niet, dan verwijder je de term uit de lijst van vaktermen).
 -->
 
-Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigenschappen}
+Dit recept levert een luchtige, frisse bavarois met frambozensmaak en zachte romige structuur.
 
 ## Eindproduct
 
 <!-- Regels voor 'Eindproduct':
 - De gewichten en maten van het eindproduct moeten overeenkomen met de som van de gebruikte ingrediënten; dat moet ook zijn gecontroleerd.
-- Elk eindproduct heeft tenminste 1 presentatievorm.
-- Elke presentatievorm die wordt gekenmerkt door het totaalgewicht (in grammen), de totaalinhoud (in liters), de gebruikte bak/koel-vorm (rechthoekig, rond, iets anders), de maat van de vorm (in halve centimeters), de hoogte (in halve centimeters), en het aantal vormen dat wordt gebruikt voor het totaal.
+- lengte/breedte maten moeten zijn afgerond op halve centimeters, gewichten zijn grammen en inhoudsmaat is liters.
+- Maak een lijst van tenminste 2 en ten hoogste 6 'presentatievormen', waarbij een presentatievorm de volgende dingen specificeert:
+  - het type en bijbehorende afmetingen, bijvoorbeeld "rond, Ø 18 cm, hoogte ≈ 4 cm", of "rechthoek, 20x20 cm, hoogte ≈ 3,5 cm",
+  - het aantal presentatievormen, maar alleen als dat meer dan 1 is (bijvoorbeeld bij financiers, of muffins),
+  - het aantal stukken/porties, maar alleen als dit groter is dan 1 voor een enkele presentatievorm.
+- De lijst van presentatievormen bevat een of meer ronde vormen, en ook een of meer rechthoekige vormen.
 - De afmetingen voor een zekere vorm wordt als volgt bepaald:
   - De inhoud moet gelijk zijn aan het volume van het eindproduct zoals dat ontstaat door het recept te volgen.
   - De paresentatievorm moet er mooi uitzien en makkelijk te snijden of uit de delen zijn; Een werkwijze hiervoor die voor ronde en rechthoekige vormen gebruikt kan worden, bestaat uit de volgende stappen:
@@ -39,15 +43,15 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
     - controleer dat de inhoud van de presentatievorm nog steeds ongeveer gelijk is aan het volume van het eindproduct.
 -->
 
-- {hoeveelheid, in termen van aantal personen of andere in de praktijk handige gebruikseenheid}
-- {gewicht (in gram) en inhoud (in liter) van het eindproduct}
-- {rechthoekige presentatievorm}
-- {ronde presentatievorm}
-- {optioneel: andere bruikbare/leuke/mooie presentatievormen}
+- Voor ±6 personen  
+- Gewicht: 570 g  
+- Inhoud: ≈0,55 l  
+- Rond: Ø 18 cm, hoogte ≈ 2,25 cm (6–8 punten)  
+- Rechthoekig: 20×10 cm, hoogte ≈ 2,75 cm (8–10 stukken)  
 
-{lijst van bewaarmogelijkheden (plaats, bewaartermijn) voor het eindproduct}
+Bewaren: maximaal 2 dagen afgedekt in de koelkast.  
 
-{gebruiksmogelijkheden eindproduct, bijv. als onderdeel van andere producten}
+Gebruik: los dessert of als vulling/laag in een taart.  
 
 ## Ingrediënten
 
@@ -69,57 +73,14 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - als het ingredïent een zekere eigenschap moet hebben, dan staat dat erachter, zo mogelijk met concrete maten (voorbeeld: "100 g boter, op kamertemperatuur", of "600 g peer, in plakjes van 3-4 mm dik.)
 -->
 
-<!-- Regels voor ingredïententabel als het recept voor meerdere presentatievormen van het eindproduct geldt
-- Als het recept voor meerdere presentatievormen gebruikt kan worden, dan
-  - geeft de tweede en elke volgende kolom de hoeveelheden voor een van die presentatievormen.
-  - begint de tabel met een 'ingredïentenblok' die de presentatievorm beschrijft, met daarin voor elk van de volgende kenmerken een regel:
-    - gewicht (van het eindproduct, in grammen)
-      Hoogte (van het eindproduct, in halve cm)
-      Volume (van het eindproduct, in liters)
-      Geschatte baktijd/koeltijd (van het eindproduct)
-      Vorm (rechthoek of rond, en de maat)
--->
-
-<!-- Regels voor ingredïentenblokken:
-- een recept heeft een of meer ingredïentenblokken.
-- een ingredïentenblok bestaat uit een lijst van ingredïenten.
-- als er twee of meer ingredïentenblokken zijn, dan hebben ze allemaal een naam.
-- alle ingredïenten uit een ingredïentenblok worden in een enkele stap in de bewerking gebruikt.
-- de ingredïenten uit een ingredïentenblok zijn geordend zoals ze in hun verwerkigsstap worden gebruikt.
-- de ingredïentenblokken zijn geordend zoals ze worden gebruikt, dus als blok n wordt gebruikt in stap p, dan wordt blok n+1 gebruikt in stap p+k.
--->
-
-<!-- Regels voor benodigdheden:
-- een recept kan een ingredïentenblok bevatten dat 'Benodigdheden' heet.
-- als dit ingredïentenblok voorkomt, is dat het laatste ingredïentenblok.
-- de 'ingredïenten' zijn zaken die nodig zijn voor de bereiding, zoals een kom, spatel, keukenmachine, bakvorm van 20 cm doorsnee, e.d.
-- als voor een van de benodigdheden alternatieven kunnen worden gebruikt, dan worden die (tussen haakjes) benoemd.
--->
-
-<!-- Voorbeeld:
-- Droge mengsel:
-  - 100 gram havermeel  
-  - 10 gram boekweitmeel  
-  - 70 gram amandelmeel  
-  - 8 gram bakpoeder, gezeefd (1 zakje)
-  - 2,4 gram kaneel  
-
-- Eimengsel:
-  - 75 gram ei (2,5 eieren L), op kamertemperatuur
-  - 50 gram honing
-  - 75 gram kokosolie (of neutrale olie)
-  - Snuf zout
-
-- Benodigdheden:
-  - rasp
-  - hakmes of notenmaler of deegroller
-  - deegkom
-  - garde of mixer of keukenmachine
-  - spatel
-  - bakvorm (metaal met bakbapier, of siliconenvorm)
-  - prikker (of vork)
-  - rooster
--->
+| Ingrediënt         |  Hoeveelheid             |
+|--------------------|:-----------------------:|
+| Frambozenpuree     |          200 g          |
+| Suiker             |           50 g          |
+| Gelatine (blaadjes)|        6 g (3 stuks)    |
+| Eidooiers          |  60 g<br>(≈3 M)         |
+| Slagroom (ongeklopt)|         250 g          |
+| Vanille-extract (optioneel) |        2 g     |
 
 ## Bereiding
 
@@ -143,20 +104,20 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - de naam van een bereiding van een tussenresultaat mag worden gebruikt als ware het de specificatie van een stap.
 -->
 
-<!-- Voorbeeld:
-1. Vulling: rasp de wortel, snijd de appel in (niet al te) kleine stukjes, hak walnoten (grof) en doe alles in een kom.
-2. Verwarm de oven voor op 175°C (o/b-warmte).
-3. Klop de eieren met honing en olie tot een romig mengsel, in een grote kom.
-4. Zeef en meng intussen havermeel, boekweitmeel, amandelmeel, bakpoeder, kaneel en zout.
-5. Spatel het droge mengsel door het eimengsel.
-6. Voeg vulling toe, meng voorzichtig.
-7. Vet een cakevorm goed in, ook siliconenvormen (of bekleed met bakpapier), schep het beslag in de cakevorm, strijk glad.
-8. Bak 40-50 minuten tot een prikker schoon uitkomt.
-9. Laat goed afkoelen (15-20 minuten, zodat de cake stevig wordt) en stort daarna op een rooster.
-10. Je kunt evt. nog versieren.
--->
+1. **Gelatine oplossen:** week de gelatine 5 min in koud water. Verwarm 20 g frambozenpuree en los hierin de uitgeknepen gelatine op. Meng door de rest van de puree.  
+   *Toets:* er mogen geen klontjes zichtbaar zijn.  
 
----
+2. **Eidooiermengsel:** klop de eidooiers met de suiker tot een bleek, romig mengsel. Verwarm au bain-marie tot 65°C, blijf roeren.  
+   *Toets:* mengsel is dikker, lichtgeel en heeft een lint-structuur.  
+
+3. **Puree mengen:** voeg de frambozen-gelatinepuree toe aan het warme eidooiermengsel. Laat afkoelen tot ≈30°C.  
+   *Toets:* mengsel is homogeen, niet te warm.  
+
+4. **Slagroom luchtig maken:** klop de slagroom lobbig (zachte pieken). Spatel voorzichtig door het afgekoelde mengsel.  
+   *Toets:* mengsel blijft luchtig en egaal roze.  
+
+5. **Opstijven:** giet in vorm(en) of glazen, laat min. 4 uur opstijven in koelkast.  
+   *Toets:* bavarois is stevig maar veerkrachtig.  
 
 ## Tips
 
@@ -168,18 +129,9 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - er zijn tips die vertellen hoe je veel gemaakte fouten het best kunt herstellen.
 -->
 
-<!-- Voorbeeld:
-- het dooiermengsel kun je niet stukkloppen, dus je kunt het meteen aanzetten.
-- zeef het bakpoeder. In een zakje wil het nog wel wat geklonterd zijn, en zulke klontjes wil je niet in je deeg.
-- bij kokosolie: zorg dat er geen grote klonten in het eimengsel komen te zitten; verwarm desnoods even in magnetron, en laat zo nodig afkoelen (het mag max 30-40°C zijn), zodat het ei niet al stolt als je het toevoegt en gaat kloppen.
-- als het beslag erg nat lijkt (door de appel of wortel) kun je 10–20g extra amandelmeel (of havermeel) toevoegen, of 10g maizena.
-- je kunt het eiwit apart opkloppen voor (extra) luchtigheid, maar het is niet nodig. Als je dat doet:
-  - vouw je het geklopte eiwit door het beslag nadat je de vulling hebt toegevoegd (dus als laatste).
-  - Stijf geklopte eiwitten (stevige pieken) geven maximale luchtigheid, maar mengen minder goed (klonteren/breken sneller bij het vouwen) en kunnen grote luchtbellen veroorzaken waardoor je cake broos wordt en makkelijker instort.
-  - Lobbig geklopte eiwitten (zachte pieken) mengen makkelijker, geven iets minder luchtigheid, maar zijn stabieler wat een vastere structuur oplevert en minder risico op uit elkaar vallen.
--->
-
----
+- Gelatine nooit koken, anders verliest het bindkracht.  
+- Klop slagroom niet te stijf, anders mengt het slecht en krijg je klonten.  
+- Laat het fruitmengsel goed afkoelen vóór het mengen met slagroom, anders smelt de luchtigheid weg.  
 
 ## Versieren
 
@@ -192,28 +144,10 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - als een mogelijkheid om het eindproduct te versieren een product bevat dat eenvoudig gemaakt kan worden, dan wordt ofwel de lijst van ingredïenten en een korte werkwijze hiervoor gegeven, ofwel een verwijzing naar het recept.
 -->
 
-<!-- Voorbeeld:
-- Voor het bakken:
-  - halve walnoten bovenop het beslag drukken (licht indrukken zodat ze deels blijven uitesteken)
-  - schijfjes appel of wortellintjes (heel dun): leg er 2-3 decoratief in een waaier bovenop. Zo nodig bestrijken met olie of honing zodat ze niet uitdrogen.
-
-- Na het bakken:
-  - Maak een beetje honing/water (H/W)-mengsel (2:1), smeer de cake in 'plak' daar 'versierseltjes' op, en smeer die ook in, zoals.
-    - sliertjes wortel of sinaasappelschil - kort blancheren, oprollen tot roosjes.
-    - geraspte sinaasappelschil.
-    - walnootstukjes. Je kunt ook met het H/W-mengsel een strak, recht pad over de cake maken en daar kleine walnootstukjes in drukken (of iets kroms...).
-    - eetbare bloemen (viooltje, korenbloemen).
-  - gezeefde poedersuiker, optioneel gestrooid door een klein sjabloon.
-  - insmeren met wat roomkaasglazuur (Ingredïenten: 100g volle roomkaas, 30g zachte boter, 30g honing/poedersuiker, optioneeel: 1g vanillepoeder of rasp van halve citroen. Recept: alles glad mengen, licht afkoelen en (met paletmes) op de cake smeren, evt. met spateltje een golf- of streeppatroon maken).
-  - mini-worteltjes van marsepein (of oranje/witte fondant).
-
-- Wat ook kan:
-  - twee platte vormen bakken of de cake horizontaal doorsnijden, en de delen op elkaar stapelen met daartussen bijvoorbeeld roomkaascrème, wortelmousse of gegeleerde sinaasappel.
-  - dunne krullen of schotsen van witte of pure chocolade.
-  - getempereerde suikerdecoraties: druppels of spiralen van gekookte suiker.
--->
-
----
+- Na het koelen:
+  - Verse frambozen erop leggen.  
+  - Lichte frambozencoulis eroverheen gieten.  
+  - Dunne slagroomrand opspuiten langs de rand.  
 
 ## Als het is misgegaan
 
@@ -222,7 +156,11 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - De tabel beschrijft problemen, hoe die te herkennen op basis van concrete criteria, hoe het probleem als het zich voordoet kan worden hersteld, en wat je met het problematiche deelproduct kan doen als het net 'gered' kan worden.
 -->
 
----
+| Probleem         | Herkenning                    | Redding                               | Herbestemming                      |
+|------------------|-------------------------------|---------------------------------------|------------------------------------|
+| Te vloeibaar     | Na 4 uur nog niet stevig      | Extra gelatine oplossen en inmengen   | Gebruik als saus bij ijs           |
+| Te stevig/rubberig | Bavarois erg hard            | Volgende keer minder gelatine         | Snijden in blokjes als fruitgelei  |
+| Korrelige structuur | Slagroom geschift           | Volgende keer minder ver kloppen      | Door de blender tot mousse-structuur |
 
 ## Vaktermen
 
@@ -231,7 +169,9 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - Als een vakterm wordt gebruikt om een specifiek resultaat of een specifieke eigenschap aan te geven, dan wel ertoe moet leiden dat zo'n resultaat of eigenschap ontstaat, dan bevat de beschrijving concrete criteria op basis waarvan kan worden vastgesteld of het specifieke resultaat of eigenschap bestaat of is ontstaan.
 -->
 
----
+- **Au bain-marie:** verhitten van een kom boven heet water zonder direct contact met de warmtebron, zodat gecontroleerde verhitting plaatsvindt.  
+- **Lobbig (slagroom):** slagroom die zachte pieken vormt, die omvallen maar nog lichte structuur geven.  
+- **Spatelen:** met een spatel luchtig een ingrediënt door een ander mengen, zonder de luchtigheid te verliezen.  
 
 ## Ervaringen
 
@@ -240,10 +180,6 @@ Dit recept levert {korte beschrijving eindproduct, met de belangrijkste eigensch
 - Als dit hoofdstuk geen ervaringen bevat, verzin je een of twee ervaringen die een beginnend student gehad zou kunnen hebben, en de lessen die daaruit te trekken zijn.
 -->
 
-<!-- Voorbeeld:
-De eerste keer dat ik dit maakte had ik 2 L-eieren (44g aan dooiers), 90g havermeel, 15g boekweitmeel en 45g amandelmeel. Dat levert een lekker baksel op maar er moet zeker niet meer boekweitmeel in - een beetje extra honing of meer appeltjes mag wel. Maar de cake was ook wel heel erg luchtig: doordat ik hem te vroeg heb gestort viel hij uit elkaar.
+De eerste keer liet ik het fruitmengsel niet genoeg afkoelen. Toen ik de slagroom toevoegde, werd het mengsel dun en zakte de luchtigheid weg. De smaak was goed, maar de structuur te slap.  
 
-De tweede keer gebruikte ik een siliconen cupcake vorm, en hazelnoten ipv walnoten. Ik heb ze na het grof hakken 'gebruneerd', en 3 (gebruneerde) hazelnoten in het deeg van elke cupcake gedrukt. De vorm heb ik op een ovenrooster gezet. Je moet wel korter bakken, maar ik weet niet meer hoelang. Ik heb ze flink laten afkoelen en ze gingen erg gemakkelijk uit de vorm. Ze zijn niet zo goed gerezen - mogelijk omdat ik de eiwitten niet meer apart opklop. Recept aangepast en hoeveelheid bakpoeder wat verhoogd.
-
-De derde keer heb ik de hoeveelheden wat preciezer afgewogen, en weer (gebruneerde) hazelnoten gebruikt ipv walnoten. Toen ik de cupcakes in de voorverwarmde oven zette kwam ik er op een gegeven moment achter dat hij was uitgegaan; ik heb hem maar weer aangezet, de cupcakes erin laten zitten en met 30 min. waren ze mooi gaar en bruin. Na een tijdje afkoelen kwamen ze toch niet allemaal netjes uit de vorm - wellicht toch te kort laten afkoelen. Ze smaken heerlijk.
--->
+De tweede keer heb ik de slagroom zachter geklopt en beter op de temperatuur gelet. Het resultaat was veel luchtiger en stevig genoeg om in puntjes te snijden.
