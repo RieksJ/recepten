@@ -32,14 +32,29 @@ In de meeste baktoepassingen wordt gebruikgemaakt van kippenei-eiwit.
 - Vetten: vermijden tijdens kloppen; breekt schuimstructuur.
 - Zuren: stabiliseren schuim en verbeteren glans.
 
-### Eiwithoeveelheden in eieren
-| Eiermaat | Gewicht ei (g) | Eiwit per ei (g) |
-|----------|----------------|-----------------|
-| S        | 45 (44–50)     | 15 (14–16)      |
-| M        | 55 (51–60)     | 18 (16–19)      |
-| L        | 63 (61–70)     | 20 (19–21)      |
-| XL       | 73 (71–80)     | 23 (21–24)      |
-| XXL      | 83 (81–90)     | 26 (24–28)      |
+## Vergelijking: Gestandaardiseerde vs. Praktijkgewichten van Eieren
+
+| Eiermaat | Gewicht ei (g) | Eigeel (g) | Eiwit (g) | Praktijkgewicht ei (g) | Praktijk eigeel (g) | Praktijk eiwit (g) |
+|:--------:|:--------------:|:----------:|:----------:|:---------------------:|:------------------:|:-----------------:|
+| **S**    | 45 (44–50)     | 15 (14–16) | 30 (29–34) | 46                    | 15                 | 31                |
+| **M**    | 55 (51–60)     | 18 (16–19) | 37 (35–41) | 55                    | 18                 | 37                |
+| **L**    | 63 (61–70)     | 20 (19–21) | 43 (41–49) | 64                    | 20                 | 44                |
+| **XL**   | 73 (71–80)     | 23 (21–24) | 50 (47–56) | 72                    | 23                 | 49                |
+| **XXL**  | 83 (81–90)     | 26 (24–28) | 57 (53–62) | 82                    | 26                 | 56                |
+
+### Legenda
+
+- **Gestandaardiseerd:** Officiële richtlijnen voor het gewicht van eieren, eigeel en eiwit.
+- **Praktijk:** Gemiddelde waarden die in de keuken worden aangetroffen bij echte eieren, rekening houdend met natuurlijke variatie.
+
+### Bronnen
+
+- [British Egg Information Service – Gewicht van eigeel per eiermaat](https://www.egginfo.co.uk/egg-nutrition-and-health/egg-nutrition-information/white-and-yolk/egg-yolk-weight)
+- [Nigella Lawson – Gewicht van eiwit per ei](https://www.nigella.com/ask/weight-of-an-egg-white)
+- [Cooking Stack Exchange – Hoeveel weegt een eigeel en eiwit?](https://cooking.stackexchange.com/questions/77802/how-much-do-egg-yolks-and-whites-weigh-in-grams)
+- [Joy of Baking – Gewichten van een groot ei](https://www.joyofbaking.com/ingredients/Eggs.html)
+- [Gluten Free Alchemist – Liquid Whole Eggs: Gewicht per maat](https://www.glutenfreealchemist.com/egg-size-weight-international-guide-comparison-chart-conversion/)
+- [Burnbrae Farms – Liquid Egg Yolks: Gewicht per maat](https://bbfindustrial.com/en/conversions.html)
 
 ## Theorie 
 
