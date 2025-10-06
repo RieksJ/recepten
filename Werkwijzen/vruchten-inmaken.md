@@ -1,172 +1,140 @@
-# Vruchten inmaken
+# Vruchten inmaken — Meestereditie
 
-Recept voor het inmaken van allerlei vruchten, zodat ze lange tijd houdbaar blijven.
-Dit recept gebruikt een minimale hoeveelheid suiker voor langere houdbaarheid.
-De ingemaakte vruchten kunnen eventueel gepureerd worden - dan heb je dus vruchtenpuree.
+Recept voor het inmaken van allerlei vruchten, zodat ze lange tijd houdbaar blijven.  
+Dit recept gebruikt een minimale hoeveelheid suiker voor langere houdbaarheid.  
+De ingemaakte vruchten kunnen eventueel gepureerd worden — dan heb je dus vruchtenpuree.
 
-De hoeveelheid ingredïenten zijn zo gekozen dat ze gemakkelijk kunt aanpassen voor elke andere hoeveelheid vruchten.
+De hoeveelheden zijn berekend op het **netto gewicht van de schoongemaakte vruchten** (zonder pit, schil of klokhuis).  
+Ze zijn gemakkelijk aan te passen voor elke hoeveelheid.
+
+---
 
 ## Snelreferentie Inmaken Vruchten
 
-| Fruitcategorie / Fruit              | Suiker % | Citroenzuur % | Pectine g/100 g | Kooktijd afwijking rijp | Kooktijd afwijking stevig | Tips / Extra |
+| Fruitcategorie / Fruit              | Suiker % | Citroenzuur % | Pectine g/100 g | Kooktijd afwijking rijp | Kooktijd afwijking stevig | Tips / Extra |
 |-------------------------------------|:--------:|:-------------:|:---------------:|:-----------------------:|:------------------------:|---------------|
-| Bessen & Zure Vruchten              | 20–25    | 0,5–1,0       | n.v.t.          | -3 – -5 min             | +2 – 5 min               | Roer voorzichtig, schuim verwijderen |
-| Citrusfruit                         | 20–25    | 0,5           | n.v.t.          | ±0 min                  | ±0 min                   | Snijd schil dun; voorzichtig roeren |
-| Stevige Zomerfruit                  | 15       | 1,0           | n.v.t.          | -3 min                  | +2 – 4 min               | Warm zachtjes; stevige vruchten + extra citroenzuur 0,2% |
-| Peren & Zoetzure Appels             | 12–15    | 1,0–1,2       | n.v.t./1–2 g bij waterig | -3 min         | +3 – 5 min               | Voeg pectine bij waterig fruit |
-| Tropisch / Zeer Zoet Fruit          | 10–12    | 1,2–1,5       | n.v.t.          | -2 – -4 min             | +2 min                   | Lychee: extra 0,1–0,2% citroenzuur mogelijk |
-| Hoog Watergehalte / Zachte Vruchten | 12–15    | 1,0–1,2       | 1–2 g           | -2 min                  | +2–3 min                 | Voorzichtig koken op laag vuur met korte kooktijd, extra citroenzuur 0,2–0,3% bij licht friszure vruchten |
+| Bessen & Zure Vruchten              | 20–25    | 0,5–1,0       | n.v.t.          | -3 – -5 min             | +2 – 5 min               | Roer voorzichtig, schuim verwijderen |
+| Citrusfruit                         | 20–25    | 0,5           | n.v.t.          | ±0 min                  | ±0 min                   | Snijd schil dun; voorzichtig roeren |
+| Stevige Zomerfruit                  | 15       | 1,0           | n.v.t.          | -3 min                  | +2 – 4 min               | Warm zachtjes; stevige vruchten + extra citroenzuur 0,2 % |
+| Peren & Zoetzure Appels             | 12–15    | 1,0–1,2       | n.v.t. / 1–2 g bij waterig | -3 min       | +3 – 5 min               | Voeg pectine bij waterig fruit |
+| Tropisch / Zeer Zoet Fruit          | 10–12    | 1,2           | n.v.t.          | -2 – -4 min             | +2 min                   | Lychee: extra 0,1–0,2 % citroenzuur mogelijk. Teveel citroenzuur kan bittere nasmaak geven. |
+| Hoog Watergehalte / Zachte Vruchten | 12–15    | 1,0–1,2       | 1–2 g           | -2 min                  | +2–3 min                 | Voorzichtig koken op laag vuur met korte kooktijd, extra citroenzuur 0,2–0,3 % bij licht friszure vruchten |
+
+**Basis-kooktijd: 7 minuten zacht koken.** Deze tijd gaat in op het moment dat de fruitmassa gaat koken.
+De afwijkingen hierboven worden hierop toegepast (bijv. rijp fruit: 4–5 min; stevig fruit: 9–12 min).
+
+---
 
 | Fruitcategorie / Fruit              | Voorbeelden |
 |-------------------------------------|-------------|
-| Bessen & Zure Vruchten              | - Rabarber<br>- Bessen: Rode/Blauwe/Zwarte bes, Framboos, Braam, Krenten<br>- Zure appels: Goudreinet, Granny Smith, Jonathan                               |
-| Citrusfruit                         | Sinaasappel, Mandarijn, Clementine, Grapefruit, Pomelo, Tangerine, Citroen, Limoen                                                                          |
-| Stevige Zomerfruit                  | - Abrikoos, Kers, Perzik, Ananas, Kiwi, Nectarine<br>- Pruimen: Reine-Claude, Victoria, Opal, Jubileumpruim, Mirabel<br>- Zoetzure appels: Elstar, Jonagold |
-| Peren & Zoetzure Appels             | - Peren: Doyenné du Comice, Saint Rémy, Conference, Gieser Wildeman, Concorde<br>- Zoet/Neutrale Appels: Golden Delicious                                   |
-| Tropisch / Zeer Zoet Fruit          | Mango, Banaan, Papaja, Passievrucht, Lychee (rijp), Guave, Kaki                                                                                             |
-| Hoog Watergehalte / Zachte Vruchten | Aardbei, Meloen, Witte/Rode perzik, Kweepeer, Blauwe pruim                                                                                                  |
+| Bessen & Zure Vruchten              | - Rabarber<br>- Rode/Blauwe/Zwarte bes, Framboos, Braam, Krenten<br>- Zure appels: Goudreinet, Granny Smith, Jonathan |
+| Citrusfruit                         | Sinaasappel, Mandarijn, Clementine, Grapefruit, Pomelo, Tangerine, Citroen, Limoen |
+| Stevige Zomerfruit                  | - Abrikoos, Kers, Perzik, Ananas, Kiwi, Nectarine<br>- Pruimen: Reine-Claude, Victoria, Opal, Jubileumpruim, Mirabel<br>- Zoetzure appels: Notarisappel, Elstar, Jonagold |
+| Peren & Zoetzure Appels             | - Doyenné du Comice, Saint Rémy, Conference, Gieser Wildeman, Concorde<br>- Zoete/Neutrale appels: Golden Delicious |
+| Tropisch / Zeer Zoet Fruit          | Mango, Banaan, Papaja, Passievrucht, Lychee, Guave, Kaki |
+| Hoog Watergehalte / Zachte Vruchten | Aardbei, Meloen, Witte/Rode perzik, Kweepeer, Blauwe pruim |
 
-
-**Gebruikstips:**  
-- Roer regelmatig; verwijder schuim.  
-- Controleer rijpheid: zacht → korter koken; stevig → langer koken.  
-- Steriele potten gebruiken; waterbad of ovensterilisatie aanbevolen.  
-- Na openen: koelkast, binnen enkele weken gebruiken; laag-suiker variant korter houdbaar.  
-- Voor gelei/jam: voeg eventueel extra suiker of pectine toe en kook tot gewenste dikte.  
+---
 
 ## Ingrediënten
 
-De ingrediënten zijn steeds:
-- vruchten (schoongemaakt - klaar om te worden ingemaakt)
-- suiker (als percentage van de schoongemaakte vruchten)
-- citroenzuur (als percentage van de schoongemaakte vruchten)
+- Schoongemaakte vruchten  
+- Suiker (volgens tabel, als % van het vruchtgewicht)  
+- Citroenzuur (volgens tabel, als % van het vruchtgewicht)  
+- **Of:** citroensap — gebruik ± 12 ml sap per 1 g citroenzuur  
 
-> Let bij selectie van fruit op rijpheid, stevigheid en watergehalte.  
-> - **Rijp fruit:** zacht, geurend, licht meebuigend bij indrukken; kooktijd 3–5 min korter.  
-> - **Minder rijp / stevig fruit:** stevig, licht hard bij indrukken; kooktijd 2–5 min langer, voeg 0,2 % extra citroenzuur toe voor stabiliteit en kleurbehoud.  
-> - **Hoog watergehalte fruit (Meloen, aardbei, Lychee, Witte perzik):** sappig en doorzichtig; voeg eventueel 1–2 g pectine per 100 g fruit toe en kook voorzichtig zodat het niet uiteenvalt.
+---
 
 ## Bereiding
 
-1. Was, dep, schil (indien nodig) en ontpit de vruchten. Verwijder rotte plekken of beschimmeld fruit. Snijd grote of stevige vruchten in gelijke stukken.  
-   - **Controle rijpheid:** zacht fruit wiebelt licht bij indrukken; stevig fruit geeft weerstand.  
-2. Weeg de vruchten af en pas suiker en citroenzuur/citroensap aan volgens de tabel:  
-   - **Rijp / zacht fruit:** suiker aan de lage kant van de schaal (bijv. 20 % bij bessen), kook 3–5 min korter dan standaard.  
-   - **Stevig / minder rijp fruit:** suiker aan de hoge kant van de schaal, kook 2–5 min langer dan standaard; voeg extra 0,2 % citroenzuur toe voor stabiliteit.  
-   - **Hoog watergehalte fruit:** voeg 1–2 g pectine per 100 g fruit toe; kook voorzichtig om uit elkaar vallen te voorkomen.  
-3. Start het sterilisatieproces van de potten (zie hoofdstuk "Sterilisatie-opties") parallel aan de fruitverwerking.  
-4. Doe fruit, suiker en citroenzuur/citroensap in een pan en breng zachtjes aan de kook, af en toe roerend.  
-5. Kook 5–10 min zachtjes tot de vruchten zacht zijn en een licht ingedikte siroop ontstaat.  
-   - **Rijp fruit:** kooktijd 3–5 min korter.  
-   - **Stevig fruit:** kooktijd 2–5 min langer.  
-   - **Zacht / waterig fruit:** voorzichtig roeren; pectine toevoegen voor extra stabiliteit.  
-   - Roer regelmatig om aanbranden te voorkomen.  
-   - Verwijder schuim; dit kan de dekselafdichting belemmeren.  
-6. Proef het kooksel; het moet licht zuur smaken.  
-   - Te zoet of te rijp: voeg 0,5 % citroenzuur of 5–10 % citroensap toe; bij citroensap: laat iets indikken om extra vocht te verwijderen.  
-7. Schep direct in steriele potten; laat 1 cm ruimte tot de rand. Controleer: geen schuim aan rand, potrand droog en schoon.  
-8. OPTIONEEL:  
-   1. Draai pot kort om zodat hete inhoud langs wanden komt, daarna rechtop zetten.  
-   2. Waterbadsterilisatie: deksels los, potten tot halverwege in kokend water, 10 min zachtjes koken; haal eruit en draai deksels vast.  
-9. Laat potten langzaam afkoelen onder handdoeken of deken.  
-   - Controleer deksel: licht hol en veert terug; geen barsten.  
-   - Label met soort en datum.  
-   - Na openen: koelkast, binnen enkele weken gebruiken.
+1. Was, dep en schil de vruchten (indien nodig). Ontpit en verwijder rotte plekken. Snijd grote of stevige vruchten in gelijke stukken.  
+   - **Rijp fruit:** zacht, geurend, licht meebuigend bij indrukken.  
+   - **Stevig fruit:** hard, weinig geur, geeft weerstand.  
+2. Weeg het netto gewicht van de vruchten en bereken suiker en citroenzuur.  
+3. Steriliseer potten parallel (zie *Sterilisatie-opties*).  
+4. Doe fruit, suiker en citroenzuur/citroensap in een pan. Breng langzaam aan de kook, af en toe roerend.  
+5. Kook **7 minuten zachtjes** als basis. Pas aan volgens rijpheid (zie tabel).  
+   - **Rijp fruit:** 4–5 min.  
+   - **Stevig fruit:** 9–12 min.  
+   - **Zacht / waterig fruit:** voorzichtig roeren.  
+6. **Pectine toevoegen bij ± 85 °C**, niet eerder — anders verliest het bindkracht.  
+   - Bij commerciële pectine (NH of LM) ook 1 % suiker extra toevoegen bij het oplossen (voorkomt klonteren).  
+7. Verwijder schuim zorgvuldig; dit verbetert de dekselafdichting.  
+8. Proeven: haal een lepeltje kooksel en laat afkoelen tot ± 40 °C (warm smaakt altijd zuurder).
+   - Het kooksel moet licht zuur smaken.  
+   - Te zoet → voeg 0,5 % citroenzuur of 5–10 % citroensap toe; kook iets in.  
+   - Te zuur → 
+     - voeg 05-10 % extra suiker en laat nog 1-2 min meekoken, of  
+     - 10% extra zoet fruit of zoete vruchtensap (bijv. peer, banaan, wite druif) toe, of  
+     - los een snufje natriumbicarbonaat (baksoda) op in een lepel vloeistof en voeg druppelsgewijs toe tot het schuimen stopt - niet meer, anders gaat de smaak verloren.  
+9.  Als je puree wilt in plaats van hele vruchten kun je nu pureren en zo nodig zeven en het resultaat weer aan de kook laten komen.
+10. Schep direct in steriele potten; laat ± 1 cm ruimte tot de rand. Reinig de randen.  
+11. **Pasteuriseren van kooksel in (al gesteriliseerde) potten:**  
+    - **Optie 1:** pot kort ondersteboven zetten, daarna rechtop afkoelen.  
+    - **Optie 2:** waterbad — potten tot halverwege in zacht kokend water, 10 minuten; daarna deksels stevig aandraaien.  
+12. Laat potten langzaam afkoelen onder een handdoek, deken of een nog afkoelende oven.  
+    - **Vacuümcontrole:** deksel moet hol staan en niet klikken bij indrukken.  
+13. Label potten met inhoud en datum.  
+    - Na openen: koelkast, binnen enkele weken gebruiken.  
 
-## Richtlijn kooktijd en citroenzuur per fruit
+---
 
-| Categorie / Fruit                        | Rijpheid / Stevigheid                   | Kooktijd afwijken | Extra citroenzuur / pectine         | Controle & Actie bij afwijking                                             |
-|----------------------------------------- |-----------------------------------------|-----------------|------------------------------------|---------------------------------------------------------------------------|
-| **Bessen, Rabarber, Zure appels**        | Rijp: zacht, geurend                    | -3 tot -5 min    | N.v.t.                             | Vruchten vallen uit elkaar → verlaag warmte; kooktijd 1–2 min korter; voorzichtig roeren |
-|                                          | Stevig: licht hard                      | +2 tot +5 min    | +0,2 % citroenzuur                 | Vruchten nog hard → kooktijd 1–3 min verlengen; zachtjes roeren          |
-| **Citrusfruit**                          | Rijp / stevig                           | ±0 min           | N.v.t.                             | Schillen en pulp te hard → snijd dunner; te zacht → kooktijd 1–2 min verkorten, voorzichtig roeren |
-| **Pruimen, Abrikoos, Kers, Perzik, Nectarine, Zoetzure appels** | Rijp / zacht | -3 min          | N.v.t.                             | Vruchten plat / uit elkaar → warmte verlagen, kooktijd 1–2 min korter   |
-|                                          | Stevig / minder rijp                     | +2–4 min         | +0,2 % citroenzuur                 | Vruchten nog hard → kooktijd verlengen 2–3 min; voorzichtig roeren      |
-| **Zachtzoet / neutraal: Peren & Appels** | Rijp: zacht, geurend                     | -3 min           | N.v.t.                             | Vruchten uit elkaar → warmte verlagen; verkort kooktijd 1–2 min; roer voorzichtig |
-|                                          | Stevig / minder rijp                     | +3–5 min         | +0,2 % citroenzuur                 | Vruchten nog hard → kooktijd 2–3 min verlengen; pectine toevoegen bij waterig fruit |
-| **Zeer zoet / romig / exotisch**         | Rijp: zacht, geurend                     | -2–4 min         | +0,1–0,2 % citroenzuur bij Lychee | Vruchten papperig → verlaag warmte, kooktijd 1–2 min korter             |
-|                                          | Stevig / minder rijp                     | +2 min           | +0,2 % citroenzuur                 | Vruchten nog hard → kooktijd 1–2 min verlengen; roer voorzichtig         |
-| **Hoog watergehalte / zachte vruchten**  | Rijp / zacht                             | -2 min           | +1–2 g pectine /100 g fruit        | Vruchten uit elkaar → verlaag warmte; extra pectine toevoegen; roer voorzichtig |
-|                                          | Stevig / minder rijp                     | +2–3 min         | +0,2 % citroenzuur + pectine       | Vruchten nog hard → kooktijd verlengen 1–2 min; pectine toevoegen; controleer vorm regelmatig |
-
-## Sterilisatie-opties
-
-Potten en deksels moeten steriel zijn voor maximale houdbaarheid:
+## Sterilisaeren van potten (voordat ze worden gebruikt)
 
 | Methode   | Tijd / Temperatuur     | Opmerkingen |
-| --------- | ------------------     | ----------- |
-| Waterbad  | 10 min. koken          | Laat drogen op een schone handdoek; potten mogen elkaar niet raken, water zacht laten koken |
-| Oven      | 10 min. op 120 °C      | Rubber niet in oven; rubber apart 10 min. in kokend water |
-| Magnetron | 1–2 min. hoog vermogen | Beetje water in pot; controleer dat de pot niet te heet wordt aan de buitenkant |
+|----------- |-----------------------|-------------|
+| Waterbad   | 10 min. koken          | Laat drogen op een schone doek; potten mogen elkaar niet raken. |
+| Oven       | 10 min. op 120 °C      | Rubber niet in oven; apart 10 min. in kokend water. |
+| Magnetron  | 1–2 min. op hoog vermogen | Beetje water in pot; pot niet te heet laten worden. |
 
-## Tips
+> Deksels (van jampotten) en ringen (van weckpotten) altijd 5 min. in pan koken - ze kunnen niet in de oven of magnetron.
 
-- Citroenzuur voegt geen extra vocht toe; citroensap wel. Beide verhogen de zuurtegraad en helpen pectine activeren. Controle: smaak van kooksel moet licht zuur zijn.
-- Voor een **laag-suiker variant**: gebruik citroenzuur, koel bewaren na openen; houdbaarheid korter (max 2–4 weken).
-- Voor **meer smaak en dikte**: verhoog suiker naar 250–300 g per kg fruit; siroop moet langzaam van de lepel afdruipen.
-- Controleer potten op barsten of slechte afdichting voor opslag.
-- Label potten met datum en suikerhoeveelheid.
-- Gebruik altijd steriele lepels/pannen bij het scheppen om bederf te voorkomen.
-- Geleidelijke afkoeling (uit de tocht, uit de kou) zorgt dat de afdichting beter vormt en het risico op scheuren of barsten kleiner is.
+---
 
 ## Effect van suikerhoeveelheid
 
-- **Laag suiker: 15%**:
-  - Siroop is dunner en minder zoet.
-  - Geschikt voor compote of puree; basis voor jam/gelei waar je zelf extra suiker toevoegt.
-  - Houdbaar tot 12 maanden bij volledig steriele potten; controle: geen luchtbellen, geen gisting, fris zuur aroma.
+| Suiker       | Effect / Gebruik | Houdbaarheid (steriel, ongeopend) |
+|--------------|------------------|-----------------------------------|
+| **15 % (laag)** | Minder zoet, dunne siroop — ideaal voor compote of puree | 6–12 mnd bij kamertemp < 20 °C |
+| **25–30 % (hoog)** | Dikke siroop, klassiek zoet, direct geschikt als jam of gelei | Tot 12 mnd bij kamertemp < 20 °C |
 
-- **Hoog suiker: 25-30%**:
-  - Siroop is dikker en zoeter.
-  - Direct geschikt als jam of gelei.
-  - Langere houdbaarheid en intensere smaak; klassieke jam-structuur. Controle: siroop moet van lepel langzaam afdruipen en fruit moet stevig blijven in pot.
+> 1 g citroenzuur = ± 12 ml citroensap  
+> Controle: siroop moet langzaam van de lepel afdruipen.
+
+---
 
 ## Bewaar- en houdbaarheidsoverzicht
 
-| Suiker        | Sterilisatie | Opslag/Temperatuur  | Houdbaarheid   | Opmerkingen |
-| ------------- | :----------: | ------------------- | ------------   | ----------- |
-| Laag (15%)    | Niet         | Kamertemp. 15–20 °C | 1–2 weken      | Alleen voor kort gebruik |
-| Laag (15%)    | Wel          | Kamertemp. 15–20 °C | 2–4 weken      | Kortere houdbaarheid dan hoog suiker |
-| Laag (15%)    | Wel          | Koelkast 4 °C       | 2–4 weken      | Na openen, gebruik steriele lepel |
-| Laag (15%)    | Wel          | Vriezer -18 °C      | 6–12 maanden   | Textuur kan iets zachter worden na ontdooien |
-| Hoog (25-30%) | Niet         | Kamertemp. 15–20 °C | 1–2 weken      | Onveilig zonder sterilisatie |
-| Hoog (25-30%) | Wel          | Kamertemp. 15–20 °C | Tot 12 maanden | Klassieke jam-structuur, volledig steriel nodig |
-| Hoog (25-30%) | Wel          | Koelkast 4 °C       | 2–3 maanden    | Voor extra zekerheid of geopende potten |
-| Hoog (25-30%) | Wel          | Vriezer -18 °C      | 6–12 maanden   | Textuur kan iets zachter worden na ontdooien
+| Suiker        | Sterilisatie | Opslag / Temperatuur | Houdbaarheid | Opmerkingen |
+|---------------|:------------:|----------------------|--------------|--------------|
+| Laag (15 %)   | Niet         | Kamertemp 15–20 °C   | 1 week       | Kort gebruik |
+| Laag (15 %)   | Wel          | Kamertemp 15–20 °C   | 2 weken      | Gebruik snel na openen |
+| Laag (15 %)   | Wel          | Koelkast 4 °C        | 2–4 weken    | Steriele lepel gebruiken |
+| Hoog (25–30 %)| Niet         | Kamertemp 15–20 °C   | 1 week       | Onveilig op lange termijn |
+| Hoog (25–30 %)| Wel          | Kamertemp 15–20 °C   | 6–12 mnd     | Klassieke jam-structuur |
+| Hoog (25–30 %)| Wel          | Koelkast 4 °C        | 2–3 mnd      | Voor geopende potten |
+| Hoog (25–30 %)| Wel          | Vriezer -18 °C       | 6–12 mnd     | Textuur iets zachter |
 
-Je kunt de bewaartermijn 'verlengen' door de inhoud van een pot weer helemaal opnieuw te koken en in steriele potten te doen.
-Proef even of het nog voldoende zoet en zuur is, eņ voeg zo nodig nog een beetje suiker en/of citroenzuur toe - meestal zal het niet nodig zijn.
+> Verlengen? Kook de inhoud opnieuw kort op en vul steriele potten.  
+> Controleer geur (fris zuur = goed; gistig/muf = weggooien).
 
-## Extra tips
+---
 
-- Vermijd temperatuurschommelingen en direct zonlicht.
-- Na openen altijd in de koelkast bewaren; gebruik binnen enkele weken.
-- Controleer potten op barsten of slechte afdichting.
-- Roer tijdens koken regelmatig en verwijder schuim voor optimale dekselafdichting.
+## Extra Tips
 
-## Gebruik van ingemaakte vruchten (met verkorte recepten)
+- Citroenzuur voegt geen vocht toe; citroensap wel.  
+- Vermijd temperatuurschommelingen en direct zonlicht.  
+- Geleidelijke afkoeling geeft betere afdichting en minder kans op barsten.  
+- Gebruik altijd schone, steriele lepels en pannen.  
+- Label met datum, fruitsoort en suikerpercentage.  
+- Ruik en proef altijd vóór gebruik.
 
-- **Jam**
-  - Pureer ingemaakte vruchten.
-  - Voeg naar wens extra suiker en/of pectine toe.
-  - Kook kort tot de gewenste dikte (de siroop moet langzaam van een lepel afdruipen of aan één kant van de lepel blijft liggen als je deze scheef houdt).
-  - Controle dikte: leg een theelepeltje kooksel op een koud bordje, laat 1–2 min. afkoelen; het moet langzaam stollen en stevig blijven.
+---
 
-- **Compote / saus**
-  - Laat vruchten grotendeels heel of licht pureren.
-  - Warm serveren bij desserts, yoghurt of pannenkoeken.
-  - Kan kort worden ingekookt om te verdikken.
-  - Controle dikte: een kleine hoeveelheid op een lepel of bordje moet de gewenste consistentie behouden na afkoelen.
+## Gebruik van ingemaakte vruchten (verkort)
 
-- **Bakken / vulling**
-  - Gebruik ingemaakte vruchten of compote als vulling voor taarten, muffins, cakejes of broodjes.
-  - Optioneel inkoken of pureren afhankelijk van de gewenste textuur.
-
-- **Halffabricaat voor smoothies of sauzen**
-  - Pureer ingemaakte vruchten en vries in porties in.
-  - Bij gebruik in smoothies of desserts direct uit de vriezer toevoegen.
-
-- **Gelei**
-  - Pers ingemaakte vruchten door een fijne zeef of doek om sap te scheiden.
-  - Voeg eventueel suiker en pectine toe (richtlijn per 100 g sap: 50-100 g suiker en 4 g pectine (nog niet getest)).
-  - Kook tot gelei stolt, d.w.z. dat een druppel die je op een koud bordje laat afkoelen stolt (niet uitloopt).
+- **Jam:** pureer, voeg suiker / pectine toe, kook kort tot siroop langzaam van lepel druipt.  
+- **Compote / saus:** vruchten deels heel, kort inkoken.  
+- **Taartvulling:** eventueel inkoken of pureren.  
+- **Smoothies / sauzen:** pureren, in porties invriezen.  
+- **Gelei:** sap scheiden, 50–100 g suiker + 4 g pectine / 100 g sap, koken tot stollingstest slaagt.
