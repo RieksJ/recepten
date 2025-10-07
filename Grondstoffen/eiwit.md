@@ -42,6 +42,14 @@ In de meeste baktoepassingen wordt gebruikgemaakt van kippenei-eiwit.
 | **XL**   | 73 (71–80)     | 23 (21–24) | 50 (47–56) | 72                    | 23                 | 49                |
 | **XXL**  | 83 (81–90)     | 26 (24–28) | 57 (53–62) | 82                    | 26                 | 56                |
 
+Metingen uit eigen praktijk:
+
+|   datum    | winkel   | # eieren | totaal<br>eigeel (g) | totaal<br>eiwit (g) | gemiddeld<br>eigeel (g) | gemiddeld<br>eiwit (g) | eiwit / eigeel |
+| :--------: | :------: | :------: | :------:             | :------:            | :------:                | :------:               | :------:       |
+| 03-10-2025 | Lidl     |    7 M   |   114 g              |   214 g             |  16,29 g                |  30,57 g               |   1,88         |
+| 07-10-2025 | Lidl     |    8 M   |   152 g              |   252 g             |  19,00 g                |  31,50 g               |   1,66         |
+
+
 ### Legenda
 
 - **Gestandaardiseerd:** Officiële richtlijnen voor het gewicht van eieren, eigeel en eiwit.
