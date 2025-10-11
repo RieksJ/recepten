@@ -10,10 +10,10 @@ In de meeste baktoepassingen wordt gebruikgemaakt van kippenei-eiwit.
 
 ### Opkloppen van eiwit
 | Methode                          | Suiker toegevoegd         | Hoe lang kloppen     | Test op gereedheid                 | Risico's                                              |
-|---------------------------------|--------------------------|-------------------|----------------------------------|------------------------------------------------------|
+|----------------------------------|--------------------------|-------------------|----------------------------------|------------------------------------------------------|
 | Stevig schuim (zonder suiker)    | 0 g                      | 3–5 min           | Pieken staan rechtop, glanzend    | Te kort: volume laag, schuim instabiel; te lang: schuim droog en korrelig |
-| Zacht schuim (soufflé/meringue) | 25–50 g per 100 g eiwit  | 5–7 min           | Pieken buigen licht, glanzend, klopper 'lekt' niet  | Te kort: instabiel; te lang: korrelig, kan scheiden |
-| Stijf schuim (macarons/meringue)| 50–75 g per 100 g eiwit  | 7–10 min          | Pieken staan stijf rechtop, glans aanwezig | Te kort: schuim zakt in; te lang: droog, brokkelig |
+| Zacht schuim (soufflé/meringue)  | 25–50 g per 100 g eiwit  | 5–7 min           | Pieken buigen licht, glanzend, klopper 'lekt' niet  | Te kort: instabiel; te lang: korrelig, kan scheiden |
+| Stijf schuim (macarons/meringue) | 50–75 g per 100 g eiwit  | 7–10 min          | Pieken staan stijf rechtop, glans aanwezig | Te kort: schuim zakt in; te lang: droog, brokkelig |
 | Italiaans meringue (siroop 115–120°C) | 100 g per 100 g eiwit | 5–7 min na toevoegen siroop | Glanzend, stijve pieken | Te kort: schuim instabiel; te lang: korrelig, oververhit |
 
 ### Tips voor gebruik
@@ -34,6 +34,9 @@ In de meeste baktoepassingen wordt gebruikgemaakt van kippenei-eiwit.
 
 ## Vergelijking: Gestandaardiseerde vs. Praktijkgewichten van Eieren
 
+- **Gestandaardiseerd:** Officiële richtlijnen voor het gewicht van eieren, eigeel en eiwit.
+- **Praktijk:** Gemiddelde waarden die in de keuken worden aangetroffen bij echte eieren, rekening houdend met natuurlijke variatie.
+
 | Eiermaat | Gewicht ei (g) | Eigeel (g) | Eiwit (g) | Praktijkgewicht ei (g) | Praktijk eigeel (g) | Praktijk eiwit (g) |
 |:--------:|:--------------:|:----------:|:----------:|:---------------------:|:------------------:|:-----------------:|
 | **S**    | 45 (44–50)     | 15 (14–16) | 30 (29–34) | 46                    | 15                 | 31                |
@@ -42,18 +45,12 @@ In de meeste baktoepassingen wordt gebruikgemaakt van kippenei-eiwit.
 | **XL**   | 73 (71–80)     | 23 (21–24) | 50 (47–56) | 72                    | 23                 | 49                |
 | **XXL**  | 83 (81–90)     | 26 (24–28) | 57 (53–62) | 82                    | 26                 | 56                |
 
-Metingen uit eigen praktijk:
+### Metingen uit eigen praktijk
 
 |   datum    | winkel   | # eieren | totaal<br>eigeel (g) | totaal<br>eiwit (g) | gemiddeld<br>eigeel (g) | gemiddeld<br>eiwit (g) | eiwit / eigeel |
 | :--------: | :------: | :------: | :------:             | :------:            | :------:                | :------:               | :------:       |
 | 03-10-2025 | Lidl     |    7 M   |   114 g              |   214 g             |  16,29 g                |  30,57 g               |   1,88         |
 | 07-10-2025 | Lidl     |    8 M   |   152 g              |   252 g             |  19,00 g                |  31,50 g               |   1,66         |
-
-
-### Legenda
-
-- **Gestandaardiseerd:** Officiële richtlijnen voor het gewicht van eieren, eigeel en eiwit.
-- **Praktijk:** Gemiddelde waarden die in de keuken worden aangetroffen bij echte eieren, rekening houdend met natuurlijke variatie.
 
 ### Bronnen
 
@@ -63,6 +60,21 @@ Metingen uit eigen praktijk:
 - [Joy of Baking – Gewichten van een groot ei](https://www.joyofbaking.com/ingredients/Eggs.html)
 - [Gluten Free Alchemist – Liquid Whole Eggs: Gewicht per maat](https://www.glutenfreealchemist.com/egg-size-weight-international-guide-comparison-chart-conversion/)
 - [Burnbrae Farms – Liquid Egg Yolks: Gewicht per maat](https://bbfindustrial.com/en/conversions.html)
+
+## Is mijn kom groot genoeg?
+
+Het volume van opgeklopt eiwit (in ml) is ongeveer 2,7 x het gewicht van het eiwit (in gram).  
+Gebruik een kom die groot genoeg is (1,5x of meer van het eindvolume), of klop het eiwit in meerdere kommen.
+
+|  Eiwitten       | *2,7 → Volume | Kom volume |
+|:---------------:|:-------------:|:----------:|
+|  148 g (≈ 4 M)  |   400 ml      |  600 ml    |
+|  222 g (≈ 6 M)  |   600 ml      |  900 ml    |
+|  296 g (≈ 8 M)  |   800 ml      |  1200 ml   |
+|  370 g (≈10 M)  |   1000 ml     |  1500 ml   |
+|  444 g (≈12 M)  |   1200 ml     |  1800 ml   |
+|  ...            |    ...        |   ...      |
+|  740 g (≈20 M)  |   2000 ml     |  3000 ml   |
 
 ## Theorie 
 

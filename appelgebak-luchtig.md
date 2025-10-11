@@ -1,6 +1,19 @@
-Ik heb een recept voor appelgebak dat gemaakt is door een student voor een andere student, waarbij het de bedoeling is dat het compleet is en niet noodzakelijk de gemakkelijkste manier. De voorbereidingen zijn bedoeld om een soort routine te kweken om eerst alles klaar te zetten om daarna zonder gedoe de kunnen mengen, kloppen, en andere patisserie-handelingen te kunnen doen.  Geef hierop feedback als een meester-bakker.
-
 # Luchtig Appelgebak
+
+<!-- Ik stel voor het recept te herwerken volgens dit didactisch principe: 
+
+Fasegewijze opbouw
+→ recept opdelen in duidelijke “leerfases” met leereffect per stap.
+
+Visuele/voelbare controlepunten
+→ zinnen toevoegen als: “het mengsel moet eruitzien als…” of “voelt aan als…”.
+
+Foutgevoelige punten markeren
+→ waarschuwingen (“⚠ let op”) bij veelgemaakte fouten.
+
+Leerdoel bij stap
+→ per hoofdonderdeel kort: waarom doen we dit zo?
+-->
 
 Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meerdere bakvormen.  
 
@@ -8,59 +21,68 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 **Ontdooien:** eerst in de koelkast.  
 **Gebruik:** bij koffie/thee of als nagerecht met slagroom of hangop.
 
----
+## Eindproduct-tabel
 
-## Ingrediënten
+| Eindproduct            | 1 kg         | 1,5 kg        | 2 kg (1)      | 2 kg (2)      | 3 kg          | 5 kg          |
+|------------------------|:------------:|:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| Personen               | 6–7          | 9–10          | 12–13         | 12–13         | 18–20         | 30–32         |
+| Gewicht beslag         | ≈ 1,1 kg     | ≈ 1,7 kg      | ≈ 2,2 kg      | ≈ 2,2 kg      | ≈ 3,4 kg      | ≈ 5,6 kg      |
+| Volume                 | ≈ 1,03 l     | ≈ 1,54 l      | ≈ 2,05 l      | ≈ 2,05 l      | ≈ 3,07 l      | ≈ 5,12 l      |
+| Vorm                   | rond, Ø18 cm | rond, Ø20 cm  | 15×25 cm      | rond, Ø24 cm  | 20×30 cm      | 30×35 cm      |
+| Hoogte                 | ≈ 4,9 cm     | ≈ 4,9 cm      | ≈ 4,9 cm      | ≈ 4,8 cm      | ≈ 5,0 cm      | ≈ 5,1 cm      |
+| Geschatte baktijd      | 35–45 min    | 40–50 min     | 45–55 min     | 45–55 min     | 50–60 min     | 60–75 min     |
+| Oventemperatuur O/B    | 175 °C       | 175 °C        | 170 °C        | 170 °C        | 170 °C        | 165 °C        |
 
-| Ingrediënt             |  Ø18 cm         |  Ø20 cm         |  15×25 cm       |  Ø24 cm         |  20×30 cm        |  30×36 cm        |
-|------------------------|:---------------:|:---------------:|:---------------:|:---------------:|:----------------:|:----------------:|
-| **Eindproduct**        |                 |                 |                 |                 |                  |                  |
-| Personen               | 5–7             | 6–8             | 7–9             | 9–11            | 10–12            | 16–18            |
-| Gewicht beslag         | 1349 g          | 1671 g          | 1943 g          | 2231 g          | 3068 g           | 5300 g           |
-| Volume                 | ≈ 1,215 l       | ≈ 1,504 l       | ≈ 1,748 l       | ≈ 2,008 l       | ≈ 2,763 l        | ≈ 4,775 l        |
-| Hoogte                 | ≈ 4,77 cm       | ≈ 4,78 cm       | ≈ 4,68 cm       | ≈ 4,42 cm       | ≈ 4,60 cm        | ≈ 4,42 cm        |
-| Geschatte baktijd      | 35–45 min       | 40–50 min       | 45–50 min       | 45–55 min       | 50–60 min        | 60–75 min        |
-| Oventemperatuur O/B    | 175 °C          | 175 °C          | 175 °C          | 170 °C          | 170 °C           | 165 °C           |
-| **Appels**             |                 |                 |                 |                 |                  |                  |
-| Appels, geschild       | 526 g           | 631 g           | 737 g           | 842 g           | 1157 g           | 1999 g           |
-| **Droog mengsel**      |                 |                 |                 |                 |                  |                  |
-| Amandelmeel            | 121 g           | 146 g           | 170 g           | 194 g           | 267 g            | 461 g            |
-| Bloem                  | 114 g           | 137 g           | 160 g           | 183 g           | 251 g            | 434 g            |
-| Bakpoeder, gezeefd     | 10 g            | 12 g            | 14 g            | 16 g            | 22 g             | 38 g             |
-| Zout                   | 1,4 g           | 1,7 g           | 2,0 g           | 2,3 g           | 3,1 g            | 5,4 g            |
-| Kaneelpoeder (optie)   | 3,6 g           | 4,3 g           | 5,0 g           | 5,7 g           | 7,9 g            | 13,6 g           |
-| Rozijnen (optie)       | 71 g            | 86 g            | 100 g           | 114 g           | 157 g            | 271 g            |
-| **Dooiermengsel**      |                 |                 |                 |                 |                  |                  |
-| Eidooiers              | 90 g<br>(≈5 M)  | 108 g<br>(≈6 M) | 126 g<br>(≈7 M) | 144 g<br>(≈8 M) | 198 g<br>(≈11 M) | 342 g<br>(≈19 M) |
-| Suiker (dooiermengsel) | 79 g            | 94 g            | 110 g           | 126 g           | 173 g            | 299 g            |
-| Boter, zacht           | 79 g            | 94 g            | 110 g           | 126 g           | 173 g            | 299 g            |
-| Citroenrasp (optie)    | 1,8 g           | 2,1 g           | 2,5 g           | 2,9 g           | 3,9 g            | 6,8 g            |
-| Vanille-extract(**)    | 2,5 g           | 3,0 g           | 3,5 g           | 4,0 g           | 5,5 g            | 9,5 g            |
-| **Eiwitschuim**        |                 |                 |                 |                 |                  |                  |
-| Eiwitten               | 185 g<br>(≈5 M) | 222 g<br>(≈6 M) | 259 g<br>(≈7 M) | 296 g<br>(≈8 M) | 407 g<br>(≈11 M) | 703 g<br>(≈19 M) |
-| Suiker (eiwitten)      | 64 g            | 77 g            | 90 g            | 103 g           | 141 g            | 244 g            |
-| Zout (eiwitten)        | 0,7 g           | 0,9 g           | 1,0 g           | 1,1 g           | 1,6 g            | 2,7 g            |
+## Ingrediëntentabel
 
-**\*\\)**: Er is kans op overbakken van de bovenkant. Check vanaf 45 minuten of de bovenkant niet te bruin wordt en leg er folie op als dat zo is. 
-**\*\*\)**: Je kunt ipv X gram vanille-extract ook X gram vanille-suiker gebruiken, en de 'Suiker (dooiermengsel)' met X gram verminderen.
+| Ingrediënt             | 1 kg          | 1,5 kg        | 2 kg (1)      | 2 kg (2)      | 3 kg          | 5 kg          |
+|------------------------|:-------------:|:-------------:|:-------------:|:-------------:|:--------------|:-------------:|
+| **Appels**             |               |               |               |               |               |               |
+| Appels, geschild       | 450 g         | 675 g         | 900 g         | 900 g         | 1350 g        | 2250 g        |
+| Rozijnen (optie)       | 60 g          | 90 g          | 120 g         | 120 g         | 180 g         | 300 g         |
+| **Droog mengsel**      |               |               |               |               |               |               |
+| Amandelmeel            | 100 g  (50 g) | 150 g  (75 g) | 200 g (100 g) | 200 g (100 g) | 300 g (150 g) | 500 g (250 g) |
+| Bloem                  | 100 g (150 g) | 150 g (225 g) | 200 g (300 g) | 200 g (300 g) | 300 g (450 g) | 500 g (750 g) |
+| Bakpoeder, gezeefd     | 8 g    (10 g) | 12 g   (15 g) | 16 g   (20 g) | 16 g   (20 g) | 24 g   (30 g) | 40 g   (50 g) |
+| Zout                   | 1,2 g         | 1,8 g         | 2,4 g         | 2,4 g         | 3,6 g         | 6,0 g         |
+| Kaneelpoeder (optie)   | 3 g           | 4,5 g         | 6 g           | 6 g           | 9 g           | 15 g          |
+| **Dooiermengsel**      |               |               |               |               |               |               |
+| Eidooiers              | 72 g (4 M)    | 108 g (6 M)   | 144 g (8 M)   | 144 g (8 M)   | 216 g (12 M)  | 360 g (20 M)  |
+| Boter, zacht           | 65 g          | 98 g          | 130 g         | 130 g         | 195 g         | 325 g         |
+| Citroenrasp (optie)    | 1,5 g         | 2,3 g         | 3,0 g         | 3,0 g         | 4,5 g         | 7,5 g         |
+| Suiker (dooiermengsel) | 65 g          | 98 g          | 130 g         | 130 g         | 195 g         | 325 g         |
+| Vanille-extract *)     | 2,0 g         | 3,0 g         | 4,0 g         | 4,0 g         | 6,0 g         | 10,0 g        |
+| **Eiwitschuim**        |               |               |               |               |               |               |
+| Eiwitten               | 148 g (4 M)   | 222 g (6 M)   | 296 g (8 M)   | 296 g (8 M)   | 444 g (12 M)  | 740 g (20 M)  |
+| Suiker (eiwitten)      | 50 g          | 75 g          | 100 g         | 100 g         | 150 g         | 250 g         |
+| Zout (eiwitten)        | 0,6 g         | 0,9 g         | 1,2 g         | 1,2 g         | 1,8 g         | 3,0 g         |
+| **Diversen**           |               |               |               |               |               |               |
+| Inhoud eiwit klopkom   | ≥ 0,6 l       | ≥ 0,9 l       | ≥ 1,2 l       | ≥ 1,2 l       | ≥ 1,8 l       | ≥ 3 l         |
+| Volume eischuim        | ≈ 400 ml      | ≈ 600 ml      | ≈ 800 ml      | ≈ 800 ml      | ≈ 1200 ml     | ≈ 2000 ml     |
+
+> Je kunt ipv X gram vanille-extract ook X gram vanille-suiker gebruiken, en de 'Suiker (dooiermengsel)' met X gram verminderen.
+> Je kunt spelen met de verhouding amandelmeel:bloem:bakpoeder - zie [appendix](#amandelmeel-bloem-bakpoeder)
 
 ---
 
 ## Bereidingswijze
 
 1. Voorbereidingen (Mise en place):
-   1. Haal boter en eieren uit de koeling.
-   2. Doe de boter en citroenrasp in een bakje, laat die op kamertemperatuur (20-22 °C) komen (liefst niet in de magnetron).
-   3. Splits de eieren - eidooier in een kom, eiwitten in vetvrije kom (kamertemperatuur).
-   4. Droogmengsel: zeef bloem en bakpoeder, voeg amandelmeel, zout en kaneel toe, en meng tot egaal geheel.
-   5. Dooiermengsel-suiker: suiker en vanille extract in een bakje - zie tips.
-   6. Zoutbakje voor eiwitten.
-   7. Eiwitsuikerbakje apart.
-   8. Rozijnen 10-15 min. weken in warm water of appelsap.
-   9. Schil de appels, verwijder de klokhuizen, snijd in 3-4 mm plakjes. Dep droog.  
-   10. Rozijnen afgieten en droogdeppen.  
-   11. Oven voorverwarmen op 175 °C (boven-/onderwarmte). 
-   12. Bakvorm invetten of bekledenmet bakpapier.  
+   1. Haal allereerst boter en eieren uit de koeling.
+   2. Splits de eieren - eidooier in een kom, eiwitten in vetvrije kom (kamertemperatuur).
+   4. Dooiermengsel:
+      1. Doe de boter en citroenrasp in een bakje, laat die op kamertemperatuur (20-22 °C) komen (liefst niet in de magnetron).
+      2. Suiker (dooiermengsel) en vanille extract in een bakje - zie tips.
+   5. Eiwitmengsel:
+      1. Bakje met zout (eiwitten).  
+      2. Bakje met suiker (eiwitten) apart.
+   6. Droogmengsel: zeef bloem en bakpoeder, voeg amandelmeel, zout en kaneel toe, en meng tot egaal geheel.
+   7. Appels en Rozijnen:
+      1. Rozijnen 10-15 min. weken in warm water of appelsap.
+      2. Schil de appels, verwijder de klokhuizen, snijd in 3-4 mm plakjes. Dep droog.  
+      3.  Rozijnen afgieten en droogdeppen.  
+   8. Oven voorverwarmen op de temperatuur uit de ingrediënten-tabel. 
+   9. Bakvorm invetten of bekledenmet bakpapier.  
 
 > tip: Als je geen vanille extract hebt, kun je daarvoor vanillesuiker gebruiken.  
 >   X gram vanille extract vervang je door X gram vanillesuiker, en je vermindert de hoeveelheid suiker (dooiermengsel) dan met X gram.
@@ -98,7 +120,7 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
    - Dun laagje beslag in de vorm, appelrestjes + plakjes + rozijnen.
    - Herhaal lagen, eindig met appelplakjes bovenop.
 
-7. **Bakken**: midden van de oven, tijd: zie tabel, tot een goudbruine taart die slaagt voor de 'prikkertest'.  
+7. **Bakken**: midden van de oven, tijd en temperatuur: zie ingrediënten-tabel, tot een goudbruine taart die slaagt voor de 'prikkertest'.  
 
 > - Controleer vanaf 5 min voor de aangegeven baktijd of het gebak al gaar is (want elke oven is anders).  
 > - Als de prikker er niet droog uitkomt, gewoon 5–10 minuten langer bakken. Dit kun je verschillende malen herhalen (nodig als de appels vochtig zijn).  
@@ -117,6 +139,70 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 - Als je het gebak wilt laten glanzen, bestrijk het dan direct na het bakken met een dun laagje warme abrikozenjam (beschermt ook tegen uitdrogen). Gebruik liever geen ei voor het bakken zodat de appelschijfjes nog mooi karamelliseren.   
 - Controleer oven vroegtijdig: te lang bakken maakt de taart droog.  
 - Bij een te nat resultaat: 5–10 min langer bakken met folie over de taart.  
+
+---
+
+## Vaktermen
+
+- **Spatelen**: met een spatel voorzichtig door beslag bewegen (snijdend en heffend) om luchtigheid te behouden.  
+- **Vouwen**: techniek waarbij twee mengsels worden gecombineerd door het ene mengsel steeds van onder naar boven over het andere te tillen.  
+- **Lobbig**: toestand van opgeklopt eiwit waarbij zachte pieken blijven staan maar nog iets doorzakken.  
+- **Stijf opgeklopt**: toestand van eiwit waarbij pieken rechtop blijven staan en glanzend zijn.  
+- **Bakken “tot prikker schoon”**: (prikkerproef) test op gaarheid; een houten prikker moet er droog uitkomen zonder beslagresten.  
+- **Romig kloppen**: luchtig mengen van boter, suiker en eidooiers tot een lichtgeel, luchtig geheel zonder klontjes.  
+- **Homogeen**: mengsel waarbij alle ingrediënten volledig zijn opgenomen zonder zichtbare strepen of klonten.  
+- **Luchtig**: structuur waarin veel lucht is opgenomen, zichtbaar als een lichte, zachte textuur. 
+- **Schiften**: het mengsel dat normaal glad hoort te zijn valt uiteen in vet en vocht - je ziet dan kleine vetdeeltjes drijven in een natte massa (korrelige structuur).  
+- **Familie maken**: een baktechniek waarbij een kleine hoeveelheid licht, luchtig mengsel (zoals opgeklopt eiwit of slagroom) voorzichtig door een zwaarder mengsel wordt opgenomen om het geheel te verlichten, zodat het resterende lichte mengsel later gemakkelijker en zonder verlies van luchtigheid kan worden ingeklopt of gevouwen.  
+
+---
+
+## Verklaring van de hoeveelheden
+
+1. Eidooiers als uitgangspunt:
+   - Per eindproduct is het maximaal haalbare aantal M-eidooiers gekozen zonder restanten.
+   - Dit zorgt dat het beslag stabiel blijft en de luchtigheid optimaal is.
+2. Eiwitten volledig benut:
+   - Aantal eiwitten is exact afgestemd op de gekozen dooiers zodat het schuim volledig wordt gebruikt, zonder rest.
+   - Verhouding dooier:eiwit ≈ 1:2 → luchtig maar stabiel schuim.
+3. Droge ingrediënten en vet:
+   - Verhouding amandelmeel:bloem:bakpoeder:suiker/zout/kaneel is lineair opgeschaald.
+   - Appelgewicht rond 40–45 % van het totale beslag om sappigheid en structuur te behouden.
+   - Boter/suiker in dooiermengsel lineair opgeschaald om consistentie en romigheid te behouden.
+4. Volume en hoogte:
+   - Berekening volume = beslaggewicht / dichtheid (≈1,095 g/ml)
+   - Hoogte = volume / vormoppervlak (afgerond).
+5. Baktijd en oventemperatuur:
+   - Gebaseerd op volume en hoogte van het eindproduct.
+   - Grotere of dikkere producten → lagere oventemperatuur en langere baktijd.
+
+---
+
+## Verschillende verhoudingen amandelmeel/bloem/bakpoeder {#amandelmeel-bloem-bakpoeder}
+
+Als je de verhouding amandelmeel/bloem verschuift naar meer bloem, dan heeft dat invloed op:
+- **Structuur**: steviger, minder kans op inzakken; het beslag wordt elastischer door meer gluten.
+- **Luchtigheid**: iets minder rijke, zachte kruim, maar stabieler; makkelijker te hanteren.
+- **Smaak**: amandelsmaak wordt subtieler, minder aromatisch (of verdwijnt helemaal).
+- **Hanteerbaarheid**: meer bloem in het beslag maakt makkelijker te hanteren met minder kans op mislukken.
+- **Bakpoeder**: een kleine aanpassing van bakpoeder is nodig om luchtigheid te behouden; je kunt evt. ook een extra eiwit gebruiken.
+
+| amandel:bloem | Bakpoeder *) | Effect op beslag  | Tips voor luchtigheid & stabiliteit |
+|:------:|:------:|--------------------------------|-------------------------------------|
+| 0:100  | 4,5 %  | Zeer stevig, elastisch         | Beslag is stevig en stabiel; luchtigheid is beperkt, goed hanteerbaar voor iedereen |
+| 25:75  | 4,6 %  | Stevig, elastisch              | Beslag blijft goed vormvast; voorzichtig vouwen is voldoende om luchtigheid te behouden |
+| 50:50  | 4,0 %  | Zacht, rijk, luchtig           | Klassieke balans tussen smaak, luchtigheid en stabiliteit; vouw voorzichtig om luchtigheid te behouden |
+| 75:25  | 4,0 %  | Zeer zacht, rijk, aromatisch   | Beslag kan inzakken; vouw heel voorzichtig, overweeg iets meer eiwit om luchtigheid te ondersteunen |
+| 100:0  | 4,4 %  | Zeer zacht, sterk amandelaroma | Beslag is gevoelig voor inzakken; alleen ervaren leerlingen of met extra voorzichtigheid vouwen |
+
+> de hoeveelheid bakpoeder is het aangegeven percentage over het toaalgewicht van amandelmeel + bloem.
+
+**Praktische regels**:
+1. **Plakjes appel altijd 3–4 mm dik**: te dik → te veel vocht tegelijk dat niet weg kan → risico op zompig eindproduct.  
+2. **Dep appels goed droog**: oppervlaktevocht niet door bloem/bakpoeder opgenomen.  
+3. **Vouwen van eiwitschuim**: hoe hoger amandelgehalte, hoe voorzichtiger invouwen nodig om luchtigheid te behouden.  
+4. **Baktijd/ovencontrole**: hoger bloemgehalte → iets korter bakken, hoger amandelgehalte → iets langer bakken om zompigheid te voorkomen.  
+5. **Bakpoeder**: bij meer bloem of minder amandel kan iets meer bakpoeder de luchtigheid ondersteunen; bij hoog amandelgehalte iets reduceren om instorten te voorkomen.
 
 ---
 
@@ -152,18 +238,3 @@ Herstel (als het is gebeurd): snijd de taart in punten, leg ze op bakpapier en d
 Volgende keer:
 - Appelplakjes dunner (3 mm) en droogdeppen.
 - Laat de taart in de afkoelende oven staan met de deur op een kier (tot bijna volledig is afgekoeld, ±1–2 uur)
-
----
-
-## Vaktermen
-
-- **Spatelen**: met een spatel voorzichtig door beslag bewegen (snijdend en heffend) om luchtigheid te behouden.  
-- **Vouwen**: techniek waarbij twee mengsels worden gecombineerd door het ene mengsel steeds van onder naar boven over het andere te tillen.  
-- **Lobbig**: toestand van opgeklopt eiwit waarbij zachte pieken blijven staan maar nog iets doorzakken.  
-- **Stijf opgeklopt**: toestand van eiwit waarbij pieken rechtop blijven staan en glanzend zijn.  
-- **Bakken “tot prikker schoon”**: (prikkerproef) test op gaarheid; een houten prikker moet er droog uitkomen zonder beslagresten.  
-- **Romig kloppen**: luchtig mengen van boter, suiker en eidooiers tot een lichtgeel, luchtig geheel zonder klontjes.  
-- **Homogeen**: mengsel waarbij alle ingrediënten volledig zijn opgenomen zonder zichtbare strepen of klonten.  
-- **Luchtig**: structuur waarin veel lucht is opgenomen, zichtbaar als een lichte, zachte textuur. 
-- **Schiften**: het mengsel dat normaal glad hoort te zijn valt uiteen in vet en vocht - je ziet dan kleine vetdeeltjes drijven in een natte massa (korrelige structuur).  
-- **Familie maken**: een baktechniek waarbij een kleine hoeveelheid licht, luchtig mengsel (zoals opgeklopt eiwit of slagroom) voorzichtig door een zwaarder mengsel wordt opgenomen om het geheel te verlichten, zodat het resterende lichte mengsel later gemakkelijker en zonder verlies van luchtigheid kan worden ingeklopt of gevouwen.  
