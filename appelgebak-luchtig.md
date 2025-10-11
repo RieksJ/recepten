@@ -28,8 +28,9 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 | Personen               | 6–7          | 9–10          | 12–13         | 12–13         | 18–20         | 30–32         |
 | Gewicht beslag         | ≈ 1,1 kg     | ≈ 1,7 kg      | ≈ 2,2 kg      | ≈ 2,2 kg      | ≈ 3,4 kg      | ≈ 5,6 kg      |
 | Volume                 | ≈ 1,03 l     | ≈ 1,54 l      | ≈ 2,05 l      | ≈ 2,05 l      | ≈ 3,07 l      | ≈ 5,12 l      |
-| Vorm                   | rond, Ø18 cm | rond, Ø20 cm  | 15×25 cm      | rond, Ø24 cm  | 20×30 cm      | 30×35 cm      |
-| Hoogte                 | ≈ 4,9 cm     | ≈ 4,9 cm      | ≈ 4,9 cm      | ≈ 4,8 cm      | ≈ 5,0 cm      | ≈ 5,1 cm      |
+| Vorm                   | Ø 18 cm      | Ø 20 cm       | 15×25 cm      | Ø 24 cm       | 20×30 cm      | 30×35 cm      |
+|   Oppervlak            | 254,5 cm²    | 314 cm²       | 375 cm²       | 452,4 cm²     | 600 cm²       | 1050 cm²      |
+|   Hoogte               | ≈ 4,0 cm     | ≈ 4,9 cm      | ≈ 5,5 cm      | ≈ 4,6 cm      | ≈ 5,1 cm      | ≈ 4,9 cm      |
 | Geschatte baktijd      | 35–45 min    | 40–50 min     | 45–55 min     | 45–55 min     | 50–60 min     | 60–75 min     |
 | Oventemperatuur O/B    | 175 °C       | 175 °C        | 170 °C        | 170 °C        | 170 °C        | 165 °C        |
 
@@ -41,9 +42,9 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 | Appels, geschild       | 450 g         | 675 g         | 900 g         | 900 g         | 1350 g        | 2250 g        |
 | Rozijnen (optie)       | 60 g          | 90 g          | 120 g         | 120 g         | 180 g         | 300 g         |
 | **Droog mengsel**      |               |               |               |               |               |               |
-| Amandelmeel            | 100 g  (50 g) | 150 g  (75 g) | 200 g (100 g) | 200 g (100 g) | 300 g (150 g) | 500 g (250 g) |
-| Bloem                  | 100 g (150 g) | 150 g (225 g) | 200 g (300 g) | 200 g (300 g) | 300 g (450 g) | 500 g (750 g) |
-| Bakpoeder, gezeefd     | 8 g    (10 g) | 12 g   (15 g) | 16 g   (20 g) | 16 g   (20 g) | 24 g   (30 g) | 40 g   (50 g) |
+| Amandelmeel            | 100 g  (50 g) | 150 g  (75 g) | 200 g (100 g) | 200 g (100 g) | 300 g (150 g) | 475 g (225 g) |
+| Bloem                  | 100 g (150 g) | 150 g (225 g) | 200 g (300 g) | 200 g (300 g) | 300 g (450 g) | 525 g (775 g) |
+| Bakpoeder, gezeefd     | 8 g    (10 g) | 12 g   (15 g) | 16 g   (20 g) |  20 g  (20 g) |  30 g  (52 g) | 52 g   (60 g) |
 | Zout                   | 1,2 g         | 1,8 g         | 2,4 g         | 2,4 g         | 3,6 g         | 6,0 g         |
 | Kaneelpoeder (optie)   | 3 g           | 4,5 g         | 6 g           | 6 g           | 9 g           | 15 g          |
 | **Dooiermengsel**      |               |               |               |               |               |               |
@@ -57,8 +58,8 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 | Suiker (eiwitten)      | 50 g          | 75 g          | 100 g         | 100 g         | 150 g         | 250 g         |
 | Zout (eiwitten)        | 0,6 g         | 0,9 g         | 1,2 g         | 1,2 g         | 1,8 g         | 3,0 g         |
 | **Diversen**           |               |               |               |               |               |               |
-| Inhoud eiwit klopkom   | ≥ 0,6 l       | ≥ 0,9 l       | ≥ 1,2 l       | ≥ 1,2 l       | ≥ 1,8 l       | ≥ 3 l         |
-| Volume eischuim        | ≈ 400 ml      | ≈ 600 ml      | ≈ 800 ml      | ≈ 800 ml      | ≈ 1200 ml     | ≈ 2000 ml     |
+| Inhoud eiwit klopkom   | ≥ 0,6 l       | ≥ 0,9 l       | ≥ 1,2 l       | ≥ 1,2 l       | ≥ 1,8 l       | ≥ 3 l         |
+| Volume eischuim        | ≈ 400 ml      | ≈ 600 ml      | ≈ 800 ml      | ≈ 800 ml      | ≈ 1200 ml     | ≈ 2000 ml     |
 
 > Je kunt ipv X gram vanille-extract ook X gram vanille-suiker gebruiken, en de 'Suiker (dooiermengsel)' met X gram verminderen.
 > Je kunt spelen met de verhouding amandelmeel:bloem:bakpoeder - zie [appendix](#amandelmeel-bloem-bakpoeder)
