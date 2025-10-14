@@ -284,3 +284,25 @@ Noten:
 - **Glazuren:** Het gelijkmatig aanbrengen van een laagje jam, puree of suikeroplossing op de taart voor glans en smaak.  
 - **Abrikozenpuree:** Gepureerde abrikozen, vaak gebruikt als glazuur of smaaktoevoeging.  
 - **Paneermeel:** Fijn gemalen broodkruim, soms gebruikt om vocht van vulling op te nemen; kan een droge structuur geven als het te veel is.  
+
+## Abrikozenpuree maken van gedroogde abrikozen
+
+**Ingrediënten voor plm 50 g puree**  
+- 25–28 g gedroogde abrikozen  
+- 5 g suiker (aanpassen naar smaak)  
+- 1 druppel citroensap (optioneel, voor frisse smaak)  
+
+**Stappen**  
+- Plaats de gedroogde abrikozen in een klein kommetje.  
+- Voeg ongeveer 50 ml heet water toe zodat ze onderstaan.  
+- Laat **2–4 uur weken** tot ze volledig zacht zijn.  
+- Laat de abrikozen goed uitlekken, maar bewaar 5–10 ml weekwater voor later gebruik.  
+- Doe de geweekte abrikozen in een kleine pan.  
+- Voeg suiker en eventueel citroensap toe.  
+- Breng zachtjes aan de kook en laat **5–10 min inkoken** tot de abrikozen volledig zacht zijn en het mengsel ingedikt is.  
+- Roer regelmatig om aanbranden te voorkomen.  
+- Gebruik een smalle, hoge beker met staafmixer, of pureer met een vork als de hoeveelheid te klein is.  
+- Voeg eventueel een beetje van het bewaarde weekwater toe om de gewenste consistentie te bereiken.  
+- Laat afkoelen tot kamertemperatuur.
+
+>  **Tip:** Kort inkoken behoudt het frisse aroma, terwijl de puree dik genoeg wordt voor vullingen of glazuur.
