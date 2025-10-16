@@ -6,53 +6,49 @@ Dit recept levert een klassieke appeltaart met een knapperige, boterige bodem en
 **Ontdooien:** eerst in de koelkast.  
 **Gebruik:** bij koffie/thee of als nagerecht met slagroom of hangop.
 
-## Eindproduct-tabel
-
-## Eindproduct-tabel
-
-| Eindproduct                  | Ø 24 cm        | Ø 18 cm        |
+| **Eindproduct-tabel**        | Ø 24 cm        | Ø 18 cm        |
 |------------------------------|:--------------:|:--------------:|
+| Totaal appels (geschild) [1] | 1000 g         | 565 g          |
 | Personen                     | 12–13          | 6–7            |
-| Gewicht beslag               | ≈ 1,48 kg      | ≈ 0,84 kg      |
-| Volume                       | ≈ 1,92 l       | ≈ 1,08 l       |
-| Vorm                         | Ø 24 cm        | Ø 18 cm        |
-|   Oppervlak                  | 452,4 cm²      | 254,5 cm²      |
-|   Hoogte                     | ≈ 4,2 cm       | ≈ 5 cm         |
-| Geschatte baktijd            | ± 40 min       | ± 38 min       |
-| Oventemperatuur O/B          | 200 °C start, later 185 °C | 200 °C start, later 185 °C |
+| Gewicht beslag (totaal)      | ≈ 1,85 kg      | ≈ 1,05 kg      |
+| Volume                       | ≈ 2,25 l       | ≈ 1,26 l       |
+| Vorm                         | Ø 24 cm        | Ø 18 cm        |
+|   Oppervlak                  | 452,4 cm²      | 254,5 cm²      |
+|   Hoogte (ongeveer)          | ≈ 5,0 cm       | ≈ 5,0 cm       |
+| **Baktijd-fases:**           |                |                |
+| – Startfase                  | 20 min/200 °C  | 18 min/200 °C  |
+| – Gaarfase                   | 25 min/185 °C  | 22 min/185 °C  |
+| – Nabbakfase (optioneel)     | 5 min/180 °C   | 5 min/180 °C   |
 
-## Ingrediëntentabel
-
-| Ingrediënt                   | Ø 24 cm        | Ø 18 cm        |
-|------------------------------|:--------------:|:--------------:|
-| **Appels:** [1]<br>(Geschild, in gelijke stukjes) |    |    |
-| + Voor de vulling:           | 550 g          | 310 g          |
-| + Voor de toplaag:           | 200 g          | 115 g          |
-| **Deeg**                     |                |                |
-| Tarwebloem                   | 300 g          | 170 g          |
-| Suiker                       | 100 g          | 57 g           |
-| Snuf zout                    | 2 g            | 1 g            |
-| Bakpoeder                    | 3 g            | 1,7 g          |
-| Rasp limoen/citroen/...      | 2 g            | 1,2 g          |
-| Boter, koud                  | 150 g          | 85 g           |
-| Ei                           | 50 g (1 M)     | 50 g (1 M)     |
-| **Bodem:** [2] Opties:       |                |                |
-| - Dunne plakjes amandelcake  |                |                |
-| - Amandelmeel                | 15 g           | 9 g            |
-| - Havermeel/mout             | 15/20 g        | 9/12 g         |
-| - Paneermeel                 | 10-15 g        | 6-9 g          |
-| - Banketbakkersroom          | 40 g           | 23 g           |
-| **Vulling:**                 |                |                |
-| (80% van de appels)          |                |                |
-| Abrikozenpuree               | 50 g           | 28 g           |
-| Rozijnen (optioneel)         | 60 g           | 34 g           |
-| Custardpoeder                | 5 g            | 3 g            |
-| **Toplaag:**                 |                |                |
-| (20% van de appels)          |                |                |
-| Kaneel                       | 3 g            | 1,7 g          |
-| **Afwerking:**               |                |                |
-| Abrikozenpuree               | 30-40 g        | 17-23 g        |
-| Poedersuiker                 | 5-8 g          | 3-4,5 g        |
+| **Ingrediëntentabel:**          | Ø 24 cm        | Ø 18 cm        |
+|---------------------------------|:--------------:|:--------------:|
+| **Deeg**                        |                |                |
+| Tarwebloem                      | 300 g          | 170 g          |
+| Suiker                          | 100 g          | 57 g           |
+| Snuf zout                       | 2 g            | 1 g            |
+| Bakpoeder                       | 4 g            | 1,7 g          |
+| Rasp limoen/citroen/...         | 2 g            | 1,2 g          |
+| Boter, koud                     | 150 g          | 85 g           |
+| Ei                              | 50 g (1 M)     | 50 g (1 M)     |
+| **Bodem:** [2] Opties:          |                |                |
+| – Dunne plakjes amandelcake     |                |                |
+| – Amandelmeel                   | 15 g           | 9 g            |
+| – Havermeel/mout                | 15 / 20 g      | 9 / 12 g       |
+| – Paneermeel                    | 10–15 g        | 6–9 g          |
+| – Banketbakkersroom             | 40 g           | 23 g           |
+| **Vulling:**                    |                |                |
+| Appels (vulling)                | 800 g          | 450 g          |
+| Abrikozenpuree [3]              | 100 g          | 56 g           |
+| Suiker [4]                      | naar smaak     | naar smaak     |
+| Custardpoeder                   | 8 g            | 4,5 g          |
+| Rozijnen (optie)                | 80 g           | 45 g           |
+| Rasp limoen/citroen/... (optie) | 2 g            | 1,2 g          |
+| **Toplaag:**                    |                |                |
+| Appels (toplaag)                | 200 g          | 115 g          |
+| Kaneel                          | 3 g            | 1,7 g          |
+| **Afwerking:**                  |                |                |
+| Abrikozenjam (goed warm)        | 30–40 g        | 17–23 g        |
+| Poedersuiker                    | 5–8 g          | 3–4,5 g        |
 
 Noten:
 - [1]:  
@@ -64,8 +60,12 @@ Noten:
   - Havermout kan licht krokant blijven, geeft iets meer structuur dan amandelcake, is neutraal van smaak.  
   - Havermeel absorbeert vocht sneller, de vulling kan iets droger lijken; is neutraal van smaak.  
   - Paneermeel neemt veel vocht op maar maakt de bodem snel droog; gebruik daarom maximaal 10–15 g.
+- [3]: Het mag ook meer of minder zijn - wat je maar lekker vindt. Deze hoeveelheid is een inschatting op basis van de masterclass video.
+- [4]: Suiker (naar smaak) toevoegen:  
+  - Om de zoet-zuur balans in orde te brengen.  
+  - Om vocht te onttrekken aan de appels (de baktijd is kort, dus dat kan nodig zijn).  
 
-## Benodigdheden:  
+**Benodigdheden:**  
 - Keukenmachine met mengkom  
 - Deegroller  
 - Spatel, garde  
@@ -75,48 +75,47 @@ Noten:
 - Oven  
 - Rooster  
 
-## Bereiding in Stappen
+## Bereiding
 
 ### 1. Voorbereiden (Mise en place)
-**Acties:** Schil, maak schoon en weeg alle ingrediënten, en stop ze bij elkaar of in aparte bakjes zodat je ze voor het grijpen hebt. 
-    - Schil de appels, snij ze door de helft, haal de klokhuizen e.d. en de rotte plekken eruit.
-    - Doe het ei in een bakje (kan het op kamertemperatuur komen).
-    - Zeef tarwebloem en bakpoeder in de mengkom, en doe daar de suiker, zout en limoen/citroen/... rasp bij.
-    - Doe de (amandel/haver/paneer)meel voor de bodem in een bakje.
-    - Weeg de abrikozenpuree voor de vulling, de custardpoeder en de kaneel in aparte bakjes.
-    - Wel de rozijnen (zo'n 20 minuten in lauw-warm water).
+**Acties:**  
+  - Snij de boter in blokjes, en doe terug in de koelkast.  
+  - Doe het ei in een bakje, en doe terug in de koelkast.  
+  - Zeef tarwebloem en bakpoeder in een bak, doe daar de suiker, zout en limoen/citroen/... rasp bij.  
+  - Doe de (amandel/haver/paneer)meel voor de bodem in een bakje.  
+  - Weeg de abrikozenpuree voor de vulling, de custardpoeder en de kaneel in aparte bakjes.  
+  - Schil de appels, snij ze door de helft, haal de klokhuizen e.d. en de rotte plekken eruit.  
+  - Wel de rozijnen (zo'n 20 minuten in lauw-warm water).  
+  
 **Resultaat:** Alle ingrediënten staan klaar om meteen te worden gebruikt.  
 
 ### 2. Oven voorverwarmen
 **Actie:** Verwarm de oven alvast voor op 200 °C.  
-**Resultaat:** Oven op juiste temperatuur bij het plaatsen van de taart.  
-**Toets:** Meet met een oven-thermometer of wacht tot voorverwarmingslampje uitgaat.  
 **Tips:**  
-- Taart niet in een koude oven plaatsen; dan zou hij ongelijk kunnen bakken.  
-- Controleer altijd met thermometer; veel ovens wijken af.  
+  - Controleer altijd met thermometer; veel ovens wijken af.  
 
 ### 3. Deeg klaarmaken
-**Actie:** Meng deeg-ingrediënten tot een harde wenerdeeg:
-  - haal boter uit koelkast.
-  - doe de boter en het ei bij de vaste stof in de mengkom.  
-  - mix in de keukenmachine zo'n 3-4 minuten (stand: laag/midden).
-  - test het deeg: pak een beetje deeg, vorm het tot een rolletje en buig het om. Het mag niet breken
-  - als het wel breekt: meng het deeg nog 10 seconde en test opnieuw - doe dit net zolang tot het deeg ombuigt.
-**Resultaat:** Een stevig, samenhangend deeg dat niet plakt aan de werkbank.  
-**Toets:** Vorm een rolletje; het mag niet scheuren bij lichte buiging.  
+**Acties:** Meng deeg-ingrediënten tot een harde wenerdeeg:
+  - haal boter en ei uit koelkast, en draai tot het ei weg is (een geheel is met de boter).  
+  - doe de vaste stof erbij, en draai zo'n 3-4 minuten (stand: laag/midden); luister naar het geluid en stop als dat verandert.  
+  - test het deeg: pak een beetje deeg, vorm het tot een rolletje en buig het om. Het mag niet breken.  
+  - als het wel breekt: meng het deeg nog 10 seconde en test opnieuw - doe dit net zolang tot het deeg ombuigt.  
+
+**Resultaat:** Een stevig, koel en samenhangend deeg dat niet plakt aan de werkbank.  
 **Tips:**  
 - Gebruik koude boter om een stevig deeg te krijgen.  
-- Niet te lang kneden; anders wordt het deeg taai.  
+- Niet te lang draaien zodat het deeg niet taai wordt.  
+- Als je (een deel van) het deeg een tijdje niet gebruikt zet je die in de koelkast.  
 
 ### 4. Randen opzetten en vorm invetten
-**Actie:** 
+**Acties:** 
   - Rol het deeg uit tot 3–4 mm dik en bekleed een bakring of taartvorm.  
-  - Snij eerst 2 stukken deeg uit om de ring mee te bekleden:
-    - voor Ø 24 cm vorm: 2 plakken van *h* x 40 cm (waarbij *h* de hoogte is van de vorm, bijv. 5 cm).  
-    - voor Ø 18 cm vorm: 2 plakken van *h* x 30 cm (waarbij *h* de hoogte is van de vorm, bijv. 8 cm).  
-    - gebruik lineaal en pizzames om te meten en te snijden.
+  - Snij eerst **TWEE stukken deeg** uit ter grootte *h*x*l* om de ring mee te bekleden, waarbij:  
+    - *h* = de hoogte van de ring of de hoogte van de taart (bijv. 5 cm) 
+    - *l* = iets meer dan de halve omtrek van de ring (zeg Ø x 10/6, dus Ø=24 --> 2x40 cm; Ø=18 --> 2x30 cm).  
+    - gebruik lineaal en pizzames om te meten en te snijden.  
   - leg de stukken op een (met bloem licht bestoven) plaatje (kartonnetje) en dan 5 min. in de vriezer.  
-  - vet de bakvorm (ring) goed in met gesmolten boter (lekker veel).
+
 **Resultaat:** deegplakjes voor de randen en een ingevette ring.  
 **Toets:** Het deeg moet koud aanvoelen en licht ferm.  
 **Tips:**  
@@ -128,93 +127,105 @@ Noten:
 ### 5. Vorm bekleden
 **Actie:**.  
   - Rol (de rest van) het deeg (weer) uit tot een rondje dat net groter is dan de diameter van de vorm.  
-  - Steek een cirkel uit met de ring.
-  - Beweeg de ring met de cirkel erin over de werkbank zodat hij links en rechts 3-4 mm kleiner wordt.
-  - Haal de stukken deeg voor de ring uit de vriezer.
-  - Bekleed de ring met die stukken deeg zodat ze (heel) strak aansluiten.
-  - Leg de cirkel erin en zorg dat die aansluit op de ring.
+  - Steek een cirkel uit met de ring.  
+  - Beweeg de ring met de cirkel erin over de werkbank zodat hij links en rechts 3-4 mm kleiner wordt.  
+  - vet de bakvorm (ring) goed in.  
+  - Haal de stukken deeg voor de ring uit de vriezer.  
+  - Bekleed de ring met die stukken deeg zodat ze (heel) strak aansluiten.  
+  - Leg de cirkel erin en zorg dat die aansluit op de ring.  
+
 **Resultaat:** Een nette, vlakke bodem die strak aansluit op de randen.  
 **Toets:** Controleer of het deeg niet scheurt en mooi aansluit op de ring; er mag geen luchtkussen onder zitten.  
 **Tips:**  
-- Gebruik bloem op werkbank om plakken te voorkomen.  
-- Snij overtollig deeg pas af als het in de vorm ligt.  
-- Zeker niet te dik uitrollen om te voorkomen dat je meer deeg dan appel hebt.
+  - Gebruik bloem op werkbank om plakken te voorkomen.  
+  - Snij overtollig deeg pas af als het in de vorm ligt.  
+  - Zeker niet te dik uitrollen om te voorkomen dat je meer deeg dan appel hebt.  
 
 ### 6. Bodem voorbereiden
 **Actie:** Bedek de bodem heel dun met (dunne) plakjes amandelcake of kruimels (paneermeel) of havermout op de bodem om vocht van de appels op te vangen, of een dun laagje banketbakkersroom.  
 **Resultaat:** Een bodem die niet nat of soppig wordt tijdens het bakken.  
 **Toets:** Zie dat de laag gelijkmatig verdeeld is over de bodem.  
 **Tips:**  
-- Gebruik banketbakkersroom NIET samen met custard - dat is dubbelop binden en levert een te stijf resultaat.
-- Bij gebruik van custard of abrikozenpuree in vulling mag onderlaag echt minimaal zijn; anders te droog.
-- Niet te dik; anders verandert het de structuur van de taart.  
-- Gebruik liever geen paneermeel; havermout/meel is al beter, amandelmeel nog beter.  
+  - Gebruik banketbakkersroom NIET samen met custard - dat is dubbelop binden en levert een te stijf resultaat.  
+  - Bij gebruik van custard of abrikozenpuree in vulling mag onderlaag echt minimaal zijn; anders te droog.  
+  - Niet te dik; anders verandert het de structuur van de taart.  
+  - Gebruik liever geen paneermeel; havermout/meel is al beter, amandelmeel nog beter.  
 
 ### 7. Appels snijden
-**Actie:** Snijd alle (geschilde) appels in gelijke stukken.  
+**Acties:** 
+  - Snijd de (geschilde) appels voor de toplaag in (wat grovere) gelijke stukken en hou apart.  
+  - Snijd de (geschilde) appels voor de vulling in ongelijke en kleinere stukken (niet te klein, anders krijg je straks appelmoes).  
 **Resultaat:** Appelstukken die gelijkmatig gaar worden en mooi verdeeld kunnen worden in de taart.  
-**Toets:** Visueel; stukken moeten min of meer gelijk zijn, niet te grof of te fijn.  
+**Toets:** Visueel; grovere, gelijke stukken voor de toplaag en kleinere ongelijke stukken voor de vulling.  
 **Tips:**  
-- Probeer consistente grootte aan te houden voor gelijkmatig bakken.  
-- Smaken controleren; zoetheid van appels kan variëren.  
+  - Probeer consistente grootte aan te houden voor gelijkmatig bakken.  
+  - Smaken controleren; zoetheid van appels kan variëren.  
+  - Ongelijke, kleine stukken voor de vulling zorgt dat ze goed kunnen garen.  
 
 ### 8. Vulling mengen
-**Actie:** Meng 80% van de appelstukken met abrikozenpuree, (gewelde en aangedroogde) rozijnen (optioneel), limoen/citroenrasp (optioneel), en custardpoeder.  
+**Actie:** 
+  - Meng appel stukjes voor de vulling met abrikozenpuree.  
+  - Proef en besluit of, en zo ja hoeveel suiker er nog bij moet (bedenk dat suiker ook vocht aan appels onttrekt).  
+  - Voeg custardpoeder toe, en ook de optionele ingredienten (gewelde en aangedroogde rozijnen, limoen/citroenrasp, e.d.).  
+  - Meng stevig met je handen tot een stevige, enigszins plakkerige massa.  
 **Resultaat:** Gelijkmatige, stevige vulling die straks mooi opstijft zonder te nat te zijn.  
 **Toets:** Vulling moet licht plakkerig zijn, zeker niet drassig; ruik en proef voor balans zoet/zuur.  
 **Tips:**  
-- rozijnen wel je ongeveer 20 minuten in lauwwarm water; daarna dep je ze droog (bijv. in een theedoek).
-- als je vulling te zuur is kan er wat suiker bij. Maar gebruik zo min mogelijk, want suiker is hygroscopisch (trekt water aan) en geeft dan mogelijk een 'papperige' laag.  
-- meng stevig, maar pureer niet; appel moet zichtbaar blijven.  
-- limoen/citroenrasp kan ook met sinaasappelrasp of grapefruitrasp.
-- je kunt er ook nog allerlei noten doorheen doen, zoals hazelnoten of walnoten.
+  - rozijnen wel je ongeveer 20 minuten in lauwwarm water; daarna dep je ze droog (bijv. in een theedoek).  
+  - als je vulling te zuur is kan er wat suiker bij. Maar gebruik zo min mogelijk, want suiker is hygroscopisch (trekt water aan) en geeft dan mogelijk een 'papperige' laag.  
+  - meng stevig, maar pureer niet; appel moet zichtbaar blijven.  
+  - limoen/citroenrasp kan ook met sinaasappelrasp of grapefruitrasp.  
+  - je kunt er ook nog allerlei noten doorheen doen, zoals hazelnoten of walnoten.  
 
 ### 9. Vorm vullen
-**Actie:** 
-    - Vul de deegvorm met de gemengde appelvulling en druk stevig aan, zodat de taart straks makkelijk snijdt.
-    - Strooi de overgebleven 20% van de appelstukken over de vulling zodat het lijkt alsof de vulling er nonchalant is ingegooid; druk licht aan.
-    - Bestrooi de bovenkant licht met de kaneel (optioneel).
+**Acties:** 
+  - Vul de deegvorm met de gemengde appelvulling en druk stevig aan, zodat de taart straks makkelijk snijdt.  
+  - Strooi de appelstukken voor de toplaag over de vulling zodat het lijkt alsof de vulling er nonchalant is ingegooid; druk licht aan.  
+  - Bestrooi de bovenkant licht met de kaneel (optioneel).  
+
 **Resultaat:** Vulling gelijkmatig verdeeld, stevig genoeg om rechte stukken te snijden na bakken.  
 **Toets:** Zien; oppervlak moet vlak zijn, appels mogen niet uitsteken boven de rand.  
 **Tips:**  
-- De eerste vulling stevig aandrukken, zodat de taart straks makkelijk snijdt.  
-- De toplaag eventueel licht aandrukken met een spatel zodat hij geen gekke uitsteeksels heeft die kunnen verbranden.  
+  - De eerste vulling stevig aandrukken, zodat de taart straks makkelijk snijdt.  
+  - De toplaag eventueel licht aandrukken met een spatel zodat hij geen gekke uitsteeksels heeft die kunnen verbranden.  
 
 ### 10. Bakken
 **Actie:**  
-- Plaats de taartvorm op een rooster in het midden van de oven (niet op een bakplaat).  
-- Bak op **200 °C** (boven-/onderwarmte) tot de rand goud begint te kleuren (20 min).  
-- Verlaag daarna de temperatuur naar **185 °C** en bak  tot de appels gaar, en de korst goudbruin is (20 min).  
-- Als de taart de onderstaande toets niet doorstaat, verlaag naar **175 °C**.
-- Voer de toets om de 5 minuten uit, totdat hij slaagt.  
+  - Plaats de taartvorm in het midden van de oven.  
+  - Bak op **200 °C** (boven-/onderwarmte) tot de rand goud begint te kleuren (20 min).  
+  - Verlaag daarna de temperatuur naar **185 °C** en bak  tot de appels gaar, en de korst goudbruin is (20 min).  
+  - Als de taart de onderstaande toets niet doorstaat, verlaag naar **175 °C**.
+  - Voer de toets om de 5 minuten uit, totdat hij slaagt.  
+
 **Resultaat:**  Goudbruine, krokante korst met zacht gegaarde, sappige appels die hun vorm behouden.  
 **Toets:**  
-- De rand is stevig en goudbruin, de appels zijn zacht maar niet papperig.  
-- Een prikker of breinaald komt droog uit het midden.  
-- De taart voelt stabiel aan bij lichte druk op de bovenkant.  
+  - De rand is stevig en goudbruin, de appels zijn zacht maar niet papperig.  
+  - Een prikker of breinaald komt droog uit het midden.  
+  - De taart voelt stabiel aan bij lichte druk op de bovenkant.  
+
 **Tips:**  
-- Plaats taart op rooster, niet op bakplaat, voor gelijkmatige warmte en krokante bodem.  
-- Overbakken maakt de appels papperig en de bodem hard.  
-- Verlaag de temperatuur pas als de rand echt begint te kleuren — te vroeg verlagen geeft ongelijkmatige garing.  
-- Als de taart dreigt te verbranden leg je er aluminiumfolie overheen.  
+  - Als je een springvorm gebruikt plaats je die op rooster, niet op bakplaat, voor gelijkmatige warmte en krokante bodem.  
+  - Te lang bakken maakt de appels papperig en de bodem hard.  
+  - Verlaag de temperatuur pas als de rand echt begint te kleuren — te vroeg verlagen geeft ongelijkmatige garing.  
+  - Als de taart dreigt te verbranden leg je er aluminiumfolie overheen.  
 
 ### 11. Afkoelen en afwerken
 **Actie:**
-  - laat de taart in de oven (deur op kier) nog 2–3 minuten “uitdampen” voor een drogere korst.
+  - als de taart vochtig lijkt laat je hem nog in de oven (deur op kier) 2–3 minuten “uitdampen” voor een drogere korst.  
   - haal taart uit oven.  
-  - druk meteen de zijkanten voorzichtig naar beneden tot aan de rand van de ring.
-  - laat de taart minstens een half uur afkoelen en haal hem dan pas uit de ring.
-  - laat de taart verder afkoelen tot kamertemperatuur.
-  - verwarm abrikozenpuree (niet koken).  
-  - glazuur de taart met warme abrikozenpuree (deppend aanbrengen, flink veel - niet 'schilderen').
+  - druk meteen de zijkanten voorzichtig naar beneden tot aan de rand van de ring.  
+  - laat de taart minstens een half uur afkoelen en haal hem dan pas uit de ring.  
+  - laat de taart verder afkoelen tot kamertemperatuur.  
+  - verwarm abrikozenjam (niet koken).  
+  - glazuur de taart met warme abrikozenjam (deppend aanbrengen, flink veel - niet 'schilderen').  
   - eventueel poedersuiker langs rand (leg eerst papieren cirkel op de taart zodat je alleen de rand bestuift).  
+
 **Resultaat:** Mooie glanzende, klassieke appeltaart met rechte zijkanten en vlakke bovenkant.  
 **Toets:** Zien en aanraken; glazuur moet gelijkmatig, zijkanten stevig.  
 **Tips:**  
-- Je kunt ook (warme) abrikozenjam gebruiken om mee te glazuren.
-- Glazuur niet te heet aanbrengen; anders zakt het in.  
-- Glazuur gebruiken om oneffenheden mee te camoufleren, bijvoorbeeld als bovenkant ingezakt lijkt.  
-- Poedersuiker pas net voor serveren (op een afgekoelde taart) strooien.  
+  - Glazuur niet te heet aanbrengen; anders zakt het in.  
+  - Glazuur gebruiken om oneffenheden mee te camoufleren, bijvoorbeeld als bovenkant ingezakt lijkt.  
+  - Poedersuiker pas net voor serveren (op een afgekoelde taart) strooien.  
 
 ---
 
@@ -306,3 +317,8 @@ Noten:
 - Laat afkoelen tot kamertemperatuur.
 
 >  **Tip:** Kort inkoken behoudt het frisse aroma, terwijl de puree dik genoeg wordt voor vullingen of glazuur.
+
+
+## Ervaringen
+
+De eerste keer dat ik hem maakte was het volume van de vulling (550 g) en toplaag (200 g) veel te weinig - ik gebruikte goudreinetten. Ik heb er een grote appel (zeg 250 g) bijgedaan, en desondanks werd de taart maar ongeveer 3,5 cm hoog. De abrikozenpuree had ik zelf gemaakt van gedroogde abrikozen (met max. 40% vocht), door ze 4 uur te wellen, vervolgens te koken in de helft van het vocht, en te pureren. Dat leverde een stevige puree, maar 
