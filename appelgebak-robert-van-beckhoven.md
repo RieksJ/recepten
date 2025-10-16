@@ -6,45 +6,41 @@ Dit recept levert een klassieke appeltaart met een knapperige, boterige bodem en
 **Ontdooien:** eerst in de koelkast.  
 **Gebruik:** bij koffie/thee of als nagerecht met slagroom of hangop.
 
-| **Eindproduct-tabel**        | Ø 24 cm        | Ø 18 cm        |
-|------------------------------|:--------------:|:--------------:|
-| Totaal appels (geschild) [1] | 1000 g         | 565 g          |
-| Personen                     | 12–13          | 6–7            |
-| Gewicht beslag (totaal)      | ≈ 1,85 kg      | ≈ 1,05 kg      |
-| Volume                       | ≈ 2,25 l       | ≈ 1,26 l       |
-| Vorm                         | Ø 24 cm        | Ø 18 cm        |
-|   Oppervlak                  | 452,4 cm²      | 254,5 cm²      |
-|   Hoogte (ongeveer)          | ≈ 5,0 cm       | ≈ 5,0 cm       |
-| **Baktijd-fases:**           |                |                |
-| – Startfase                  | 20 min/200 °C  | 18 min/200 °C  |
-| – Gaarfase                   | 25 min/185 °C  | 22 min/185 °C  |
-| – Nabbakfase (optioneel)     | 5 min/180 °C   | 5 min/180 °C   |
+| **Eindproduct-tabel**           | Ø 24 cm        | Ø 18 cm        |
+|---------------------------------|:--------------:|:--------------:|
+| Totaal appels (geschild) [1]    | 1150 g         | 650 g          |
+| Personen                        | 12–13          | 6–7            |
+| Gewicht beslag (totaal)         | ≈ 1,95 kg      | ≈ 1,10 kg      |
+| Volume                          | ≈ 2,35 l       | ≈ 1,30 l       |
+| Vorm                            | Ø 24 cm        | Ø 18 cm        |
+|   Oppervlak                     | 452,4 cm²      | 254,5 cm²      |
+|   Hoogte (ongeveer)             | ≈ 5,0 cm       | ≈ 5,0 cm       |
+| **Baktijd-fases:**              |                |                |
+| – Startfase                     | 20 min (200 °C) | 18 min (200 °C) |
+| – Gaarfase                      | 25 min (185 °C) | 22 min (185 °C) |
+| – Nabakfase (optioneel)         | 5 min (180 °C)  | 5 min (180 °C)  |
 
 | **Ingrediëntentabel:**          | Ø 24 cm        | Ø 18 cm        |
 |---------------------------------|:--------------:|:--------------:|
 | **Deeg**                        |                |                |
-| Tarwebloem                      | 300 g          | 170 g          |
+| Tarwebloem                      | 300 g          | 200 g [2]      |
 | Suiker                          | 100 g          | 57 g           |
 | Snuf zout                       | 2 g            | 1 g            |
-| Bakpoeder                       | 4 g            | 1,7 g          |
+| Bakpoeder                       | 4 g            | 2,7 g          |
 | Rasp limoen/citroen/...         | 2 g            | 1,2 g          |
 | Boter, koud                     | 150 g          | 85 g           |
-| Ei                              | 50 g (1 M)     | 50 g (1 M)     |
-| **Bodem:** [2] Opties:          |                |                |
-| – Dunne plakjes amandelcake     |                |                |
+| Ei                              | 50 g (1 M)     | 33 g (~2/3 M)  |
+| **Bodem:** [3]                  |                |                |
 | – Amandelmeel                   | 15 g           | 9 g            |
-| – Havermeel/mout                | 15 / 20 g      | 9 / 12 g       |
-| – Paneermeel                    | 10–15 g        | 6–9 g          |
-| – Banketbakkersroom             | 40 g           | 23 g           |
 | **Vulling:**                    |                |                |
-| Appels (vulling)                | 800 g          | 450 g          |
-| Abrikozenpuree [3]              | 100 g          | 56 g           |
-| Suiker [4]                      | naar smaak     | naar smaak     |
-| Custardpoeder                   | 8 g            | 4,5 g          |
+| Appels (vulling)                | 900 g          | 500 g          |
+| Abrikozenpuree                  | 90g            | 50 g           |
+| Suiker [5]                      | naar smaak     | naar smaak     |
+| Custardpoeder [6]               | 8 g            | 4,5 g          |
 | Rozijnen (optie)                | 80 g           | 45 g           |
 | Rasp limoen/citroen/... (optie) | 2 g            | 1,2 g          |
 | **Toplaag:**                    |                |                |
-| Appels (toplaag)                | 200 g          | 115 g          |
+| Appels (toplaag)                | 250 g          | 150 g          |
 | Kaneel                          | 3 g            | 1,7 g          |
 | **Afwerking:**                  |                |                |
 | Abrikozenjam (goed warm)        | 30–40 g        | 17–23 g        |
@@ -55,15 +51,19 @@ Noten:
   - Kies stevige appels die hun vorm behouden.  
   - Kies zoete of zoetzure appels, of een combinatie daarvan (zorg voor een goede zoet-zuur balans).  
   - bijvoorbeeld Jonagolds en/of Elstars en/of Goudreinetten.  
-- [2]: Gebruik of amandelmeel, of havermeel/havermout, of paneermeel.  
-  - Amandelmeel neemt vocht op, geeft een lichte amandelsmaak en zachte textuur.  
-  - Havermout kan licht krokant blijven, geeft iets meer structuur dan amandelcake, is neutraal van smaak.  
-  - Havermeel absorbeert vocht sneller, de vulling kan iets droger lijken; is neutraal van smaak.  
-  - Paneermeel neemt veel vocht op maar maakt de bodem snel droog; gebruik daarom maximaal 10–15 g.
-- [3]: Het mag ook meer of minder zijn - wat je maar lekker vindt. Deze hoeveelheid is een inschatting op basis van de masterclass video.
+- [2]: 
+  - Er is iets meer bloem gebruikt om het volle ei goed in balans te brengen; zo hoef je niets weg te gooien en blijft het deeg stevig genoeg.  
+  - Je zou het deeg - nadat het klaar is gemaakt - nog 10-15 min in de koelkast moeten laten rusten zodat het vocht zich dan beter verdeelt en het deeg vanzelf steviger wordt.
+- [3]: Amandelmeel neemt vocht op, geeft een lichte amandelsmaak en zachte textuur. Je kunt het vervangen door:  
+  - dunne plakjes amandelcake: dat neemt vocht op (en is de voorkeur van Robert).  
+  - havermout (gebruik net zoveel als amandelmeel): dat blijft dan licht krokant, geeft wat structuur, en is neutraal van smaak.  
+  - havermeel (gebruik 30% meer dan amandelmeel): dat absorbeert vocht sneller, de vulling kan iets droger lijken; is neutraal van smaak.  
+  - paneermeel (gebruik net iets minder dan amandelmeel): dat neemt veel vocht op maar maakt de bodem snel droog; gebruik niet teveel.  
+  - banketbakkersroom (een dun laagje, ongeveer 2,5x de hoeveelheid van amandelmeel).  
 - [4]: Suiker (naar smaak) toevoegen:  
   - Om de zoet-zuur balans in orde te brengen.  
   - Om vocht te onttrekken aan de appels (de baktijd is kort, dus dat kan nodig zijn).  
+- [5]: Als je banketbakkersroom op de bodem doet (in plaats van amandelmeel) moet je geen custard gebruiken.  
 
 **Benodigdheden:**  
 - Keukenmachine met mengkom  
@@ -100,6 +100,7 @@ Noten:
   - doe de vaste stof erbij, en draai zo'n 3-4 minuten (stand: laag/midden); luister naar het geluid en stop als dat verandert.  
   - test het deeg: pak een beetje deeg, vorm het tot een rolletje en buig het om. Het mag niet breken.  
   - als het wel breekt: meng het deeg nog 10 seconde en test opnieuw - doe dit net zolang tot het deeg ombuigt.  
+  - als het deeg wat slap aanvoelt zet je hem nog 10-15 minuten in de koelkast.  
 
 **Resultaat:** Een stevig, koel en samenhangend deeg dat niet plakt aan de werkbank.  
 **Tips:**  
@@ -109,7 +110,7 @@ Noten:
 
 ### 4. Randen opzetten en vorm invetten
 **Acties:** 
-  - Rol het deeg uit tot 3–4 mm dik en bekleed een bakring of taartvorm.  
+  - Rol het deeg uit tot 3–4 mm dik.  
   - Snij eerst **TWEE stukken deeg** uit ter grootte *h*x*l* om de ring mee te bekleden, waarbij:  
     - *h* = de hoogte van de ring of de hoogte van de taart (bijv. 5 cm) 
     - *l* = iets meer dan de halve omtrek van de ring (zeg Ø x 10/6, dus Ø=24 --> 2x40 cm; Ø=18 --> 2x30 cm).  
@@ -127,14 +128,14 @@ Noten:
 ### 5. Vorm bekleden
 **Actie:**.  
   - Rol (de rest van) het deeg (weer) uit tot een rondje dat net groter is dan de diameter van de vorm.  
-  - Steek een cirkel uit met de ring.  
+  - Steek een cirkel uit met de ring; bewaar de rest voor decoratie of ander gebruik.  
   - Beweeg de ring met de cirkel erin over de werkbank zodat hij links en rechts 3-4 mm kleiner wordt.  
   - vet de bakvorm (ring) goed in.  
   - Haal de stukken deeg voor de ring uit de vriezer.  
   - Bekleed de ring met die stukken deeg zodat ze (heel) strak aansluiten.  
   - Leg de cirkel erin en zorg dat die aansluit op de ring.  
 
-**Resultaat:** Een nette, vlakke bodem die strak aansluit op de randen.  
+**Resultaat:** Een nette, vlakke bodem die strak aansluit op de randen (en wat restdeeg).  
 **Toets:** Controleer of het deeg niet scheurt en mooi aansluit op de ring; er mag geen luchtkussen onder zitten.  
 **Tips:**  
   - Gebruik bloem op werkbank om plakken te voorkomen.  
@@ -142,14 +143,16 @@ Noten:
   - Zeker niet te dik uitrollen om te voorkomen dat je meer deeg dan appel hebt.  
 
 ### 6. Bodem voorbereiden
-**Actie:** Bedek de bodem heel dun met (dunne) plakjes amandelcake of kruimels (paneermeel) of havermout op de bodem om vocht van de appels op te vangen, of een dun laagje banketbakkersroom.  
+**Actie:** Bedek de bodem met een laagje amandelmeel.  
+  - Je kunt ook alternatieven gebruiken, zoals (dunne) plakjes amandelcake, kruimels (paneermeel), havermout of havermeel.  
+  - Je kunt als alternatief ook een dun laagje banketbakkersroom gebruiken - dan moet je geen custardpoeder in de vulling gebruiken.  
+  - Deze bedekking dient om vocht van de appels (dat tijdens het bakken vrijkomt) op te vangen.  
 **Resultaat:** Een bodem die niet nat of soppig wordt tijdens het bakken.  
 **Toets:** Zie dat de laag gelijkmatig verdeeld is over de bodem.  
 **Tips:**  
   - Gebruik banketbakkersroom NIET samen met custard - dat is dubbelop binden en levert een te stijf resultaat.  
   - Bij gebruik van custard of abrikozenpuree in vulling mag onderlaag echt minimaal zijn; anders te droog.  
   - Niet te dik; anders verandert het de structuur van de taart.  
-  - Gebruik liever geen paneermeel; havermout/meel is al beter, amandelmeel nog beter.  
 
 ### 7. Appels snijden
 **Acties:** 
@@ -165,9 +168,11 @@ Noten:
 ### 8. Vulling mengen
 **Actie:** 
   - Meng appel stukjes voor de vulling met abrikozenpuree.  
-  - Proef en besluit of, en zo ja hoeveel suiker er nog bij moet (bedenk dat suiker ook vocht aan appels onttrekt).  
-  - Voeg custardpoeder toe, en ook de optionele ingredienten (gewelde en aangedroogde rozijnen, limoen/citroenrasp, e.d.).  
-  - Meng stevig met je handen tot een stevige, enigszins plakkerige massa.  
+  - Voeg custardpoeder toe en de optionele ingredienten (gewelde en aangedroogde rozijnen, limoen/citroenrasp, e.d.).  
+  - Meng stevig met je handen tot een gelijkmatige, stevige, massa.  
+  - Als de massa te drassig is voeg je kleine beetjes suiker toe tot de vulling licht plakkerig is maar niet drassig (suiker onttrekt vocht aan appels).  
+  - Proef de vulling: voeg naar smaak beetjes suiker toe om zoet-zuur in de door jou gewenste balans te brengen.  
+
 **Resultaat:** Gelijkmatige, stevige vulling die straks mooi opstijft zonder te nat te zijn.  
 **Toets:** Vulling moet licht plakkerig zijn, zeker niet drassig; ruik en proef voor balans zoet/zuur.  
 **Tips:**  
@@ -188,13 +193,15 @@ Noten:
 **Tips:**  
   - De eerste vulling stevig aandrukken, zodat de taart straks makkelijk snijdt.  
   - De toplaag eventueel licht aandrukken met een spatel zodat hij geen gekke uitsteeksels heeft die kunnen verbranden.  
+  - Het restje deeg uit stap 5 kun je gebruiken om reepjes van te maken en die ter decoratie op de toplaag te leggen.
 
 ### 10. Bakken
 **Actie:**  
   - Plaats de taartvorm in het midden van de oven.  
-  - Bak op **200 °C** (boven-/onderwarmte) tot de rand goud begint te kleuren (20 min).  
-  - Verlaag daarna de temperatuur naar **185 °C** en bak  tot de appels gaar, en de korst goudbruin is (20 min).  
-  - Als de taart de onderstaande toets niet doorstaat, verlaag naar **175 °C**.
+  - Startfase: bak op **200 °C** (boven-/onderwarmte) tot de rand goud begint te kleuren (zie tabel voor richttijd).  
+  - Gaarfase: verlaag de temperatuur naar **185 °C** en bak tot de appels gaar, en de korst goudbruin is (zie tabel voor richttijd).  
+  - Voer de (visuele toets en prikker) toets (hieronder) uit.  
+  - Als de taart de onderstaande toets niet doorstaat, verlaag naar **175 °C** (nagaar-fase).
   - Voer de toets om de 5 minuten uit, totdat hij slaagt.  
 
 **Resultaat:**  Goudbruine, krokante korst met zacht gegaarde, sappige appels die hun vorm behouden.  
@@ -226,6 +233,28 @@ Noten:
   - Glazuur niet te heet aanbrengen; anders zakt het in.  
   - Glazuur gebruiken om oneffenheden mee te camoufleren, bijvoorbeeld als bovenkant ingezakt lijkt.  
   - Poedersuiker pas net voor serveren (op een afgekoelde taart) strooien.  
+
+### 12. Eindcontrole en serveren
+**Acties:**
+  - Laat de taart volledig afkoelen tot kamertemperatuur (minimaal 2 uur).  
+  - Controleer de stevigheid van de bodem door de taart licht op te tillen met een spatel of mespunt.  
+  - Snijd een klein proefstukje om structuur, vochtbalans en smaak te beoordelen.  
+
+**Resultaten en vervolgacties:**
+| **Bevinding**                      | **Actie** |
+|------------------------------------|-----------|
+| Bodem te zacht of vochtig          | Zet 5–8 min terug in oven op 160 °C met deur op kier om na te drogen. |
+| Bodem te hard of taai              | Waar dat is (lokaal): snij de taart aan, til appelstukje op waar dat is, bestrijk dun met suikerwater of abrikozenjam, en laat 10 min rusten onder folie. |
+| Vulling beetje te nat of uitlopend | Laat taart onafgedekt 15–20 min bij kamertemperatuur staan om verder te stabiliseren. |
+| Vulling veel te nat / loopt uit    | Bbakken op 150–160 °C met ovendeur op kier tot vulling stevig is (5–10 min, of langer als dat nodig is). |
+| Vulling te droog of korrelig       | Bestrijk licht met warme abrikozenpuree voor glans en soepelheid. |
+| Glazuur dof of ingezakt            | Verwarm beetje abrikozenjam en breng dun extra laagje aan. |
+| Smaak onbalans (te zuur / te zoet) | Corrigeer bij serveren: licht bestuiven met poedersuiker of serveren met slagroom / frisse hangop. |
+
+**Toets:**  
+- Bodem knispert bij snijden.  
+- Vulling blijft stabiel zonder lekken.  
+- Glazuur glanst gelijkmatig.  
 
 ---
 
@@ -317,8 +346,3 @@ Noten:
 - Laat afkoelen tot kamertemperatuur.
 
 >  **Tip:** Kort inkoken behoudt het frisse aroma, terwijl de puree dik genoeg wordt voor vullingen of glazuur.
-
-
-## Ervaringen
-
-De eerste keer dat ik hem maakte was het volume van de vulling (550 g) en toplaag (200 g) veel te weinig - ik gebruikte goudreinetten. Ik heb er een grote appel (zeg 250 g) bijgedaan, en desondanks werd de taart maar ongeveer 3,5 cm hoog. De abrikozenpuree had ik zelf gemaakt van gedroogde abrikozen (met max. 40% vocht), door ze 4 uur te wellen, vervolgens te koken in de helft van het vocht, en te pureren. Dat leverde een stevige puree, maar 
