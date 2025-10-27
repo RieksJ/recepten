@@ -8,7 +8,7 @@ Dit recept levert een klassieke appeltaart met een knapperige, boterige bodem en
 
 | **Eindproduct-tabel**           | Ø 24 cm        | Ø 18 cm        |
 |---------------------------------|:--------------:|:--------------:|
-| Totaal appels (geschild) [1]    | 1150 g         | 650 g          |
+| Totaal appels (geschild) [1]    | 1150 g (1500*) | 650 g (820*)   |
 | Personen                        | 12–13          | 6–7            |
 | Gewicht beslag (totaal)         | ≈ 1,95 kg      | ≈ 1,10 kg      |
 | Volume                          | ≈ 2,35 l       | ≈ 1,30 l       |
@@ -32,29 +32,36 @@ Dit recept levert een klassieke appeltaart met een knapperige, boterige bodem en
 | Ei                              | 50 g (1 M)     | 33 g (~2/3 M)  |
 | **Bodem:** [3]                  |                |                |
 | – Amandelmeel                   | 15 g           | 9 g            |
+
+<div style="page-break-before: always;"></div>
+
+| **Ingrediëntentabel:**          | Ø 24 cm        | Ø 18 cm        |
+|---------------------------------|:--------------:|:--------------:|
 | **Vulling:**                    |                |                |
-| Appels (vulling)                | 900 g          | 500 g          |
-| Abrikozenpuree                  | 90g            | 50 g           |
+| Appels (vulling)                | 1000 g         | 500 g          |
+| Abrikozenpuree                  | 100g           | 50 g           |
 | Suiker [5]                      | naar smaak     | naar smaak     |
-| Custardpoeder [6]               | 8 g            | 4,5 g          |
+| Custardpoeder [6]               | 35 g           | 20 g           |
 | Rozijnen (optie)                | 80 g           | 45 g           |
 | Rasp limoen/citroen/... (optie) | 2 g            | 1,2 g          |
 | **Toplaag:**                    |                |                |
-| Appels (toplaag)                | 250 g          | 150 g          |
-| Kaneel                          | 3 g            | 1,7 g          |
+| Appels (toplaag)                | 300 g          | 175 g          |
+| Kaneel                          | 1,5 g          | 0,8 g          |
 | **Afwerking:**                  |                |                |
-| Abrikozenjam (goed warm)        | 30–40 g        | 17–23 g        |
+| Abrikozenjam (goed warm)        | 100 g          | 50 g           |
 | Poedersuiker                    | 5–8 g          | 3–4,5 g        |
 
 Noten:
 - [1]:  
   - Kies stevige appels die hun vorm behouden.  
   - Kies zoete of zoetzure appels, of een combinatie daarvan (zorg voor een goede zoet-zuur balans).  
-  - bijvoorbeeld Jonagolds en/of Elstars en/of Goudreinetten.  
+  - bijvoorbeeld Jonagolds en/of Elstars en/of Goudreinetten. 
+  - *\) Minimaal gewicht van ongeschilde appels staat er tussen haakjes achter.  
+  - Voor 100 g ongeschild heb je tussen de 125 en 150 g appels nodig, afhankelijk van hun grootte en (on)gaafheid.  
 - [2]: 
   - Er is iets meer bloem gebruikt om het volle ei goed in balans te brengen; zo hoef je niets weg te gooien en blijft het deeg stevig genoeg.  
   - Je zou het deeg - nadat het klaar is gemaakt - nog 10-15 min in de koelkast moeten laten rusten zodat het vocht zich dan beter verdeelt en het deeg vanzelf steviger wordt.
-- [3]: Amandelmeel neemt vocht op, geeft een lichte amandelsmaak en zachte textuur. Je kunt het vervangen door:  
+- [3]: Amandelmeel neemt vocht op, geeft een lichte amandelsmaak en zachte textuur.<br>Je kunt het vervangen door:  
   - dunne plakjes amandelcake: dat neemt vocht op (en is de voorkeur van Robert).  
   - havermout (gebruik net zoveel als amandelmeel): dat blijft dan licht krokant, geeft wat structuur, en is neutraal van smaak.  
   - havermeel (gebruik 30% meer dan amandelmeel): dat absorbeert vocht sneller, de vulling kan iets droger lijken; is neutraal van smaak.  
@@ -79,11 +86,17 @@ Noten:
 
 ### 1. Voorbereiden (Mise en place)
 **Acties:**  
+  - Als je precies wilt werken doe je het ei in een bakje weeg je het, en herbereken je de hoeveelheden ingredienten voor het deeg.  
   - Snij de boter in blokjes, en doe terug in de koelkast.  
-  - Doe het ei in een bakje, en doe terug in de koelkast.  
+  - Bepaal de maten van de deegstukken (h x l) om straks de ring mee te bekleden, waarbij:  
+    - *h* = de hoogte van de ring of de hoogte van de taart (bijv. 5 cm) 
+    - *l* = iets meer dan de halve omtrek van de ring (zeg Ø x 10/6, dus Ø=24 --> 2x40 cm; Ø=18 --> 2x30 cm). 
+    - Hele omtrek van cirkel (0.8% afwijking): **Diameter × 19 ÷ 6** (moet je dan nog halveren).  
+    - Halve omtrek van cirkel met zelfde afwijking vervang je de diameter door de straal.
   - Zeef tarwebloem en bakpoeder in een bak, doe daar de suiker, zout en limoen/citroen/... rasp bij.  
   - Doe de (amandel/haver/paneer)meel voor de bodem in een bakje.  
-  - Weeg de abrikozenpuree voor de vulling, de custardpoeder en de kaneel in aparte bakjes.  
+  - Weeg de custardpoeder en de kaneel in aparte (kleine) bakjes.  
+  - Weeg de abrikozenpuree voor de vulling, en zeef de custardpoeder er doorheen zodat er geen klontjes custardpoeder meer zijn.  
   - Schil de appels, snij ze door de helft, haal de klokhuizen e.d. en de rotte plekken eruit.  
   - Wel de rozijnen (zo'n 20 minuten in lauw-warm water).  
   
@@ -111,15 +124,13 @@ Noten:
 ### 4. Randen opzetten en vorm invetten
 **Acties:** 
   - Rol het deeg uit tot 3–4 mm dik.  
-  - Snij eerst **TWEE stukken deeg** uit ter grootte *h*x*l* om de ring mee te bekleden, waarbij:  
-    - *h* = de hoogte van de ring of de hoogte van de taart (bijv. 5 cm) 
-    - *l* = iets meer dan de halve omtrek van de ring (zeg Ø x 10/6, dus Ø=24 --> 2x40 cm; Ø=18 --> 2x30 cm).  
-    - gebruik lineaal en pizzames om te meten en te snijden.  
+  - Snij eerst **TWEE stukken deeg** uit ter grootte *h*x*l* om de ring mee te bekleden.  
   - leg de stukken op een (met bloem licht bestoven) plaatje (kartonnetje) en dan 5 min. in de vriezer.  
 
 **Resultaat:** deegplakjes voor de randen en een ingevette ring.  
 **Toets:** Het deeg moet koud aanvoelen en licht ferm.  
 **Tips:**  
+- Gebruik lineaal en pizzames om te meten en te snijden.  
 - Gebruik bloem op werkbank en plaatje om plakken te voorkomen.  
 - Direct uitrollen na het kneden kan scheuren veroorzaken.  
 - Dek af met folie om uitdrogen te voorkomen.  
@@ -130,7 +141,7 @@ Noten:
   - Rol (de rest van) het deeg (weer) uit tot een rondje dat net groter is dan de diameter van de vorm.  
   - Steek een cirkel uit met de ring; bewaar de rest voor decoratie of ander gebruik.  
   - Beweeg de ring met de cirkel erin over de werkbank zodat hij links en rechts 3-4 mm kleiner wordt.  
-  - vet de bakvorm (ring) goed in.  
+  - Vet de bakvorm (ring) goed in.  
   - Haal de stukken deeg voor de ring uit de vriezer.  
   - Bekleed de ring met die stukken deeg zodat ze (heel) strak aansluiten.  
   - Leg de cirkel erin en zorg dat die aansluit op de ring.  
@@ -167,8 +178,9 @@ Noten:
 
 ### 8. Vulling mengen
 **Actie:** 
-  - Meng appel stukjes voor de vulling met abrikozenpuree.  
-  - Voeg custardpoeder toe en de optionele ingredienten (gewelde en aangedroogde rozijnen, limoen/citroenrasp, e.d.).  
+  - Meng appel stukjes voor de vulling met abrikozenpuree (met daarin de custard).  
+  - Proef, voeg evt suiker toe (onttrekt ook meer vocht aan de appels).  
+  - Voeg de optionele ingredienten toe (gewelde en aangedroogde rozijnen, limoen/citroenrasp, e.d.).  
   - Meng stevig met je handen tot een gelijkmatige, stevige, massa.  
   - Als de massa te drassig is voeg je kleine beetjes suiker toe tot de vulling licht plakkerig is maar niet drassig (suiker onttrekt vocht aan appels).  
   - Proef de vulling: voeg naar smaak beetjes suiker toe om zoet-zuur in de door jou gewenste balans te brengen.  
