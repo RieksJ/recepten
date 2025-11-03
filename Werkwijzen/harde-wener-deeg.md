@@ -4,66 +4,36 @@
 Een stevig, boterachtig deeg dat betrouwbaar lukt en zich makkelijk laat uitrollen.  
 Ontwikkeld voor beginnende bakkers — fouttolerant, voorspelbaar, en met duidelijke controles.  
 
-**Bewaren:** luchtdicht 2 dagen in koelkast, tot 2 maanden in diepvries.  
-**Ontdooien:** in koelkast (voor gebruik op kamertemperatuur laten komen).  
-**Gebruik:** ideaal voor zoete of hartige taarten na blind bakken.  
-
----
-
-## Vorm & Verbruik - voorbeelden
-
-| Vorm                        | Randhoogte | Deeg nodig | % van 1 recept | Aantal vormen per recept |
-| --------------------------- | :--------: | :--------: | :------------: | :----------------------: |
-| Tartelette Ø 6 cm           |   2 cm     |  12,6 g    |    2,1 %       | 47,6                     |
-| Tartelette Ø 10 cm          |   3 cm     |  32,2 g    |    5,4 %       | 18,6                     |
-| Rond Ø 20 cm                |   4 cm     | 116,3 g    |   19,4 %       | 5,2                      |
-| Rond Ø 24 cm                |   5 cm     | 178,0 g    |   29,7 %       | 3,4                      |
-| Springvorm Ø 24 cm          |   5 cm     | 203,0 g    |   33,8 %       | 3,0                      |
-| Rechthoek 20×30 cm          |   5 cm     | 192,3 g    |   32,1 %       | 3,1                      |
-
----
-
 ## Ingrediënten
 
 | **Ingrediënt**           | Hoeveelheid   | x ei-gewicht |
 | ------------------------ | :---------:   | :----------: |
 | Tarwebloem (gezeefd)     | 300 g         | 600%         |
-| Suiker [1]               | 100 g         | 200%         |
+| (Basterd) suiker [tip 1] | 100 g         | 200%         |
 | Zout                     | 2 g           | 4%           |
 | Bakpoeder (gezeefd)      | 4 g           | 8%           |
 | Boter, koud (in blokjes) | 150 g         | 300%         |
 | Ei (1 M)                 | 50 g          | 100%         |
-| Vanille-extract [2]      | paar druppels | —            |
-| Citroenrasp [2]          | 2 g           | 4%           |
-
-[1]: **Suikeralternatieven**  
-- **1/3 poedersuiker + 2/3 kristalsuiker:** zachter, gladder deeg dat minder snel barst bij uitrollen.  
-- **Witte basterdsuiker:** mild, licht vochtig deeg; ideaal voor lichte taarten of fruitvullingen.  
-- **Gele basterdsuiker:** iets rijkere karamelsmaak; past goed bij noten, appel of amandel.  
-- **Bruine basterdsuiker:** diepere smaak, donkerder kleur; geschikt voor herfstige of hartige taarten.  
-
-[2]: **Aromakeuze**  
-- **Vanille-extract:** versterkt het boteraroma en dempt de eiergeur.  
-- **Citroenrasp (of limoen-/sinaasappelrasp):** frist het deeg op, vooral bij zoete of zware vullingen.
+| Aromaten [tip 2]         | naar believen | —            |
 
 ---
 
 ## Benodigdheden
-- Mengkom of keukenmachine  
-- Deegroller  
-- Bakpapier  
-- Blindbakgewichtjes (rijst, bonen of keramische korrels)  
-- Bakvorm(en)  
-- Oven  
+- Keukenmachine (of mengkom).   
+- Uitrolstok/deegstok en 'diktelatjes' (of een deegroller).  
+- Blindbakgewichtjes (rijst, bonen of keramische korrels).  
+- Bakvorm(en) en evt. bakpapier of een siliconenmat als de vorm geen bodem heeft.  
 
 ---
 
 ## Bereiding
 
 ### 1. Voorbereiden
-- Weeg het ei af (50 g zonder schaal) en laat op kamertemperatuur komen (dat mengt beter).  
-- Snijd koude boter in blokjes (1×1 cm) en leg terug in koelkast.  
-- Zeef bloem, bakpoeder en zout; meng met de suiker en eventuele smaakstoffen.  
+- Herbereken de hoeveelheden uit het recept voor wat je nodig hebt (zie laatste hoofdstuk).  
+- Snijd koude boter in blokjes (1×1 cm) en leg terug in koelkast. 
+- Weeg het ei af (een M ei zonder schaal is gemiddeld 50 g) en laat op kamertemperatuur komen (dat mengt beter).  
+- Bereken/meet de maten van de stoken e.d. die je in stap 3 gaat uitsnijden. 
+- Zeef bloem, bakpoeder en zout en meng dat met de suiker en eventuele droge smaakstoffen.  
 - Houd 1–2 tl (5-10 ml) koud water paraat (voor noodgeval als deeg te droog is).  
 
 ---
@@ -71,7 +41,7 @@ Ontwikkeld voor beginnende bakkers — fouttolerant, voorspelbaar, en met duidel
 ### 2. Deeg maken
 
 **Met keukenmachine:**  
-- Meng boter en ei kort (lage stand) tot het ei net opgenomen is.  
+- Meng boter, natte smaakstoffen en ei kort (lage stand) tot het ei net opgenomen is.  
 - Voeg de droge stoffen toe.  
 - Draai 3–4 min op lage stand, **stop zodra het deeg begint samen te komen** — het “tikt” tegen de wand en vormt net een klont.  
 - Te droog? Voeg druppelsgewijs koud water toe.  
@@ -93,9 +63,9 @@ Ontwikkeld voor beginnende bakkers — fouttolerant, voorspelbaar, en met duidel
 
 ### 3. Uitrollen
 - Bestuif werkvlak licht met bloem of gebruik 2 vellen bakpapier.  
-- Rol uit tot **3–4 mm dik**.  
+- Rol uit tot de door jou gewenste **dikte *d*** (bijv. 3–4 mm) [zie ook tip 3].  
 - Voor de randen: snijd stroken, leg ze 5 min in de vriezer (op bestoven blaadje/kartonnetje) om scheuren te voorkomen.  
-- Voor de bodem: snijd de deeglap ca. **3 mm kleiner dan de vorm**, zodat na het bakken alleen de rand zichtbaar blijft.  
+- Voor de bodem: snijd de deeglap **2x*d* mm kleiner dan de vorm**, zodat na het bakken alleen de rand zichtbaar blijft.  
 - Vet de vorm in, bekleed eerst de randen (strak), dan de bodem.  
 - Druk zacht aan, zonder rekken.  
 - Laat de beklede vorm 15 min rusten in koelkast of 5 min in vriezer voor stabiliteit.
@@ -115,19 +85,29 @@ Ontwikkeld voor beginnende bakkers — fouttolerant, voorspelbaar, en met duidel
 
 ---
 
-## Gebruik / Vultips
-- **Zoet:** crème patissière, mousse, fruit, ganache, frangipane.  
-- **Hartig:** quichevulling, groenten, roomkaas of eimengsel.  
-- Vul pas als bodem volledig koud is.  
-- Bestrijk randen met gesmolten chocolade of abrikozenjam tegen doorlekken.  
-- Laat bij hoge vulling 1 cm ruimte onder de rand.  
-
----
-
 ## Bewaren & Hergebruik
 - In porties van 100–150 g invriezen.  
 - Ontdooien in koelkast, kort op kamertemperatuur brengen voor uitrollen.  
 - Blind gebakken bodems koel en afgedekt bewaren (2 dagen).  
+
+---
+
+## Tips
+
+1. **Suikeralternatieven**  
+   - **1/3 poedersuiker + 2/3 kristalsuiker:** zachter, gladder deeg dat minder snel barst bij uitrollen.  
+   - **Witte basterdsuiker:** mild, licht vochtig deeg; ideaal voor lichte taarten of fruitvullingen.  
+   - **Gele basterdsuiker:** iets rijkere karamelsmaak; past goed bij noten, appel of amandel.  
+   - **Bruine basterdsuiker:** diepere smaak, donkerder kleur; geschikt voor herfstige of hartige taarten.  
+2. **Aromakeuze**  
+   - **Vanille-extract (paar druppels)** versterkt het boteraroma en dempt de eiergeur.  
+   - **2g citroenrasp (of limoen-/sinaasappelrasp)** frist het deeg op, vooral bij zoete of zware vullingen.
+3. **Deeg uitrollen**:
+   - Als je deeg wilt uitsteken voor kleine vormpjes mag het deeg nog dunner zijn (bijv. 2 mm dik).  
+   - koop wat latjes van verschillende diktes, bijv. 1, 2, 4, 8 mm en zo'n 2-2,5 cm breed. Gebruik geen deegroller, maar een rolstok (die zijn wat langer). Leg (een stapel van) latjes van de juiste dikte zo neer dat je het deeg ertussen kunt doen en de rolstok er overheen kunt rollen. Rol nu het deeg uit totdat de rolstok op de latjes rolt. Dan is de lap deeg van de juiste dikte.
+4. **Oefenvariant**:  
+   - Gebruik de **helft van alle ingrediënten** voor een oefendeeg van ± 300 g; ideaal om uitrollen, bekleden en blindbakken te oefenen zonder verspilling.  
+   - Je kunt kleine hoeveelheden ei afwegen en de rest bewaren voor later (of een omeletje mee te  bakken).  
 
 ---
 
@@ -145,6 +125,39 @@ Ontwikkeld voor beginnende bakkers — fouttolerant, voorspelbaar, en met duidel
 
 ---
 
-## Oefenvariant
-Gebruik de **helft van alle ingrediënten** voor een oefendeeg van ± 300 g.  
-Ideaal om uitrollen, bekleden en blindbakken te oefenen zonder verspilling.
+## Gebruik / Vultips
+- **Zoet:** crème patissière, mousse, fruit, ganache, frangipane.  
+- **Hartig:** quichevulling, groenten, roomkaas of eimengsel.  
+- Vul pas als bodem volledig koud is.  
+- Bestrijk randen met gesmolten chocolade of abrikozenjam tegen doorlekken.  
+- Laat bij hoge vulling 1 cm ruimte onder de rand.  
+
+---
+
+## Vorm & Verbruik - voorbeelden
+
+Dit recept levert plm 364 cm³ deeg dat je als volgt kunt uitrollen:
+
+| dikte | oppervlak |
+| :---: | :-------: |
+|  1 mm |  3640 cm² |
+|  2 mm |  1820 cm² |
+|  3 mm |  1213 cm² |
+|  4 mm |   910 cm² |
+|  5 mm |   728 cm² |
+
+Onderstaande tabel geeft voorbeelden van oppervlak dat nodig is voor een zekere vorm:
+
+| Vorm               | Randhoogte | Oppervlak  |
+| ------------------ | :--------: | :--------: |
+| Tartelette Ø 6 cm  |    2 cm    |    50 cm²  |
+| Tartelette Ø 10 cm |    3 cm    |   122 cm²  |
+| Rond Ø 20 cm       |    4 cm    |   602 cm²  |
+| Rond Ø 20 cm       |    5 cm    |   632 cm²  |
+| Rond Ø 24 cm       |    4 cm    |   796 cm²  |
+| Rond Ø 24 cm       |    5 cm    |   830 cm²  |
+| Rechthoek 20×30 cm |    4 cm    |   788 cm²  |
+| Rechthoek 20×30 cm |    5 cm    |   818 cm²  |
+
+---
+
