@@ -1,42 +1,42 @@
 # Appeltaart (a la Robert - Samenvatting)
 
-| **Eindproduct-tabel**           | Ø 24 cm         | Ø 18 cm         |
-|---------------------------------|:---------------:|:---------------:|
-| Totaal appels (geschild)        | 1150 g (1500*)  | 650 g (820*)    |
-| Gewicht beslag (totaal)         | ≈ 1,95 kg       | ≈ 1,10 kg       |
-| Volume                          | ≈ 2,35 l        | ≈ 1,30 l        |
-| Vorm                            | Ø 24 cm         | Ø 18 cm         |
-| Uitsnijden randen [h, l] (cm)   | 2 x [5, 38]     | 2 x [5 x 28,5]  |
-| **Baktijd-fases:**              |                 |                 |
-| – Startfase                     | 20 min (200 °C) | 18 min (200 °C) |
-| – Gaarfase                      | 25 min (185 °C) | 22 min (185 °C) |
-| – Nabakfase (optioneel)         | 5 min (180 °C)  | 5 min (180 °C)  |
 
-| **Ingrediëntentabel:**          | Ø 24 cm         | Ø 18 cm         |
-|---------------------------------|:---------------:|:---------------:|
-| **Deeg**                        |                 |                 |
-| Tarwebloem                      | 300 g           | 200 g           |
-| (Gele Basterd)suiker            | 100 g           | 57 g            |
-| Snuf zout                       | 2 g             | 1 g             |
-| Bakpoeder                       | 4 g             | 2,7 g           |
-| Rasp limoen/citroen/...         | 2 g             | 1,2 g           |
-| Boter, koud                     | 150 g           | 85 g            |
-| Ei                              | 50 g (1 M)      | 33 g (~2/3 M)   |
-| **Bodem:**                      |                 |                 |
-| – Amandelmeel                   | 25 g            | 15 g            |
-| **Vulling:**                    |                 |                 |
-| Appels (vulling)                | 1100 g          | 600 g           |
-| Abrikozenpuree                  | 100g            | 50 g            |
-| Suiker                          | naar smaak      | naar smaak      |
-| Custardpoeder                   | 35 g            | 20 g            |
-| Rozijnen (optie)                | 80 g            | 45 g            |
-| Rasp limoen/citroen/... (optie) | 2 g             | 1,2 g           |
-| **Toplaag:**                    |                 |                 |
-| Appels (toplaag)                | 300 g           | 175 g           |
-| Kaneel                          | 1,5 g           | 0,8 g           |
-| **Afwerking:**                  |                 |                 |
-| Abrikozenjam (goed warm)        | 100 g           | 50 g            |
-| Poedersuiker                    | 5–8 g           | 3–4,5 g         |
+| **Eindproduct-tabel:**            |    Ø 24 cm      |    Ø 18 cm      |
+| --------------------------------- | :-------------: | :-------------: |
+| Totaal appels (schoongemaakt)     | 1400 g (1900*)  | 650 g (820*)    |
+| Gewicht beslag (totaal)           | ≈ 2,35 kg       | ≈ 1,10 kg       |
+| Volume                            | ≈ 2 l           | ≈ 1,30 l        |
+| Uitsnijden randen [h x l] (cm)    | 2 x [5 x 38]    | 2 x [5 x 28,5]  |
+| ***Richttijden* voor bak-fases:** |                 |                 |
+| – Startfase (200 °C)              |    20 min       |    18 min       |
+| – Gaarfase  (185 °C)              |    25 min       |    22 min       |
+| – Nabakfase (180 °C - optioneel)  |     5 min       |     5 min       |
+  
+| **Ingrediëntentabel:**            |    Ø 24 cm      |    Ø 18 cm      |
+| --------------------------------- | :-------------: | :-------------: |
+| **Deeg**                          |                 |                 |
+| - Ei                              | 50 g (1 M)      | 33 g (~2/3 M)   |
+| - Boter, koud                     | 150 g           | 85 g            |
+| - Tarwebloem                      | 300 g           | 200 g           |
+| - Bakpoeder                       | 4 g             | 2,7 g           |
+| - (Gele Basterd)suiker            | 100 g           | 57 g            |
+| - Snuf zout                       | 2 g             | 1 g             |
+| - Rasp limoen/citroen/...         | 2 g             | 1,2 g           |
+| **Bodem:**                        |                 |                 |
+| – Amandelmeel                     | 25 g            | 15 g            |
+| **Vulling:**                      |                 |                 |
+| - Appels (vulling)                | 1100 g          | 600 g           |
+| - Abrikozenpuree                  | 100g            | 50 g            |
+| - Suiker                          | naar smaak      | naar smaak      |
+| - Custardpoeder                   | 35 g            | 20 g            |
+| - Rozijnen (optie)                | 80 g            | 45 g            |
+| - Rasp limoen/citroen/... (optie) | 2 g             | 1,2 g           |
+| **Toplaag:**                      |                 |                 |
+| - Appels (toplaag)                | 300 g           | 175 g           |
+| - Kaneel                          | 1,5 g           | 0,8 g           |
+| **Afwerking:**                    |                 |                 |
+| - Abrikozenjam (goed warm)        | 100 g           | 50 g            |
+| - Poedersuiker                    | 5–8 g           | 3–4,5 g         |
 
 ## Bereiding
 
@@ -84,7 +84,7 @@
 
 ### 5. Bakken
 - Plaats de taartvorm in het midden van de oven.  
-- Startfase: bak op **200 °C** (boven-/onderwarmte) tot de rand goud begint te kleuren (zie tabel voor richttijd).  
+- Startfase: bak op **200 °C** (boven-/onderwarmte) tot de rand goud begint te kleuren (zie tabel voor **richttijd**).  
 - Gaarfase: verlaag de temperatuur naar **185 °C** en bak tot de appels gaar, en de korst goudbruin is (zie tabel voor richttijd).  
 - Voer de volgende (visuele toets en prikker) toets uit:  
   - De rand is stevig en goudbruin, de appels zijn zacht maar niet papperig.  
