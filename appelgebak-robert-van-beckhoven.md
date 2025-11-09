@@ -6,50 +6,50 @@ Dit recept levert een klassieke appeltaart met een knapperige, boterige bodem en
 **Ontdooien:** eerst in de koelkast.  
 **Gebruik:** bij koffie/thee of als nagerecht met slagroom of hangop.
 
-| **Eindproduct-tabel**           | Ø 24 cm        | Ø 18 cm        |
-|---------------------------------|:--------------:|:--------------:|
-| Totaal appels (geschild) [1]    | 1150 g (1500*) | 650 g (820*)   |
-| Personen                        | 12–13          | 6–7            |
-| Gewicht beslag (totaal)         | ≈ 1,95 kg      | ≈ 1,10 kg      |
-| Volume                          | ≈ 2,35 l       | ≈ 1,30 l       |
-| Vorm                            | Ø 24 cm        | Ø 18 cm        |
-|   Oppervlak                     | 452,4 cm²      | 254,5 cm²      |
-|   Hoogte (ongeveer)             | ≈ 5,0 cm       | ≈ 5,0 cm       |
-| **Baktijd-fases:**              |                |                |
-| – Startfase                     | 20 min (200 °C) | 18 min (200 °C) |
-| – Gaarfase                      | 25 min (185 °C) | 22 min (185 °C) |
-| – Nabakfase (optioneel)         | 5 min (180 °C)  | 5 min (180 °C)  |
+| **Eindproduct-tabel**           | Ø 24 cm        |
+|---------------------------------|:--------------:|
+| Totaal appels (geschild) [1]    | 1150 g (1500*) |
+| Personen                        | 12–13          |
+| Gewicht beslag (totaal)         | ≈ 1,95 kg      |
+| Volume                          | ≈ 2,35 l       |
+| Vorm                            | Ø 24 cm        |
+| - Oppervlak                     | 452,4 cm²      |
+| - Hoogte (ongeveer)             | ≈ 5,0 cm       |
+| **Baktijd-fases:**              |                |
+| – Startfase                     | 20 min (200 °C)|
+| – Gaarfase                      | 25 min (185 °C)|
+| – Nabakfase (optioneel)         | 5 min (180 °C) |
 
-| **Ingrediëntentabel:**          | Ø 24 cm        | Ø 18 cm        |
-|---------------------------------|:--------------:|:--------------:|
-| **Deeg**                        |                |                |
-| Tarwebloem                      | 300 g          | 200 g [2]      |
-| Suiker                          | 100 g          | 57 g           |
-| Snuf zout                       | 2 g            | 1 g            |
-| Bakpoeder                       | 4 g            | 2,7 g          |
-| Rasp limoen/citroen/...         | 2 g            | 1,2 g          |
-| Boter, koud                     | 150 g          | 85 g           |
-| Ei                              | 50 g (1 M)     | 33 g (~2/3 M)  |
-| **Bodem:** [3]                  |                |                |
-| – Amandelmeel                   | 15 g           | 9 g            |
+| **Ingrediëntentabel:**          | Ø 24 cm        |
+|---------------------------------|:--------------:|
+| **Deeg**                        |                |
+| - Tarwebloem                    | 300 g          |
+| - Suiker                        | 100 g          |
+| - Snuf zout                     | 2 g            |
+| - Bakpoeder                     | 4 g            |
+| - Rasp limoen/citroen/...       | 2 g            |
+| - Boter, koud                   | 150 g          |
+| - Ei                            | 50 g (1 M)     |
+| **Bodem:** [3]                  |                |
+| – Amandelmeel                   | 15 g           |
 
 <div style="page-break-before: always;"></div>
 
-| **Ingrediëntentabel:**          | Ø 24 cm        | Ø 18 cm        |
-|---------------------------------|:--------------:|:--------------:|
-| **Vulling:**                    |                |                |
-| Appels (vulling)                | 1000 g         | 500 g          |
-| Abrikozenpuree                  | 100g           | 50 g           |
-| Suiker [5]                      | naar smaak     | naar smaak     |
-| Custardpoeder [6]               | 35 g           | 20 g           |
-| Rozijnen (optie)                | 80 g           | 45 g           |
-| Rasp limoen/citroen/... (optie) | 2 g            | 1,2 g          |
-| **Toplaag:**                    |                |                |
-| Appels (toplaag)                | 300 g          | 175 g          |
-| Kaneel                          | 1,5 g          | 0,8 g          |
-| **Afwerking:**                  |                |                |
-| Abrikozenjam (goed warm)        | 100 g          | 50 g           |
-| Poedersuiker                    | 5–8 g          | 3–4,5 g        |
+| **Ingrediëntentabel:**          | Ø 24 cm        |
+|---------------------------------|:--------------:|
+| **Vulling:**                    |                |
+| - Appels (vulling)              | 1000 g         |
+| - Abrikozenpuree                | 100g           |
+| - Suiker [5]                    | naar smaak     |
+| - Custardpoeder [6]             | 35 g           |
+| - Rozijnen (optie)              | 80 g           |
+| - Rasp limoen/citroen/...       | 2 g            |
+| **Toplaag:**                    |                |
+| - Appels (toplaag)              | 300 g          |
+| - Kaneel                        | 1,5 g          |
+| **Afwerking:**                  |                |
+| - Abrikozenjam (goed warm)      | 100 g          |
+| - Poedersuiker                  | 5–8 g          |
 
 Noten:
 - [1]:  
@@ -109,11 +109,12 @@ Noten:
 
 ### 3. Deeg klaarmaken
 **Acties:** Meng deeg-ingrediënten tot een harde wenerdeeg:
-  - haal boter en ei uit koelkast, en draai tot het ei weg is (een geheel is met de boter).  
+  - haal boter en ei uit koelkast, en draai (kort) tot het ei weg is (een geheel is met de boter).  
   - doe de vaste stof erbij, en draai zo'n 3-4 minuten (stand: laag/midden); luister naar het geluid en stop als dat verandert.  
   - test het deeg: pak een beetje deeg, vorm het tot een rolletje en buig het om. Het mag niet breken.  
   - als het wel breekt: meng het deeg nog 10 seconde en test opnieuw - doe dit net zolang tot het deeg ombuigt.  
   - als het deeg wat slap aanvoelt zet je hem nog 10-15 minuten in de koelkast.  
+  - laat deeg een kwartiertje of zo rusten zodat het bij het uitrollen niet scheurt.
 
 **Resultaat:** Een stevig, koel en samenhangend deeg dat niet plakt aan de werkbank.  
 **Tips:**  
@@ -132,25 +133,27 @@ Noten:
 **Tips:**  
 - Gebruik lineaal en pizzames om te meten en te snijden.  
 - Gebruik bloem op werkbank en plaatje om plakken te voorkomen.  
-- Direct uitrollen na het kneden kan scheuren veroorzaken.  
+- Laat deeg rusten voor het uitrollen - direct uitrollen na het kneden kan scheuren veroorzaken.  
 - Dek af met folie om uitdrogen te voorkomen.  
+- Gebruik latjes van 3-4 mm dik om het deeg op de juiste hoogte uit te rollen.
 - Zeker niet te dik uitrollen om te voorkomen dat je meer deeg dan appel hebt.
 
 ### 5. Vorm bekleden
 **Actie:**.  
   - Rol (de rest van) het deeg (weer) uit tot een rondje dat net groter is dan de diameter van de vorm.  
   - Steek een cirkel uit met de ring; bewaar de rest voor decoratie of ander gebruik.  
-  - Beweeg de ring met de cirkel erin over de werkbank zodat hij links en rechts 3-4 mm kleiner wordt.  
+  - Beweeg de ring met de cirkel erin over de werkbank zodat hij links en rechts net iets minder dan 3-4 mm kleiner wordt.  
   - Vet de bakvorm (ring) goed in.  
   - Haal de stukken deeg voor de ring uit de vriezer.  
   - Bekleed de ring met die stukken deeg zodat ze (heel) strak aansluiten.  
-  - Leg de cirkel erin en zorg dat die aansluit op de ring.  
+  - Leg de cirkel erin en zorg dat die goed aansluit op de ring.  
 
 **Resultaat:** Een nette, vlakke bodem die strak aansluit op de randen (en wat restdeeg).  
 **Toets:** Controleer of het deeg niet scheurt en mooi aansluit op de ring; er mag geen luchtkussen onder zitten.  
 **Tips:**  
   - Gebruik bloem op werkbank om plakken te voorkomen.  
   - Snij overtollig deeg pas af als het in de vorm ligt.  
+  - Gebruik latjes van 3-4 mm dik om het deeg op de juiste hoogte uit te rollen.
   - Zeker niet te dik uitrollen om te voorkomen dat je meer deeg dan appel hebt.  
 
 ### 6. Bodem voorbereiden
