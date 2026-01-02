@@ -5,15 +5,16 @@ Dit is een recept voor 7-8 personen. Je kunt dat in verschillende vormen maken:
 - 1x Ronde vorm Ø24 cm (h≈3,7 cm);
 - 2x ronde vorm Ø18,5 cm (h≈3,1 cm, waarbij je bijv. 1x klassiek en 1x met banketbakkersroom doet).
 
-## 1. Basisdeeg
+## 1. Basisdeeg = harde wener deeg
 - Bloem:             300 g  
-- Boter:             200 g (koud)  
+- Boter:             150 g (koud)  
 - Suiker:            75 g (niet te zoet)
 - Ei:                50 g (≈1 M ei, zonder schaal)  
+- Bakpoeder          4 g
 - Zout:              2 g  
 - Citroenrasp:       2 g (van ½ citroen)  
 
-**Stap**: Kneed kort tot deeg (bijv. in keukenmachine) → 30 min koelen → gebruik ⅔ voor bodem, ⅓ voor raster.
+**Stap**: Kneed kort tot deeg (bijv. in keukenmachine) totdat een 'worstje' niet meer breekt maar meebuigt → 30 min koelen → gebruik ⅔ voor bodem, ⅓ voor raster.
 
 ---
 

@@ -1,31 +1,31 @@
-# Appeltaart (a la Robert - Samenvatting)
+# Appeltaart (a la Rieks - Samenvatting)
 
-| Appeltaart a la Robert            |    Ø 24 cm      |    Ø 18 cm      |
+| Appeltaart a la Rieks             |    Ø 24 cm      |    Ø 18 cm      |
 | --------------------------------- | :-------------: | :-------------: |
-| Totaal appels (schoongemaakt)     | 1400 g (1900*)  | 700 g (950*)    |
+| Totaal appels (schoongemaakt)     | 1400 g (1900*)  | 600 g (900*)    |
 | Gewicht/volume taart (totaal)     | ≈ 2,35 kg / 2 l | ≈ 1,2 kg / 1 l  |
-| Uitsnijden randen [h x l] (cm)    | 2 x [4,5 x 39]  | 2 x [4 x 30]    |
+| Uitsnijden randen [h x l] (cm)    | 2 x [4,5 x 39]  | 2 x [3,5 x 30]  |
 | <br>***Richttijden***             |                 |                 |
 | – Start (200 °C) / Garen (185 °C) |  20 / 20  min   |  20 / 16 min    |
 | <br>**Deeg**                      |                 |                 |
-| - Ei                              | 50 g (1 M)      | 25 g (~½ M)     |
-| - Boter, koud                     | 150 g           | 75 g            |
+| - Ei (koud)                       | 50 g (1 M)      | 25 g (~½ M)     |
+| - Boter (koud)                    | 150 g           | 75 g            |
 | - Tarwebloem                      | 300 g           | 150 g           |
 | - Bakpoeder                       | 4 g             | 2 g             |
-| - (Gele Basterd)suiker            | 100 g           | 50 g            |
+| - Suiker (mag basterd zijn)       | 100 g           | 50 g            |
 | - Snuf zout                       | 2 g             | 1 g             |
 | - Rasp limoen/citroen/...         | 2 g             | 1 g             |
 | **Bodem:**                        |                 |                 |
 | – Amandelmeel                     | 25 g            | 12,5 g          |
 | **Vulling:**                      |                 |                 |
-| - Appels (vulling)                | 1100 g          | 550 g           |
+| - Appels (vulling)                | 1150 g          | 500 g           |
 | - Suiker                          | naar smaak      | naar smaak      |
-| - Abrikozenpuree                  | 100 g           | 50 g            |
+| - Abrikozenpuree                  | 80 g            | 40 g            |
 | - Custardpoeder                   | 35 g            | 17,5 g          |
 | - Rozijnen (optie)                | 80 g            | 40 g            |
 | - Rasp limoen/citroen/... (optie) | 2 g             | 1 g             |
 | **Toplaag:**                      |                 |                 |
-| - Appels (toplaag)                | 300 g           | 150 g           |
+| - Appels (toplaag)                | 250 g           | 100 g           |
 | - Kaneel                          | 1,5 g           | 0,75 g          |
 | **Afwerking:**                    |                 |                 |
 | - Abrikozenjam (goed warm)        | 100 g           | 50 g            |
@@ -36,44 +36,42 @@
 
 ## Bereiding
 
-### 1. Voorbereiden (Mise en place)
-- Snij de boter in blokjes, en doe terug in de koelkast (zet er het eitje meteen bij).  
-- Zeef tarwebloem en bakpoeder in een bak, doe daar de suiker, zout en limoen/citroen/... rasp bij.  
-- Doe de (amandel/haver/paneer)meel voor de bodem, de abrikozenpuree, custardpoeder, rozijnen en de kaneel in aparte bakjes.  
-- Schil de appels, snij ze door de helft, haal de klokhuizen e.d. en de rotte plekken eruit.
-  - Als de appels erg/te sappig zijn snij ze dan in (niet te kleine) stukjes, meng er 10% suiker (en evt. wat citroensap) door en laat ze uitlekken.  
-  - Als de appels niet zo sappig zijn, wel dan de rozijnen (zo'n 20 minuten in lauw-warm water).  
-- Verwarm (als laatste) de oven alvast voor op 200 °C.  
+### 1. Appels voorbereiden (30-50 min)
+- Schil de appels, klokhuis en rotte plekken eruit, snij in kleine stukjes.
+- Bij sappige appels: voeg 10% suiker en wat citroensap toe en laat uitlekken (minstens 30 min).  
+- Bij niet sappige appels: Wel de rozijnen.  
 
-### 2. Deeg klaarmaken (wordt een harde wenerdeeg)
-- haal boter en ei uit koelkast, en draai (kort) tot het ei weg is (een geheel is met de boter).  
-- doe de vaste stof erbij, en draai zo'n 3-4 minuten (stand: laag/midden); luister naar het geluid en stop als dat verandert.  
-- test het deeg: een rolletje deeg moet buigzaam zijn - het mag niet breken. Draai anders nog 10 seconden door en herhaal deze stap.  
-- als het deeg wat slap aanvoelt zet je hem nog 10-15 minuten in de koelkast.  
+### 2. Deeg klaarmaken (wordt een harde wenerdeeg - 20-25 min)
+- Snij de (koude) boter in blokjes, voeg (koud) ei, suiker, zout en rasp toe, en draai (kort) tot het ei weg is (een geheel is met de boter).  
+- Zeef intussen bloem en bakpoeder in aparte bak, en voeg die toe zodra het ei weg is gedraaid.
+- Draai zo'n 3-4 minuten (stand: laag/midden) tot een rolletje deeg niet meer breekt, maar meebuigt.  
+- Zet het deeg in de koelkast.  
 
-### 3. Vorm bekleden
-- Rol het deeg uit tot 3–4 mm dik en snij 2 stukken uit ter grootte *h*x*l* om de ring mee te bekleden.  
-- Leg de stukken op een (met bloem licht bestoven) plaatje (kartonnetje) en dan 5 min. in de vriezer.  
-- Rol (de rest van) het deeg (weer) uit (3-4 mm dik) tot een rondje dat net groter is dan de diameter van de vorm.  
-- Steek een cirkel uit met de ring; bewaar de rest voor decoratie of ander gebruik.  
-- Vet de bakvorm (ring) goed in.  
-- Bekleed de ring met die stukken deeg uit de vriezer, zodanig dat ze (heel) strak aansluiten.  
-- Leg de cirkel erin en zorg dat die aansluit op de deegstukken in de ring.  
+### 3. Vorm bekleden (15 min)
+- Rol 2/3 van het deeg uit tot 3–4 mm dik, snij 2 rechthoeken uit ter grootte *h*x*l*, en dan 5 min. in de vriezer.  
+- Rol al het deeg (weer) uit (3-4 mm dik), snij een rondje uit met de vorm/ring en doe de rest in de koelkast.  
+- Vet de bakring goed in, bekleed de ring met die stukken deeg uit de vriezer, zodanig dat ze (heel) strak aansluiten.  
+- Leg de ring op geperforeerd siliconen/bakplaat, leg dan de cirkel erin en zorg dat die aansluit op de deegstukken in de ring.  
 - Bedek de bodem met een laagje amandelmeel.  
 
-### 4. Vulling maken
+### 4. Vulling maken (5 min)
 - Hou appelstukjes voor de toplaag apart als je dat wilt.  
-- Meng appel stukjes voor de vulling met abrikozenpuree, custard, en de optionele ingredienten (rozijnen, limoen/citroenrasp, e.d.).  
-- Meng stevig met je handen tot een gelijkmatige, stevige, massa.  
-- Als de massa te drassig is voeg je kleine beetjes suiker toe tot de vulling licht plakkerig is maar niet drassig (suiker onttrekt vocht aan appels).  
-- Proef de vulling: voeg naar smaak beetjes suiker toe om zoet-zuur in de door jou gewenste balans te brengen.  
-- Vul de deegvorm met de gemengde appelvulling en druk stevig aan, zodat de taart straks makkelijk snijdt.  
-- Strooi de appelstukken voor de toplaag over de vulling zodat het lijkt alsof de vulling er nonchalant is ingegooid; druk licht aan.  
-- Bestrooi de bovenkant licht met de kaneel (optioneel).  
+- Meng appel stukjes voor de vulling met abrikozenpuree, custard, rozijnen, en evt. limoen/citroenrasp.  
+- Meng stevig met je handen tot een gelijkmatige, stevige, niet drassige massa.  
+- **PROEF de vulling** en voeg zo nodig suiker/zuur/... toe om de be ste smaak te krijgen.  
 
-### 5. Bakken
-- Plaats de taartvorm in het midden van de oven.  
-- Startfase: bak 20 min. op **200 °C** (boven-/onderwarmte) tot de rand goud begint te kleuren.  
+<div style="page-break-before: always;"></div>
+
+### 5. Taart opbouwen (5-20 min (latjes duurt het langst))
+- Verwarm de oven voor tot 230 °C. 
+- Vul de deegvorm met de gemengde appelvulling en laagjes kaneel, en druk stevig aan.  
+- Optie: Maak toplaag met appelstukjes zodat ze er nonchalant in lijken gegooid, en druk licht aan.  
+- Optie: Bestrooi de bovenkant licht met de kaneel.  
+- Optie: Haal restdeeg uit de koelkast, snij er latjes van en leg die over de taart
+
+### 6. Bakken (35-55 min)
+- Zet de siliconenmat op een rooster (of bakplaat met gaatjes) in het midden van de oven.  
+- Startfase: bak 20 min. op **220 °C** (boven-/onderwarmte) tot de rand goud begint te kleuren.  
 - Gaarfase: verlaag naar **185 °C**, bak tot de appels gaar, en de korst goudbruin is (zie tabel voor **richttijd**).  
 - De taart is klaar als:  
   - De rand is stevig en goudbruin, de appels zijn zacht maar niet papperig.  
@@ -81,7 +79,7 @@
   - De taart voelt stabiel aan bij lichte druk op de bovenkant.  
 - Zo niet verlaag temperatuur naar **175 °C** (nagaar-fase) en check elke 5 min. totdat de taart klaar is.
 
-### 6. Afkoelen, lossen eņ afwerken
+### 7. Afkoelen, lossen eņ afwerken
 - haal taart uit oven en druk meteen de zijkanten voorzichtig naar beneden tot aan de rand van de ring.  
 - als de taart iets is afgekoeld kan de ring eraf en koel verder af tot kamertemperatuur.  
 - glazuur de taart met warme abrikozenjam of abrikozengelei (deppend aanbrengen, flink veel - niet 'schilderen').  

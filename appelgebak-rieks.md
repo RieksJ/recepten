@@ -1,4 +1,4 @@
-# Appeltaart (a la Robert)
+# Appeltaart (a la Rieks)
 
 Dit recept levert een klassieke appeltaart met een knapperige, boterige bodem en een zachte appelvulling, licht gezoet en op smaak gebracht met een beetje abrikozenpuree en rozijntjes.  
 
