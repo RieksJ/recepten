@@ -60,8 +60,8 @@
 2. Eieren splitsen: dooiers in een kom, eiwitten in vetvrije kom.  
 3. Ingrediënten in aparte bakjes klaarzetten voorkomt stress en fouten:
    - Voor dooiermengsel:
-      1. Doe de boter en citroenrasp in een bakje, laat die op kamertemperatuur (20-22 °C) komen (liefst niet in de magnetron).
-      2. Suiker (dooiermengsel) en vanille extract in een bakje - zie tips.
+      1. Doe de boter en citroenrasp in een bakje op kamertemperatuur (20-22 °C).
+      2. Suiker (voor dooiermengsel) en vanille extract in een bakje - zie tips.
    - Voor eiwitmengsel:
       1. Bakje met zout (eiwitten).  
       2. Bakje met suiker (eiwitten) apart.
