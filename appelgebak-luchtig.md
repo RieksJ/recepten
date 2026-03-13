@@ -17,9 +17,8 @@ Leerdoel bij stap
 
 Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meerdere bakvormen.  
 
-**Bewaren:** luchtdicht 2 dagen op kamertemperatuur, 4 dagen in koelkast, tot 3 maanden in diepvries.  
-**Ontdooien:** eerst in de koelkast.  
-**Gebruik:** bij koffie/thee of als nagerecht met slagroom of hangop.
+**Bewaren:** kamertemperatuur (luchtdicht): 2 dagen, koelkast: 4 dagen; diepvries: 3 maanden.  
+**Ontdooien:** eerst 12 uur of meer in de koelkast zetten.  
 
 ## Eindproduct-tabel
 
@@ -42,29 +41,29 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 | Appels, geschild       | 450 g         | 675 g         | 900 g         | 900 g         | 1350 g        | 2250 g        |
 | Rozijnen (optie)       | 60 g          | 90 g          | 120 g         | 120 g         | 180 g         | 300 g         |
 | **Droog mengsel**      |               |               |               |               |               |               |
-| Amandelmeel            | 100 g  (50 g) | 150 g  (75 g) | 200 g (100 g) | 200 g (100 g) | 300 g (150 g) | 475 g (225 g) |
-| Bloem                  | 100 g (150 g) | 150 g (225 g) | 200 g (300 g) | 200 g (300 g) | 300 g (450 g) | 525 g (775 g) |
-| Bakpoeder, gezeefd     | 8 g    (10 g) | 12 g   (15 g) | 16 g   (20 g) |  20 g  (20 g) |  30 g  (52 g) | 52 g   (60 g) |
+| Amandelmeel            | 100 g<br>  (50 g) | 150 g<br>  (75 g) | 200 g<br> (100 g) | 200 g<br> (100 g) | 300 g<br> (150 g) | 475 g<br> (225 g) |
+| Bloem                  | 100 g<br> (150 g) | 150 g<br> (225 g) | 200 g<br> (300 g) | 200 g<br> (300 g) | 300 g<br> (450 g) | 525 g<br> (775 g) |
+| Bakpoeder, gezeefd     | 8 g<br>    (10 g) | 12 g<br>   (15 g) | 16 g<br>   (20 g) |  20 g<br>  (20 g) |  30 g<br>  (52 g) | 52 g<br>   (60 g) |
 | Zout                   | 1,2 g         | 1,8 g         | 2,4 g         | 2,4 g         | 3,6 g         | 6,0 g         |
 | Kaneelpoeder (optie)   | 3 g           | 4,5 g         | 6 g           | 6 g           | 9 g           | 15 g          |
 | **Dooiermengsel**      |               |               |               |               |               |               |
-| Eidooiers              | 72 g (4 M)    | 108 g (6 M)   | 144 g (8 M)   | 144 g (8 M)   | 216 g (12 M)  | 360 g (20 M)  |
+| Eidooiers              | 72 g<br> (4 M)    | 108 g<br> (6 M)   | 144 g<br> (8 M)   | 144 g<br> (8 M)   | 216 g<br> (12 M)  | 360 g<br> (20 M)  |
 | Boter, zacht           | 65 g          | 98 g          | 130 g         | 130 g         | 195 g         | 325 g         |
 | Citroenrasp (optie)    | 1,5 g         | 2,3 g         | 3,0 g         | 3,0 g         | 4,5 g         | 7,5 g         |
 | Suiker (as/ds - ds)    | 33/45 - 65 g | 68/50 - 98 g | 90/67 - 130 g | 90/67 - 130 g | 135/100 - 195 g | 225/167 - 325 g |
 | Vanille-extract *)     | 2,0 g         | 3,0 g         | 4,0 g         | 4,0 g         | 6,0 g         | 10,0 g        |
 | **Eiwitschuim**        |               |               |               |               |               |               |
-| Eiwitten               | 148 g (4 M)   | 222 g (6 M)   | 296 g (8 M)   | 296 g (8 M)   | 444 g (12 M)  | 740 g (20 M)  |
+| Eiwitten               | 148 g<br> (4 M)   | 222 g<br> (6 M)   | 296 g<br> (8 M)   | 296 g<br> (8 M)   | 444 g<br> (12 M)  | 740 g<br> (20 M)  |
 | Eiwitsuiker            | 50 g          | 75 g          | 100 g         | 100 g         | 150 g         | 250 g         |
 | Eiwitzout              | 0,6 g         | 0,9 g         | 1,2 g         | 1,2 g         | 1,8 g         | 3,0 g         |
 | **Diversen**           |               |               |               |               |               |               |
 | Inhoud eiwit klopkom   | ≥ 0,6 l       | ≥ 0,9 l       | ≥ 1,2 l       | ≥ 1,2 l       | ≥ 1,8 l       | ≥ 3 l         |
 | Volume eischuim        | ≈ 400 ml      | ≈ 600 ml      | ≈ 800 ml      | ≈ 800 ml      | ≈ 1200 ml     | ≈ 2000 ml     |
 
-**opmerkingen**
-> De suiker is genoteerd als `vs/ds - ds`, waarbij `vs` (appelsuiker) de suiker is die je met appels mengt om ze te laten uitlekken, en `ds` de hoeveelheid is die je in  het dooiermengsel gebruikt. Zie het hoofdstukje **Suikerhoeveelheden**
-> Je kunt ipv X gram vanille-extract ook X gram vanille-suiker gebruiken, en de 'Suiker (dooiermengsel)' met X gram verminderen.
-> Je kunt spelen met de verhouding amandelmeel:bloem:bakpoeder - zie [appendix](#amandelmeel-bloem-bakpoeder)
+**Opmerkingen**: 
+> - De suiker is genoteerd als "`as/ds - ds`", waarbij "`as`" (appelsuiker) de suiker is die je met appels mengt om ze te laten uitlekken, en `ds` de hoeveelheid is die je in  het dooiermengsel gebruikt. Zie [appendix "Suikerhoeveelheden"](#suikerhoeveelheden).  
+> - Je kunt ipv X gram vanille-extract ook X gram vanille-suiker gebruiken, en de 'Suiker (dooiermengsel)' met X gram verminderen.  
+> - Je kunt spelen met de verhouding amandelmeel:bloem:bakpoeder. Zie [appendix "Amandelmeel/bloem/bakpoeder"](#amandelmeel-bloem-bakpoeder)
 
 ---
 
@@ -74,8 +73,7 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 
 1. **Voorbereidingen en Appels klaarmaken**:
    1. Haal boter en eieren uit de koeling, en laat op kamertemperatuur (20-22 °C) komen (liefst niet in de magnetron).
-   2. Splits alvast de eieren - eidooier in een kom, eiwitten in vetvrije kom (kamertemperatuur).
-   3. Appels en Rozijnen:
+   2. Appels en Rozijnen:
       1. Als de appels (erg) vochtig zijn:
          1. Appels schillen in 3-4 mm plakjes snijden, mengen met de appelsuiker (10% van het appelgewicht) en evt. 0,1-0,2% citroensap, en 30-60 min. laten uitlekken.
          2. Rozijnen (ongeweld) in bakje doen.
@@ -84,21 +82,22 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
          1. Rozijnen 10-15 min. weken in warm water of appelsap, daarna afgieten.
          2. Appels schillen in 3-4 mm plakjes snijden, 10% suiker erbij. Dep droog.  
          3. Rozijnen afgieten en droogdeppen.  
-   4. Bakvorm invetten of bekleden met bakpapier.  
-   5. Oven voorverwarmen op de temperatuur uit de ingrediënten-tabel. 
+   3. Bakvorm invetten of bekleden met bakpapier.  
+   4. Oven voorverwarmen op de temperatuur uit de ingrediënten-tabel. 
+   5. Splits de eieren - eidooier in een kom, eiwitten in vetvrije kom (kamertemperatuur).
 
 2. **Dooiermengsel**:
    1. Klop eidooiers + boter + vanille extract + (aangepaste hoeveelheid) dooiersuiker ±4–6 min tot luchtig en romig. 
    2. Zeef bloem en bakpoeder in aparte bak, voeg amandelmeel, zout en kaneel toe, en meng tot egaal geheel.
    3. Spatel in 2-3 delen door dooiermengsel tot een dik, homogeen beslag zonder droge strepen.  
 
-> Tips:
+> **Tips**:
 > - 4-6 min. op middelhoge stand. Stop zodra het glad en crèmig is; langer heeft geen meerwaarde en kan zelfs schade doen aan de emulsie.  
 > - Niet te lang kloppen — bij >22 °C boter kan het mengsel schiften en volume verliezen.  
 > - Als het mengsel gaat schiften: voeg 1–2 eetlepels van het droge mengsel toe en klop kort door om het te herstellen.  
 > - Spatel niet te lang, om luchtigheid te bewaren.  
 > - Als je geen vanille extract hebt, kun je daarvoor vanillesuiker gebruiken.  
->   X gram vanille extract vervang je door X gram vanillesuiker, en je vermindert de hoeveelheid dooiersuiker dan met X gram.
+> - X gram vanille extract vervang je door X gram vanillesuiker, en je vermindert de hoeveelheid dooiersuiker dan met X gram.
 
 <div style="page-break-before: always;"></div>
 
@@ -108,10 +107,11 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 - deel 2 als het eiwit lobbig is;
 - deel 3 als het schuim bijna stijf is en klop door tot stevig eiwitschuim met glans; de pieken zijn *NET* stevig en zijn nog wat buigzaam, zodat het makkelijker invouwt.  
 
-> Tip: kom moet vetvrij zijn, anders worden eiwitten niet stijf.
-> Tip: Bij grote hoeveelheden is het handig eiwit in/met 2 porties/schalen te werken.  
+> **Tips**:
+> - De kom moet vetvrij zijn, anders worden eiwitten niet stijf.
+> - Bij grote hoeveelheden is het handig eiwit in/met 2 porties/schalen te werken.  
 
-1. **Vouwen**: 2 el schuim door dooiermengsel mengen (familie maken). Rest in 3 delen invouwen - voorzichtig, tot homogeen
+4. **Vouwen**: 2 el schuim door dooiermengsel mengen (familie maken). Rest in 3 delen invouwen - voorzichtig, tot homogeen.
 
 > - eerst 'familie maken': 2 eetlepels schuim door het dooiermengsel mengen om het beslag te 'verlichten', zodat de rest makkelijker mengt.  
 > - het schuim in 3 delen door het dooiermengsel vouwen:
@@ -121,25 +121,24 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 >   - Derde deel: zeer voorzichtig, ±10–20 bewegingen, alleen tot homogeen.
 >   - Stop zodra er geen duidelijke witte strepen meer zijn - overvouwen is het echte risico.
 
-6. **Samenstellen**:
-   - Dun laagje beslag in de vorm, appelrestjes + plakjes + rozijnen.
-   - Herhaal lagen, eindig met appelplakjes bovenop.
+5. **Samenstellen**:
+- Dun laagje beslag in de vorm, appelrestjes + plakjes + rozijnen.
+- Herhaal lagen, eindig met appelplakjes bovenop.
 
-7. **Bakken**: midden van de oven, tijd en temperatuur: zie ingrediënten-tabel, tot een goudbruine taart die slaagt voor de 'prikkertest'.  
+6. **Bakken**: midden van de oven, tijd en temperatuur: zie ingrediënten-tabel, tot een goudbruine taart die slaagt voor de 'prikkertest'.  
 
 > - Controleer vanaf 5 min voor de aangegeven baktijd of het gebak al gaar is (want elke oven is anders).  
 > - Als de prikker er niet droog uitkomt, gewoon 5–10 minuten langer bakken. Dit kun je verschillende malen herhalen (nodig als de appels vochtig zijn).  
 > - Bak door totdat de kern van het gebak 96 °C is.
 > - Als de bovenkant al goudbruin is terwijl je nog doorbakt, dek je het gebak af met aluminiumfolie zodat hij niet verbrandt.
 
-8. **Afkoelen**: 10–15 min in de vorm, dan op rooster volledig laten afkoelen.  
+7. **Afkoelen**: 10–15 min in de vorm, dan op rooster volledig laten afkoelen.  
 
 ---
 
 <div style="page-break-before: always;"></div>
 
 ## Tips
-
 
 1. Gebruik stevige, zure appels (goudrenetten, notarisappelen) voor balans met de cake.  
 2. Plakjes appel altijd 3–4 mm dik: te dik → risico op zompig eindproduct.  
@@ -157,10 +156,10 @@ Luchtig appelgebak met veel appel en amandelmeel, licht zoet, geschikt voor meer
 ## Verhouding amandelmeel/bloem/bakpoeder
 
 Als je de verhouding amandelmeel/bloem verschuift naar meer bloem, dan heeft dat invloed op:
-- **Structuur**: steviger, minder kans op inzakken; het beslag wordt elastischer door meer gluten.
+- **Structuur**: steviger, minder kans op inzakken; meer gluten → elastischer beslag.  
 - **Luchtigheid**: iets minder rijke, zachte kruim, maar stabieler; makkelijker te hanteren.
 - **Smaak**: amandelsmaak wordt subtieler, minder aromatisch (of verdwijnt helemaal).
-- **Hanteerbaarheid**: meer bloem in het beslag maakt makkelijker te hanteren met minder kans op mislukken.
+- **Hanteerbaarheid**: meer bloem → makkelijker hanteren → minder kans op mislukken.
 - **Bakpoeder**: een kleine aanpassing van bakpoeder is nodig om luchtigheid te behouden; je kunt evt. ook een extra eiwit gebruiken.
 
 | a:b    | Bakpoeder | Effect op beslag  | Tips voor luchtigheid & stabiliteit |
@@ -171,8 +170,9 @@ Als je de verhouding amandelmeel/bloem verschuift naar meer bloem, dan heeft dat
 | 75:25  | 4,0 %  | Zeer zacht, rijk, aromatisch   | Beslag kan inzakken; vouw heel voorzichtig, overweeg iets meer eiwit om luchtigheid te ondersteunen |
 | 100:0  | 4,4 %  | Zeer zacht, sterk amandelaroma | Beslag is gevoelig voor inzakken; alleen ervaren leerlingen of met extra voorzichtigheid vouwen |
 
-> a:b = verhouding amandelmeel en bloem.  
-> "bakpoeder" is percentage v/h toaalgewicht van amandelmeel + bloem.
+> **Legenda**:  
+> - a:b = verhouding amandelmeel en bloem.  
+> - "bakpoeder" = percentage van totaalgewicht: amandelmeel + bloem .
 
 ---
 
@@ -217,7 +217,7 @@ Als je de verhouding amandelmeel/bloem verschuift naar meer bloem, dan heeft dat
 
 Als je zeer sappige appels hebt (zoals goudreinetten uit eigen tuin) en wil voorkomen dat je zompig kruim krijgt,
 un je de appelplakjes 'ontvochtigen' door ze eerst met 10% suiker en 0,2-0,4% citroensap te mengen 
-en (minstens!) een half uur uit te laten lekken. De 10% suiker noemen we de `appelsuiker`. 
+en (minstens!) een half uur uit te laten lekken. De 10% suiker noemen we de "`appelsuiker` (as)". 
 
 Door dit te doen wordt het vochtgehalte met ca 8-15% verlaagd, maar je moet dan wel de suikerhoeveelheid weer in balans
 gaan brengen. Dat doen we door de dooiersuiker (niet: de eiwitsuiker) te verlagen met 70% van de gebruikte appelsuiker. 
@@ -259,10 +259,10 @@ Concreet uitgewerkt per eindproduct:
 Een klassiek (en frustrerend) probleem is dat het gebak wel gaar is, maar dat na afkoelen de binnenkant toch zompig is.  
 Dat komt dan niet door te kort bakken, maar door vochtbalans en warmteverdeling.
 
-🔍 Waarschijnlijke oorzaken
+**🔍 Mogelijke oorzaken**:  
 
 1. Appels te vochtig of te dik  
-   → Dikke of natte plakjes (niet droog gedept) geven veel vocht af dat pas ná het bakken uit de kruim trekt.
+   → Dikke of natte plakjes (niet 'ontvochtigd' en niet droog gedept) geven veel vocht af dat pas ná het bakken uit de kruim trekt.
 2. Te dichte appellagen
    → Als de lagen te compact zijn, kan stoom niet ontsnappen; het vocht condenseert bij het afkoelen.
 3. Taart te snel uit de oven
@@ -272,10 +272,11 @@ Dat komt dan niet door te kort bakken, maar door vochtbalans en warmteverdeling.
    → Soms lijkt de bovenkant klaar, maar de onderkant is nog vochtig.  
    Dek af met folie en bak 10–15 min. langer op 160 °C.
 
-💡 Herstel & voorkoming
+**💡 Herstel & voorkoming**:  
 
 Herstel (als het is gebeurd): snijd de taart in punten, leg ze op bakpapier en droog ze 10 min. in de oven op 150 °C.
 
 Volgende keer:
+- Appels ontvochtigen (zie [hoofdstuk: Suikerhoeveelheden](suikerhoeveelheden))
 - Appelplakjes dunner (3 mm) en droogdeppen.
 - Laat de taart in de afkoelende oven staan met de deur op een kier (tot bijna volledig is afgekoeld, ±1–2 uur)

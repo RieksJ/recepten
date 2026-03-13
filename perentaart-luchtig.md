@@ -43,11 +43,14 @@ Het recept is gemaakt voor het verwerken van peren - vandaar dat er best veel pe
     - controleer dat de inhoud van de presentatievorm nog steeds ongeveer gelijk is aan het volume van het eindproduct.
 -->
 
-- 10–12 personen
-- Gewicht: 1580 g, Inhoud: 1,55 L
-- Rond: Ø 24 cm, hoogte ≈ 3,5 cm
-- Rechthoek: 20x20 cm, hoogte ≈ 4 cm
-- Rechthoek: 28x18 cm, hoogte ≈ 3 cm
+- 12–14 personen
+- Rauw totaalgewicht ingrediënten: 2015 g  
+- Rekening houdend met verdamping: 1800 g  
+- Inhoud eindproduct: ≈ 1,80 L
+
+- Rond: Ø 24 cm, hoogte ≈ 4,0 cm (≈ 1,81 L)
+- Rechthoek: 22x22 cm, hoogte ≈ 3,7 cm (≈ 1,79 L)
+- Rechthoek: 30x20 cm, hoogte ≈ 3,0 cm (≈ 1,80 L)
 
 Bewaarmogelijkheden: luchtdicht 2–3 dagen bij kamertemperatuur, tot 5 dagen in de koelkast, of 2 maanden in de vriezer.  
 Gebruiksmogelijkheden: dessert met slagroom of crème fraîche, gebak bij koffie/thee, basis voor een feestelijke taart met extra versiering.
@@ -63,7 +66,7 @@ Gebruiksmogelijkheden: dessert met slagroom of crème fraîche, gebak bij koffie
 -->
 
 - **Peren**  
-  - 1050 g Doyenné du Comice (± 6 middelgrote peren, maat M)  
+  - 1050 g Doyenné du Comice (± 6 middelgrote peren, maat M, geschild en zonder klokhuis)  
   - ca. 800 g in plakjes van 3–4 mm dik  
   - ca. 250 g in blokjes van 10×10 mm  
 
