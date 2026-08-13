@@ -19,6 +19,8 @@ Stabiel genoeg om te storten, maar zacht van structuur.
 - De hoeveelheid eiwit die je overhoudt gebruik je voor het eiwitmengsel.
 - Aan het eiwitmengsel kan je slagroom toevoegen (max. 1,5× eiwitgewicht).
 
+<br/><br/>
+
 | Ingrediënt                     | S               | M                  | L               | XL                 |
 |--------------------------------|:---------------:|:------------------:|:---------------:|:------------------:|
 | **Eindproduct**                |                 |                    |                 |                    |
@@ -95,6 +97,8 @@ Stabiel genoeg om te storten, maar zacht van structuur.
 1. Klop eiwitten (op kamertemperatuur) met suiker tot stevige pieken.  
 2. Als je (koude) slagroom gebruikt: klop die lobbig en vouw **voorzichtig** door de eiwitten.  
 
+<div style="page-break-before: always;"></div>
+
 ### 4️⃣ Samenstellen
 1. Meng elk fruitmengsel met een deel van het eidooiermengsel.  
 2. Vouw daarna het eiwitmengsel luchtig door.  
@@ -110,7 +114,6 @@ Stabiel genoeg om te storten, maar zacht van structuur.
 - Coulis erover druppelen of laagjes in dessertglas (100 g fruit + 15 g suiker, evt. citroensap, kort verwarmen, pureren en zeven).  
 - Dunne slagroomrand langs de rand opspuiten.  
 - Serveer los of in dessertglas.  
-
 
 ---
 
@@ -140,6 +143,8 @@ Stabiel genoeg om te storten, maar zacht van structuur.
 - **Lobbig:** zachte pieken die licht structuur behouden.  
 - **Spatelen:** luchtig mengen met spatel zonder luchtigheid te verliezen.
 - **Vouwen:** heel voorzichtig, met een zachte draaiende beweging van onder naar boven mengen.  
+
+<div style="page-break-before: always;"></div>
 
 ## Combinaties van fruit (of aromaten) die het goed doen
 

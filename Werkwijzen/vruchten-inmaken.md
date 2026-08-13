@@ -1,4 +1,4 @@
-# Vruchten inmaken — Meestereditie
+# Vruchten inmaken
 
 Recept voor het inmaken van allerlei vruchten, zodat ze lange tijd houdbaar blijven.  
 Dit recept gebruikt een minimale hoeveelheid suiker voor langere houdbaarheid.  
@@ -35,6 +35,8 @@ De afwijkingen hierboven worden hierop toegepast (bijv. rijp fruit: 4–5 min; s
 | Hoog Watergehalte / Zachte Vruchten | Aardbei, Meloen, Witte/Rode perzik, Kweepeer, Blauwe pruim |
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## Ingrediënten
 
@@ -85,8 +87,8 @@ De afwijkingen hierboven worden hierop toegepast (bijv. rijp fruit: 4–5 min; s
 
 ## Sterilisaeren van potten (voordat ze worden gebruikt)
 
-| Methode   | Tijd / Temperatuur     | Opmerkingen |
-|----------- |-----------------------|-------------|
+| Methode    | Tijd / Temperatuur     | Opmerkingen |
+| ---------- | ---------------------- | ----------- |
 | Waterbad   | 10 min. koken          | Laat drogen op een schone doek; potten mogen elkaar niet raken. |
 | Oven       | 10 min. op 120 °C      | Rubber niet in oven; apart 10 min. in kokend water. |
 | Magnetron  | 1–2 min. op hoog vermogen | Beetje water in pot; pot niet te heet laten worden. |
@@ -95,11 +97,13 @@ De afwijkingen hierboven worden hierop toegepast (bijv. rijp fruit: 4–5 min; s
 
 ---
 
+<div style="page-break-after: always;"></div>
+
 ## Effect van suikerhoeveelheid
 
-| Suiker       | Effect / Gebruik | Houdbaarheid (steriel, ongeopend) |
-|--------------|------------------|-----------------------------------|
-| **15 % (laag)** | Minder zoet, dunne siroop — ideaal voor compote of puree | 6–12 mnd bij kamertemp < 20 °C |
+| Suiker             | Effect / Gebruik                        | Houdbaarheid (steriel, ongeopend) |
+| ------------------ | --------------------------------------- | --------------------------------- |
+| **15 % (laag)**    | Minder zoet, dunne siroop — ideaal voor compote of puree      | 6–12 mnd bij kamertemp < 20 °C |
 | **25–30 % (hoog)** | Dikke siroop, klassiek zoet, direct geschikt als jam of gelei | Tot 12 mnd bij kamertemp < 20 °C |
 
 > 1 g citroenzuur = ± 12 ml citroensap  
@@ -109,20 +113,22 @@ De afwijkingen hierboven worden hierop toegepast (bijv. rijp fruit: 4–5 min; s
 
 ## Bewaar- en houdbaarheidsoverzicht
 
-| Suiker        | Sterilisatie | Opslag / Temperatuur | Houdbaarheid | Opmerkingen |
-|---------------|:------------:|----------------------|--------------|--------------|
-| Laag (15 %)   | Niet         | Kamertemp 15–20 °C   | 1 week       | Kort gebruik |
-| Laag (15 %)   | Wel          | Kamertemp 15–20 °C   | 2 weken      | Gebruik snel na openen |
-| Laag (15 %)   | Wel          | Koelkast 4 °C        | 2–4 weken    | Steriele lepel gebruiken |
-| Hoog (25–30 %)| Niet         | Kamertemp 15–20 °C   | 1 week       | Onveilig op lange termijn |
-| Hoog (25–30 %)| Wel          | Kamertemp 15–20 °C   | 6–12 mnd     | Klassieke jam-structuur |
-| Hoog (25–30 %)| Wel          | Koelkast 4 °C        | 2–3 mnd      | Voor geopende potten |
-| Hoog (25–30 %)| Wel          | Vriezer -18 °C       | 6–12 mnd     | Textuur iets zachter |
+| Suiker        | Sterilisatie | Opslag / Temp.     | Houdbaarheid | Opmerkingen               |
+| ------------- | :----------: | ------------------ | ------------ | ------------------------- |
+| Laag (15 %)   | Niet         | Kamertemp 15–20 °C | 1 week       | Kort gebruik              |
+| Laag (15 %)   | Wel          | Kamertemp 15–20 °C | 2 weken      | Gebruik snel na openen    |
+| Laag (15 %)   | Wel          | Koelkast 4 °C      | 2–4 weken    | Steriele lepel gebruiken  |
+| Hoog (25–30 %)| Niet         | Kamertemp 15–20 °C | 1 week       | Onveilig op lange termijn |
+| Hoog (25–30 %)| Wel          | Kamertemp 15–20 °C | 6–12 mnd     | Klassieke jam-structuur   |
+| Hoog (25–30 %)| Wel          | Koelkast 4 °C      | 2–3 mnd      | Voor geopende potten      |
+| Hoog (25–30 %)| Wel          | Vriezer -18 °C     | 6–12 mnd     | Textuur iets zachter      |
 
 > Verlengen? Kook de inhoud opnieuw kort op en vul steriele potten.  
 > Controleer geur (fris zuur = goed; gistig/muf = weggooien).
 
 ---
+
+<div style="page-break-after: always;"></div>
 
 ## Extra Tips
 
